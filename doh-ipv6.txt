@@ -124,8 +124,8 @@
 2001:de4::102	# dns.twnic.tw
 2001:df7:1d80:44::a	# dns.syaifullah.com
 2001:e68:5040:a7da:d8e7:f548:508b:6346	# fwgw.orangepipc.mywire.org
-2003:180:2:7000:0:4:0:53	# dns.telekom.de
-2003:180:2:8100:0:4:0:53	# dns.telekom.de
+2003:180:2:1000:0:4:0:53	# dns.telekom.de
+2003:180:2:b000:0:4:0:53	# dns.telekom.de
 2003:4:e0b0:102:0:4:0:53	# dns.t53.de
 2003:5f:c010:1:212:185:200:25	# dns1.conne.net
 2400:3200::1	# dns.alidns.com
@@ -622,7 +622,6 @@
 2a03:7900:2:0:31:3:104:161	# nat64.tuxis.nl
 2a03:90c0:4c0:2903::49	# dns0.eu
 2a03:90c0:4c0:2903::49	# kids.dns0.eu
-2a03:90c0:4c0:2903::49	# open.dns0.eu
 2a03:90c0:4c0:2903::49	# zero.dns0.eu
 2a03:94e0:1804::1	# ns4.opennameserver.org
 2a03:94e0:271f::5b1	# trf01.dnscry.pt
@@ -637,7 +636,6 @@
 2a03:d780:0:196::3e84:56af	# sto01.dnscry.pt
 2a03:f80:40:639d::1	# dns0.eu
 2a03:f80:40:639d::1	# kids.dns0.eu
-2a03:f80:40:639d::1	# open.dns0.eu
 2a03:f80:40:639d::1	# zero.dns0.eu
 2a04:5200:ff00::2fd	# dns.nas-server.ru
 2a04:52c0:101:75::75	# doh.nl.ahadns.net
@@ -715,7 +713,7 @@
 2a0a:be80::cbe:4445	# cubedns.com
 2a0c:3d00:11:6942:5:180:59:37	# nsc.torgues.net
 2a0c:59c0:19::3	# nl-ams.doh.sb
-2a0c:8901::53	# dns.dnshome.de
+2a0c:8902::53	# dns.dnshome.de
 2a0c:8fc0:1749:66:18::16	# muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34	# tyo01.dnscry.pt
 2a0c:8fc1:8004:553::145a:bbf9	# syd01.dnscry.pt

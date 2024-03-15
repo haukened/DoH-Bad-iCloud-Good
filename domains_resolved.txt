@@ -1722,8 +1722,6 @@ one.one.one.one
 one.one.one.one
 open.dns0.eu
 open.dns0.eu
-open.dns0.eu
-open.dns0.eu
 opencdn.jomodns.com
 opencdn.jomodns.com
 opencdn.jomodns.com
@@ -1750,6 +1748,7 @@ ordns.he.net
 ordns.he.net
 orpi.privado.ovh
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 outdoorchair.us
 outdoorchair.us
