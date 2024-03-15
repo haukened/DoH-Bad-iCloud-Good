@@ -6,9 +6,16 @@ import sys
 
 from signal import signal, SIGINT
 from urllib.request import urlretrieve
+from multiprocessing.pool import ThreadPool
 
 DOMAIN_LIST_URL="https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains_overall.txt"
 DOMAIN_PRETTY="https://github.com/dibdot/DoH-IP-blocklists"
+
+# global variables
+ipv4_entries = []
+ipv6_entries = []
+error_domains = []
+success_domains = []
 
 def log(msg: str) -> None:
     print(f"::: {msg}")
@@ -50,21 +57,12 @@ def write_domains(filename: str, entries: list[str], comment: str = "") -> None:
         for entry in entries:
             f.write(f"{entry}\n")
 
-def signal_handler(sig, frame) -> None:
-    print('\nCtrl+C caught. Exiting.')
-    sys.exit(0)
-
-if __name__ == "__main__":
-    signal(SIGINT, signal_handler)
-    tmpfile = download_domains()
-    domains = read_domains(tmpfile)
-    ipv4_entries = []
-    ipv6_entries = []
-    error_domains = []
-    success_domains = []
-    total = len(domains)
-    for idx, domain in enumerate(domains):
-        print(f"::: resolving domain {idx+1:4}/{total:4} - {domain}", end="\r")
+def resolve_domains(domains: list[str]):
+    # create a thread pool to concurrently lookup domains
+    # and side-step the global interpreter lock
+    pool = ThreadPool(min(250, len(domains)))
+    # define a work function for the pool
+    def resolve(domain: str):
         try:
             entries = socket.getaddrinfo(domain, 443, proto=socket.IPPROTO_TCP)
             for entry in entries:
@@ -77,14 +75,28 @@ if __name__ == "__main__":
                 success_domains.append(domain)
         except Exception as e:
             error_domains.append(domain)
-    print("\n")
-    log("saving domains success/error")
+    # run the pool
+    pool.map(resolve, domains)
+    # sort the results
+    ipv4_entries.sort()
+    ipv6_entries.sort()
+    success_domains.sort()
+    error_domains.sort()
+
+def signal_handler(sig, frame) -> None:
+    print('\nCtrl+C caught. Exiting.')
+    sys.exit(0)
+
+if __name__ == "__main__":
+    signal(SIGINT, signal_handler)
+    tmpfile = download_domains()
+    domains = read_domains(tmpfile)
+    log("resolving domains...")
+    resolve_domains(domains)
+    log(f"{len(success_domains)} IP addresses resolved / {len(error_domains)} domains abandoned")
     write_domains("domains_resolved.txt", success_domains, "Successfully resolved domains")
     write_domains("domains_abandoned.txt", error_domains, "Domains without DNS entries")
-    log("saving IPv4 blacklist")
-    ipv4_entries.sort()
+    log("saving blacklists")
     write_blacklist("doh-ipv4.txt", ipv4_entries)
-    log("saving IPv6 blacklist")
-    ipv6_entries.sort()
     write_blacklist("doh-ipv6.txt", ipv6_entries)
     print("Done")
