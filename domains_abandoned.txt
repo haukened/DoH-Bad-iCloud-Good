@@ -1,4 +1,4 @@
-# Domains without DNS entries
+# unresolved domains, presumed abandoned
 1.xhr0no.my
 a-bld.sys-adm.in
 ad-dns.lista.my.id
