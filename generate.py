@@ -5,17 +5,12 @@ import socket
 import sys
 
 from signal import signal, SIGINT
+from tqdm import tqdm
 from urllib.request import urlretrieve
-from multiprocessing.pool import ThreadPool
+from multiprocessing.pool import Pool
 
 DOMAIN_LIST_URL="https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains_overall.txt"
 DOMAIN_PRETTY="https://github.com/dibdot/DoH-IP-blocklists"
-
-# global variables
-ipv4_entries = []
-ipv6_entries = []
-error_domains = []
-success_domains = []
 
 def log(msg: str) -> None:
     print(f"::: {msg}")
@@ -37,52 +32,57 @@ def read_domains(filepath: str) -> list[str]:
     log(f"downloaded {len(lines)} domains")
     return lines
 
-def write_blacklist(filename: str, entries: list[tuple[str, str]], comment: str = "") -> None:
+def write_blacklist(filename: str, entries: dict[str,list[str]], comment: str = "", padding: int = 20) -> None:
     if len(entries) == 0:
         log(f"{filename}: no entries to write")
         return
+    d = dict(sorted(entries.items()))
     with open(filename, "w") as f:
         if len(comment) > 0:
             f.write(f"# {comment}\n")
-        for entry in entries:
-            f.write(f"{entry[0]}\t# {entry[1]}\n")
+        for (ip, domains) in d.items():
+            f.write(f"{ip.ljust(padding)} # {' '.join(domains)}\n")
 
-def write_domains(filename: str, entries: list[str], comment: str = "") -> None:
-    if len(entries) == 0:
+def write_domains(filename: str, entries: set[str], comment: str = "") -> None:
+    domains_sorted = sorted(entries)
+    if len(domains_sorted) == 0:
         log(f"{filename}: no entries to write")
         return
     with open(filename, "w") as f:
         if len(comment) > 0:
             f.write(f"# {comment}\n")
-        for entry in entries:
+        for entry in domains_sorted:
             f.write(f"{entry}\n")
 
-def resolve_domains(domains: list[str]):
+def flatten(xss):
+    # this flattens a list of lists into a single list
+    return [x for xs in xss for x in xs]
+
+# define a work function for the pool
+def resolve(domain: str) -> list[tuple[str,str,socket.AddressFamily]]:
+    results = []
+    try:
+        entries = socket.getaddrinfo(domain, 443, proto=socket.IPPROTO_TCP)
+        for entry in entries:
+            family = entry[0]
+            addr = entry[4][0]
+            results.append((domain, addr, family))
+    except:
+        results.append((domain, '-', socket.AddressFamily.AF_UNSPEC))
+    finally:
+        return results
+
+def resolve_domains(domains: list[str]) -> list[tuple[str,str,socket.AddressFamily]]:
     # create a thread pool to concurrently lookup domains
     # and side-step the global interpreter lock
-    pool = ThreadPool(min(250, len(domains)))
-    # define a work function for the pool
-    def resolve(domain: str):
-        try:
-            entries = socket.getaddrinfo(domain, 443, proto=socket.IPPROTO_TCP)
-            for entry in entries:
-                family = entry[0]
-                addr = entry[4][0]
-                if family == socket.AddressFamily.AF_INET:
-                    ipv4_entries.append((addr, domain))
-                elif family == socket.AddressFamily.AF_INET6:
-                    ipv6_entries.append((addr, domain))
-                success_domains.append(domain)
-        except Exception as e:
-            error_domains.append(domain)
-    # run the pool
-    pool.map(resolve, domains)
-    # sort the results
-    ipv4_entries.sort()
-    ipv6_entries.sort()
-    success_domains.sort()
-    error_domains.sort()
-
+    with Pool(10) as pool:
+        with tqdm(total=len(domains), leave=False) as pbar:
+            def progress(_):
+                pbar.update()
+            async_results = [pool.apply_async(resolve, args=(domain,), callback=progress) for domain in domains]
+            results = [async_result.get() for async_result in async_results]
+            return flatten(results)
+            
 def signal_handler(sig, frame) -> None:
     print('\nCtrl+C caught. Exiting.')
     sys.exit(0)
@@ -92,11 +92,31 @@ if __name__ == "__main__":
     tmpfile = download_domains()
     domains = read_domains(tmpfile)
     log("resolving domains...")
-    resolve_domains(domains)
-    log(f"{len(success_domains)} IP addresses resolved / {len(error_domains)} domains abandoned")
-    write_domains("domains_resolved.txt", success_domains, "Successfully resolved domains")
-    write_domains("domains_abandoned.txt", error_domains, "Domains without DNS entries")
-    log("saving blacklists")
-    write_blacklist("doh-ipv4.txt", ipv4_entries)
-    write_blacklist("doh-ipv6.txt", ipv6_entries)
+    results = resolve_domains(domains)
+    log("processing domains...")
+    abandoned_domains = set()
+    processed_domains = set()
+    ipv4_addrs: dict[str,list[str]] = {}
+    ipv6_addrs: dict[str,list[str]] = {}
+    for (domain, addr, family) in tqdm(results, unit="domains", leave=False):
+        match family:
+            case socket.AddressFamily.AF_UNSPEC:
+                abandoned_domains.add(domain)
+            case socket.AddressFamily.AF_INET:
+                e = ipv4_addrs.get(addr, [])
+                e.append(domain)
+                ipv4_addrs[addr] = e
+                processed_domains.add(domain)
+            case socket.AddressFamily.AF_INET6:
+                e = ipv6_addrs.get(addr, [])
+                e.append(domain)
+                ipv6_addrs[addr] = e
+                processed_domains.add(domain)
+            case _:
+                continue
+    log("saving domains...")
+    write_domains("domains_abandoned.txt", abandoned_domains, "unresolved domains, presumed abandoned")
+    write_domains("domains_resolved.txt", processed_domains, "domains processed into block list")
+    write_blacklist("doh_ipv4.txt", ipv4_addrs, "IPv4 DoH IP addresses", 20)
+    write_blacklist("ipv6_ipv6.txt", ipv6_addrs, "IPv6 DoH IP addresses", 40)
     print("Done")
