@@ -12,3 +12,5 @@ Yes!  Though if you're an enterprise user, you may want to block iCloud. If so h
 
 ## You sound like a crazy person!
 Yes.
+
+![Spongebob](https://i.giphy.com/3o7abKhOpu0NwenH3O/giphy.gif)
