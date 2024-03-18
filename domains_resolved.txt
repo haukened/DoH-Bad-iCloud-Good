@@ -344,6 +344,7 @@ dns.lgprk.com
 dns.linkr.ninja
 dns.lista.my.id
 dns.lvolland.fr
+dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
@@ -408,7 +409,6 @@ dns.shecan.ir
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -656,7 +656,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 dtw01.dnscry.pt
-dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com

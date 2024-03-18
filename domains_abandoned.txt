@@ -58,7 +58,6 @@ dns.itdept.pro
 dns.jucker.engineering
 dns.lightmaster.pw
 dns.lsho.top
-dns.maolaohei.xyz
 dns.mipauns.com
 dns.ndo.dev
 dns.nixnet.xyz
@@ -68,6 +67,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.uplenk.com
@@ -113,6 +113,7 @@ dot.ny.ahadns.net
 dot.pl.ahadns.net
 draco.plan9-ns2.com
 dub01.dnscry.pt
+dukun.de
 ecs-doh.dnswarden.com
 eropa.dnscepat.id
 example.doh.blockerdns.com

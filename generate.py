@@ -117,6 +117,6 @@ if __name__ == "__main__":
     log("saving domains...")
     write_domains("domains_abandoned.txt", abandoned_domains, "unresolved domains, presumed abandoned")
     write_domains("domains_resolved.txt", processed_domains, "domains processed into block list")
-    write_blacklist("doh_ipv4.txt", ipv4_addrs, "IPv4 DoH IP addresses", 20)
-    write_blacklist("ipv6_ipv6.txt", ipv6_addrs, "IPv6 DoH IP addresses", 40)
+    write_blacklist("doh-ipv4.txt", ipv4_addrs, "IPv4 DoH IP addresses", 20)
+    write_blacklist("doh-ipv6.txt", ipv6_addrs, "IPv6 DoH IP addresses", 40)
     print("Done")

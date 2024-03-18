@@ -30,7 +30,7 @@
 2001:41d0:a:3cbc::1                      # jackyes.ovh
 2001:41d0:a:5e02::1                      # adguard.ender.fr
 2001:448a:4049:2d69::1                   # gustamadh.dynv6.net
-2001:4610:a:4b::9d3                      # dandelionsprout.asuscomm.com
+2001:4610:a:4b::c65d                     # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                      # dns.cmrg.net
 2001:470:1f15:b80::53                    # opennic.i2pd.xyz
 2001:470:20::2                           # ordns.he.net
@@ -93,7 +93,7 @@
 2001:8d8:820:3a00::b:c47                 # doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:3dbe:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:6af1:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -105,8 +105,8 @@
 2001:de4::102                            # dns.twnic.tw
 2001:df7:1d80:44::a                      # dns.syaifullah.com
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:7000:0:4:0:53                 # dns.telekom.de
-2003:180:2:8100:0:4:0:53                 # dns.telekom.de
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
+2003:180:2::4:0:53                       # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2400:3200::1                             # dns.alidns.com
@@ -137,7 +137,7 @@
 2403:fbc0:1000::babe                     # jp-nrt.doh.sb
 2404:9400:214e:ea00::1                   # syd.adfilter.net
 2404:9400:41a9:4800::1                   # per.adfilter.net
-2405:9800:b910:1d8e::61d                 # dns.hanahira.dev
+2405:9800:b910:1d8e:cbdd:f365:b666:93b5  # dns.hanahira.dev
 2406:da12:6cb:df00:7a77:c387:2bed:613c   # kr-sel.doh.sb
 2406:da19:9b4:6611::53                   # dns.goldplate.org
 2406:da1a:1b5:d610:159b:60e5:b0a:8fff    # pihole.aws.ketan.dev
@@ -150,18 +150,18 @@
 2600:1700:4e60:b98f::157                 # dns.sarak.as
 2600:1700:4e60:b98f::158                 # dns.sarak.as
 2600:1f18:6296:8903::beef                # doth.huque.com
-2600:1f28:14:800:d4e9:e5e:dda7:a110      # dns.api.globus.org
-2600:1f28:14:801:11f:72a6:442d:6f54      # dns.api.globus.org
-2600:1f28:14:802:e3ef:ccb5:742a:6fce     # dns.api.globus.org
+2600:1f28:14:800:374f:214d:80e1:2a40     # dns.api.globus.org
+2600:1f28:14:801:7672:4372:34c5:c99f     # dns.api.globus.org
+2600:1f28:14:802:8d8:8cbe:5544:3a86      # dns.api.globus.org
 2600:1f28:60:800:44b3:db3b:be0c:2aac     # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:5a86:3776:90f1:98       # dns.api.staging.globuscs.info
 2600:1f28:60:800:9278:4400:a067:2174     # dns.api.test.globuscs.info
 2600:1f28:60:800:9880:a3fe:106a:19d3     # dns.api.integration.globuscs.info
-2600:1f28:60:800:bbe5:969f:a45:5b1       # dns.api.preview.globus.org
+2600:1f28:60:800:a0ba:5fe1:334f:b384     # dns.api.preview.globus.org
 2600:1f28:60:801:2f76:10da:4732:9782     # dns.api.sandbox.globuscs.info
+2600:1f28:60:801:557a:44e3:ac10:1500     # dns.api.preview.globus.org
 2600:1f28:60:801:6508:17a2:15c1:c920     # dns.api.integration.globuscs.info
 2600:1f28:60:801:968c:c1eb:61bb:47f3     # dns.api.test.globuscs.info
-2600:1f28:60:801:aa4:dad5:dd44:e369      # dns.api.preview.globus.org
 2600:1f28:60:801:aa5a:11d3:12cc:d6b6     # dns.api.staging.globuscs.info
 2600:1f28:60:802:1ff3:6c7b:4da3:44ce     # dns.api.test.globuscs.info
 2600:1f28:60:802:478b:e2bd:cb69:d6b9     # dns.api.staging.globuscs.info
@@ -512,7 +512,6 @@
 2a03:4000:63:b7d:2::100                  # de.teradns.org
 2a03:4000:66:d4d:a830:69ff:feb8:ddbd     # xray.krnl.eu
 2a03:4000:6:12af::1                      # doh.defaultroutes.de
-2a03:4000:6:d07e::                       # dukun.de
 2a03:4000:6:f76a:c821:9bff:feb1:ceaa     # kids.5ososea.com
 2a03:4000:6b:191:9825:1cff:fe34:bbe      # jabber-germany.de www.jabber-germany.de
 2a03:7900:2:0:31:3:104:161               # nat64.tuxis.nl
