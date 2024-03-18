@@ -5,7 +5,6 @@ import socket
 import sys
 
 from signal import signal, SIGINT
-from tqdm import tqdm
 from urllib.request import urlretrieve
 from multiprocessing.pool import Pool
 
@@ -76,12 +75,16 @@ def resolve_domains(domains: list[str]) -> list[tuple[str,str,socket.AddressFami
     # create a thread pool to concurrently lookup domains
     # and side-step the global interpreter lock
     with Pool(10) as pool:
-        with tqdm(total=len(domains), leave=False) as pbar:
-            def progress(_):
-                pbar.update()
-            async_results = [pool.apply_async(resolve, args=(domain,), callback=progress) for domain in domains]
-            results = [async_result.get() for async_result in async_results]
-            return flatten(results)
+        total = len(domains)
+        done = 0
+        def progress(_):
+            nonlocal done
+            done+=1
+            print(f"::: {done}/{total} domains resolved", end="\r", flush=True)
+        async_results = [pool.apply_async(resolve, args=(domain,), callback=progress) for domain in domains]
+        results = [async_result.get() for async_result in async_results]
+        print("")
+        return flatten(results)
             
 def signal_handler(sig, frame) -> None:
     print('\nCtrl+C caught. Exiting.')
@@ -98,7 +101,7 @@ if __name__ == "__main__":
     processed_domains = set()
     ipv4_addrs: dict[str,list[str]] = {}
     ipv6_addrs: dict[str,list[str]] = {}
-    for (domain, addr, family) in tqdm(results, unit="domains", leave=False):
+    for (domain, addr, family) in results:
         match family:
             case socket.AddressFamily.AF_UNSPEC:
                 abandoned_domains.add(domain)
