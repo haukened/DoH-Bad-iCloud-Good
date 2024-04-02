@@ -2,8 +2,10 @@
 
 import dns
 import os
+import socket
 import sys
 
+from datetime import datetime
 from signal import signal, SIGINT
 from urllib.request import urlretrieve
 from multiprocessing.pool import Pool
@@ -13,6 +15,9 @@ DOMAIN_PRETTY="https://github.com/dibdot/DoH-IP-blocklists"
 
 def log(msg: str) -> None:
     print(f"::: {msg}")
+
+def now() -> str:
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def download_domains() -> str:
     try:
@@ -44,14 +49,15 @@ def write_blacklist(filename: str, entries: dict[str,list[str]], comment: str = 
 
 def write_domains(filename: str, entries: set[str], comment: str = "") -> None:
     domains_sorted = sorted(entries)
-    if len(domains_sorted) == 0:
-        log(f"{filename}: no entries to write")
-        return
     with open(filename, "w") as f:
         if len(comment) > 0:
             f.write(f"# {comment}\n")
-        for entry in domains_sorted:
-            f.write(f"{entry}\n")
+        f.write(f"# updated at {now()}\n")
+        if len(domains_sorted) == 0:
+            f.write("# no domains returned")
+        else:
+            for entry in domains_sorted:
+                f.write(f"{entry}\n")
 
 def flatten(xss):
     # this flattens a list of lists into a single list
@@ -92,22 +98,26 @@ if __name__ == "__main__":
     processed_domains = set()
     ipv4_addrs: dict[str,list[str]] = {}
     ipv6_addrs: dict[str,list[str]] = {}
-    for (domain, addr, family) in results:
-        match family:
-            case socket.AddressFamily.AF_UNSPEC:
-                abandoned_domains.add(domain)
-            case socket.AddressFamily.AF_INET:
-                e = ipv4_addrs.get(addr, [])
-                e.append(domain)
-                ipv4_addrs[addr] = e
-                processed_domains.add(domain)
-            case socket.AddressFamily.AF_INET6:
-                e = ipv6_addrs.get(addr, [])
-                e.append(domain)
-                ipv6_addrs[addr] = e
-                processed_domains.add(domain)
-            case _:
-                continue
+    if results is not None:
+        for result in results:
+            if result.rcode != 0:
+                abandoned_domains.add(result.domain)
+            match result.type:
+                case 'A':
+                    e = ipv4_addrs.get(result.value, [])
+                    e.append(result.domain)
+                    ipv4_addrs[result.value] = e
+                    processed_domains.add(result.domain)
+                case 'AAAA':
+                    e = ipv6_addrs.get(result.value, [])
+                    e.append(result.domain)
+                    ipv6_addrs[result.value] = e
+                    processed_domains.add(result.domain)
+                case _:
+                    continue
+    else:
+        print("::: ERROR - Results was NoneType")
+        exit(1)
     log("saving domains...")
     write_domains("domains_abandoned.txt", abandoned_domains, "unresolved domains, presumed abandoned")
     write_domains("domains_resolved.txt", processed_domains, "domains processed into block list")

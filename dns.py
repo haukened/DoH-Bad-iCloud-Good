@@ -97,8 +97,10 @@ class DNSRecord:
     rcode: str
     status: str
     status_desc: str
-    def __init__(self, type: str, value: str, rcode: str) -> None:
+    domain: str
+    def __init__(self, type: str, domain: str, value: str, rcode: str) -> None:
         self.type = type
+        self.domain = domain
         self.value = value
         self.rcode = int(rcode)
         (status, desc) = RCODES.get(self.rcode, ("UNKNOWN", "Unknown DNS Error"))
@@ -106,7 +108,7 @@ class DNSRecord:
         self.status_desc = desc
     
     def __repr__(self) -> str:
-        return f"DNSRecord<{self.type}, {self.value}, {self.rcode}, {self.status}>"
+        return f"DNSRecord<{self.type}, {self.domain}, {self.value}, {self.rcode}, {self.status}>"
 
 # helper functions
 
@@ -188,8 +190,7 @@ def __build_message(type="A", address=""):
 
     return message
 
-
-def __decode_message(message) -> list[DNSRecord]:    
+def __decode_message(message, hostname: str) -> list[DNSRecord]:    
     response: list[DNSRecord] = []
     
     query_params  = message[4:8]
@@ -242,7 +243,7 @@ def __decode_message(message) -> list[DNSRecord]:
                 ANSWER_SECTION_STARTS = ANSWER_SECTION_STARTS + 24 + (RDLENGTH * 2)
 
             type = _get_type_by_id(ATYPE)
-            response.append(DNSRecord(type, RDDATA_decoded, rcode)) 
+            response.append(DNSRecord(type, hostname ,RDDATA_decoded, rcode)) 
 
     return response
 
@@ -265,7 +266,7 @@ def _resolve(hostname: str, server: str, port: int, type: str) -> list[DNSRecord
     '''the small resolve, returns all records for a given hostname of one type'''
     message = __build_message(type , hostname)
     response = __send_udp_message(message, server, port)
-    return __decode_message(response)
+    return __decode_message(response, hostname)
 
 def _Resolve(hostname: str, server: str, port: int, type: str) -> list[DNSRecord]:
     '''the big Resolve, returns recursice records for a given hostname of one type'''
