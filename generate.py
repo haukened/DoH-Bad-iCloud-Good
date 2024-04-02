@@ -2,7 +2,6 @@
 
 import dns
 import os
-import socket
 import sys
 
 from datetime import datetime
@@ -63,7 +62,7 @@ def flatten(xss):
     # this flattens a list of lists into a single list
     return [x for xs in xss for x in xs]
 
-def resolve_domains(domains: list[str]) -> list[dns.DNSRecord]:
+def resolve_domains(domains: list[str], dns_server: str) -> list[dns.DNSRecord]:
     # create a thread pool to concurrently lookup domains
     # and side-step the global interpreter lock
     with Pool(10) as pool:
@@ -78,7 +77,7 @@ def resolve_domains(domains: list[str]) -> list[dns.DNSRecord]:
             nonlocal done, failed
             done+=1
             print(f"::: {done}/{total} domains resolved, {failed} failed", end="\r", flush=True)
-        async_results = [pool.apply_async(dns.Resolve, args=(domain,"192.168.10.1", 53), callback=progress, error_callback=fail) for domain in domains]
+        async_results = [pool.apply_async(dns.Resolve, args=(domain, dns_server, 53), callback=progress, error_callback=fail) for domain in domains]
         results = [async_result.get() for async_result in async_results]
         print("")
         return flatten(results)
@@ -89,10 +88,14 @@ def signal_handler(sig, frame) -> None:
 
 if __name__ == "__main__":
     signal(SIGINT, signal_handler)
+    dns_server = os.environ['DNS_SERVER_TO_QUERY']
+    if dns_server is None:
+        print("error, env var DNS_SERVER_TO_QUERY is unset.")
+        exit(1)
     tmpfile = download_domains()
     domains = read_domains(tmpfile)
     log("resolving domains...")
-    results = resolve_domains(domains)
+    results = resolve_domains(domains, dns_server)
     log("processing domains...")
     abandoned_domains = set()
     processed_domains = set()
