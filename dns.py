@@ -4,6 +4,7 @@ import argparse
 import binascii
 import random
 import re
+import select
 import socket
 from collections import OrderedDict
 
@@ -89,6 +90,7 @@ RCODES: dict[int,tuple[str,str]] = {
     21: ('BADALG',     'Algorithm not supported'),
     22: ('BADTRUNC',   'Bad Truncation'),
     23: ('BADCOOKIE',  'Bad/missing Server Cookie'),
+    24: ('TIMEOUT', 'Query timed out'),
 }
 
 class DNSRecord:
@@ -133,7 +135,12 @@ def __send_udp_message(message: str, address: str, port: int) -> str:
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     try:
         sock.sendto(binascii.unhexlify(message), server_address)
-        data, _ = sock.recvfrom(4096)
+        # wait 2 seconds for a reply
+        ready = select.select([sock], [], [], 2)
+        if ready:
+            data, _ = sock.recvfrom(4096)
+        else:
+            data = bytes('')
     finally:
         sock.close()
     return binascii.hexlify(data).decode("utf-8")
@@ -265,7 +272,16 @@ def __parse_parts(message, start, parts):
 def _resolve(hostname: str, server: str, port: int, type: str) -> list[DNSRecord]:
     '''the small resolve, returns all records for a given hostname of one type'''
     message = __build_message(type , hostname)
-    response = __send_udp_message(message, server, port)
+    response = ""
+    tries = 0
+    while response == "":
+        response = __send_udp_message(message, server, port)
+        if response == "":
+            tries+=1
+        if tries > 3:
+            # we tried 3 times without answer, return special 3841 timeout
+            # this is listed as "Unassigned" by 
+            return [DNSRecord(type, hostname, "", 3841)]
     return __decode_message(response, hostname)
 
 def _Resolve(hostname: str, server: str, port: int, type: str) -> list[DNSRecord]:

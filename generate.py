@@ -69,15 +69,15 @@ def resolve_domains(domains: list[str]) -> list[dns.DNSRecord]:
     with Pool(10) as pool:
         total = len(domains)
         done = 0
-        abandoned = 0
+        failed = 0
         def fail(_):
-            nonlocal done, abandoned
+            nonlocal done, failed
             abandoned+=1
-            print(f"::: {done}/{total} domains resolved, {abandoned} abandoned", end="\r", flush=True)
+            print(f"::: {done}/{total} domains resolved, {failed} failed", end="\r", flush=True)
         def progress(_):
-            nonlocal done, abandoned
+            nonlocal done, failed
             done+=1
-            print(f"::: {done}/{total} domains resolved, {abandoned} abandoned", end="\r", flush=True)
+            print(f"::: {done}/{total} domains resolved, {failed} failed", end="\r", flush=True)
         async_results = [pool.apply_async(dns.Resolve, args=(domain,"192.168.10.1", 53), callback=progress, error_callback=fail) for domain in domains]
         results = [async_result.get() for async_result in async_results]
         print("")
