@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
+import dns
 import os
-import socket
 import sys
 
 from signal import signal, SIGINT
@@ -57,31 +57,22 @@ def flatten(xss):
     # this flattens a list of lists into a single list
     return [x for xs in xss for x in xs]
 
-# define a work function for the pool
-def resolve(domain: str) -> list[tuple[str,str,socket.AddressFamily]]:
-    results = []
-    try:
-        entries = socket.getaddrinfo(domain, 443, proto=socket.IPPROTO_TCP)
-        for entry in entries:
-            family = entry[0]
-            addr = entry[4][0]
-            results.append((domain, addr, family))
-    except:
-        results.append((domain, '-', socket.AddressFamily.AF_UNSPEC))
-    finally:
-        return results
-
-def resolve_domains(domains: list[str]) -> list[tuple[str,str,socket.AddressFamily]]:
+def resolve_domains(domains: list[str]) -> list[dns.DNSRecord]:
     # create a thread pool to concurrently lookup domains
     # and side-step the global interpreter lock
     with Pool(10) as pool:
         total = len(domains)
         done = 0
+        abandoned = 0
+        def fail(_):
+            nonlocal done, abandoned
+            abandoned+=1
+            print(f"::: {done}/{total} domains resolved, {abandoned} abandoned", end="\r", flush=True)
         def progress(_):
-            nonlocal done
+            nonlocal done, abandoned
             done+=1
-            print(f"::: {done}/{total} domains resolved", end="\r", flush=True)
-        async_results = [pool.apply_async(resolve, args=(domain,), callback=progress) for domain in domains]
+            print(f"::: {done}/{total} domains resolved, {abandoned} abandoned", end="\r", flush=True)
+        async_results = [pool.apply_async(dns.Resolve, args=(domain,"192.168.10.1", 53), callback=progress, error_callback=fail) for domain in domains]
         results = [async_result.get() for async_result in async_results]
         print("")
         return flatten(results)
