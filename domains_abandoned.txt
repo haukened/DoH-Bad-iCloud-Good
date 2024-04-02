@@ -1,6 +1,7 @@
 # unresolved domains, presumed abandoned
 1.xhr0no.my
 a-bld.sys-adm.in
+aattwwss.duckdns.org
 ad-dns.lista.my.id
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -12,6 +13,8 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
+adguard.lista.my.id
+adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguardh.ga
@@ -24,7 +27,9 @@ bcandrade.ml
 berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
+chaos.altendorfme.com
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -33,6 +38,7 @@ dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
+dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
 dns.anonymous.pw
@@ -43,7 +49,6 @@ dns.containerpi.com
 dns.cybershell.xyz
 dns.d365.in
 dns.dns-over-https.com
-dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
@@ -51,6 +56,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.invisv.com
@@ -67,10 +73,8 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
-dns.uplenk.com
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
@@ -100,6 +104,7 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
@@ -113,19 +118,22 @@ dot.ny.ahadns.net
 dot.pl.ahadns.net
 draco.plan9-ns2.com
 dub01.dnscry.pt
-dukun.de
 ecs-doh.dnswarden.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
+jit.ddns.net
 jp.gridns.xyz
+jurre-home.duckdns.org
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -133,7 +141,13 @@ ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
+odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
+punono.duckdns.org
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
 sg.adhole.org
@@ -144,14 +158,15 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tlz.asia
+tuandns.duckdns.org
 tundranet.hec.to
+uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
 vanced.sytes.net
 www.memorialus.eu.org
-www.unasw.eu
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
