@@ -2,6 +2,7 @@
 2001:1398:1::200:1:123:46                # dnsotls.lab.nic.cl
 2001:148f:fffe::1                        # odvr.nic.cz
 2001:148f:ffff::1                        # odvr.nic.cz
+2001:19f0:5001:1faf:5400:2ff:fec8:7d49   # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:5801:b7c::1                    # doh.eastau.pi-dns.com dot.eastau.pi-dns.com
 2001:19f0:5:3bd7:5400:4ff:fe05:da83      # kronos.plan9-dns.com
 2001:19f0:5:6d5c:5400:2ff:feed:db51      # adguard1.jsanagustin.net
@@ -94,7 +95,7 @@
 2001:8d8:820:3a00::b:c47                 # doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:df7b:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:f6cb:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -105,12 +106,17 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:1000::4::53                   # dns.telekom.de
 2003:180:2:4000::4::53                   # dns.telekom.de
+2003:180:2:7000::4::53                   # dns.telekom.de
 2003:4:e0b0:102::4::53                   # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2400:3200::1                             # dns.alidns.com
 2400:3200:baba::1                        # dns.alidns.com
+2400:52e0:1a01::852:1                    # doh1.b-cdn.net doh1.blahdns.com
+2400:52e0:1a01::900:1                    # doh2.b-cdn.net
+2400:52e0:1a01::954:1                    # doh2.blahdns.com
+2400:52e0:1a01::996:1                    # doh2.b-cdn.net
+2400:52e0:1a01::997:1                    # doh1.b-cdn.net
 2400:6180:100:d0::4e0:6001               # do.shimul.me
 2400:6180:100:d0::798:d001               # in-blr.doh.sb
 2400:6180::d0::45a:b001                  # sg-sin.doh.sb
@@ -231,6 +237,7 @@
 2606:4700:3030::6815:2bbc                # dns.kosan.moe
 2606:4700:3030::6815:2c68                # dns.unerror.network
 2606:4700:3030::6815:532e                # ivnkn.xyz
+2606:4700:3030::6815:533e                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:4700:3030::ac43:87fb                # dnsforfamily.com
 2606:4700:3030::ac43:9a3d                # dns.cynthialabs.net
 2606:4700:3030::ac43:a208                # dns.dgea.fr
@@ -241,6 +248,7 @@
 2606:4700:3030::ac43:ca69                # dns.superstefan.win
 2606:4700:3030::ac43:ce5a                # dns.240527.xyz
 2606:4700:3030::ac43:d608                # ivnkn.xyz
+2606:4700:3030::ac43:d6f6                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:4700:3031::6815:1249                # dns2.linzefeng.top
 2606:4700:3031::6815:31ea                # basic.bravedns.com bravedns.com free.bravedns.com
 2606:4700:3031::6815:3e9e                # dns.silen.org
@@ -349,8 +357,6 @@
 2606:4700::6810:f9f9                     # cloudflare-dns.com
 2606:4700::6812:103                      # tor.cloudflare-dns.com
 2606:4700::6812:3                        # tor.cloudflare-dns.com
-2606:4700:e6::ac40:c21d                  # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
-2606:4700:e6::ac40:c31d                  # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:65c0:40:4:5f3:54c4:8d10:9b98        # dtw01.dnscry.pt vps311.brueggus.de
 2606:6680:45:1::e859:6f4e                # yul01.dnscry.pt vps217.brueggus.de
 2606:a8c0:3:202::a                       # geg01.dnscry.pt vps301.brueggus.de
@@ -371,10 +377,10 @@
 2620:119:fc::3                           # doh.familyshield.opendns.com
 2620:119:fc::4                           # doh.sandbox.opendns.com
 2620:119:fc::5                           # doh.umbrella.com
-2620:149:a0e:4000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
-2620:149:a10:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
-2620:149:a10:4000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
-2620:149:a10:4000::b2                    # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a21:3000::192                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a21:3000::1a2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a21:3000::1b2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a21:4000::1a2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:171:80c::1                          # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:171:80d::1                          # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:46:8000:128::100                    # cluster-0.gac.edu
@@ -623,6 +629,7 @@
 2a10:50c0::ded:ff                        # d.adguard-dns.com
 2a11:3::66                               # au-syd.doh.sb
 2a11::                                   # public-dns-b.dns.sb
+2a12:8d05:100:2f9:5054:ff:fee8:876b      # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a12:9080:1:5b::a                        # blackhole.myon.lu
 2a12:bec0:330::1111                      # dns-public.ibakerserver.pt
 2a13:82c1:850a::b7                       # hkg01.dnscry.pt vps307.brueggus.de

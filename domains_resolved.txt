@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-04-05 00:50:31
+# updated at 2024-04-05 12:19:21
 1.dns.noridev.moe
 10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com
 19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com
