@@ -7,7 +7,7 @@
 2001:19f0:5:6d5c:5400:2ff:feed:db51      # adguard1.jsanagustin.net
 2001:19f0:7001:225d::1                   # doh.eastas.pi-dns.com dot.eastas.pi-dns.com
 2001:19f0:7001:4532:5400:3ff:fe2d:82bb   # adguard.konikoni428.com
-2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0    # dns.fullaccesstointernet.jp.eu.org
+2001:19f0:7001:5e19:5400:2ff:fec8:7b5a   # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
@@ -105,7 +105,7 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:1000::4::53                   # dns.telekom.de
+2003:180:2:7000::4::53                   # dns.telekom.de
 2003:180:2:8100::4::53                   # dns.telekom.de
 2003:4:e0b0:102::4::53                   # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
@@ -175,7 +175,6 @@
 2600:3c01:e000:341::8:                   # dns.startupstack.tech
 2600:3c02::f03c:93ff:fec9:e0ff           # dns.thebuckners.org
 2600:3c06::f03c:94ff:fe72:5889           # dns.ovpn.bond
-2600:3c06::f03c:94ff:fe72:ee0e           # dns.ovpn.bond
 2600:3c06::f03c:94ff:fe77:35d9           # dns.ovpn.bond
 2600:4c00:80:8::a                        # atl01.dnscry.pt vps305.brueggus.de
 2600:6c7f:f000:202::7                    # doh-01.spectrum.com
@@ -231,7 +230,6 @@
 2606:4700:3030::6815:2bbc                # dns.kosan.moe
 2606:4700:3030::6815:2c68                # dns.unerror.network
 2606:4700:3030::6815:532e                # ivnkn.xyz
-2606:4700:3030::6815:533e                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:4700:3030::ac43:87fb                # dnsforfamily.com
 2606:4700:3030::ac43:9a3d                # dns.cynthialabs.net
 2606:4700:3030::ac43:a208                # dns.dgea.fr
@@ -242,7 +240,6 @@
 2606:4700:3030::ac43:ca69                # dns.superstefan.win
 2606:4700:3030::ac43:ce5a                # dns.240527.xyz
 2606:4700:3030::ac43:d608                # ivnkn.xyz
-2606:4700:3030::ac43:d6f6                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:4700:3031::6815:1249                # dns2.linzefeng.top
 2606:4700:3031::6815:31ea                # basic.bravedns.com bravedns.com free.bravedns.com
 2606:4700:3031::6815:3e9e                # dns.silen.org
@@ -351,6 +348,8 @@
 2606:4700::6810:f9f9                     # cloudflare-dns.com
 2606:4700::6812:103                      # tor.cloudflare-dns.com
 2606:4700::6812:3                        # tor.cloudflare-dns.com
+2606:4700:e0::ac40:6e0a                  # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
+2606:4700:e0::ac40:6f0a                  # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:65c0:40:4:5f3:54c4:8d10:9b98        # dtw01.dnscry.pt vps311.brueggus.de
 2606:6680:45:1::e859:6f4e                # yul01.dnscry.pt vps217.brueggus.de
 2606:a8c0:3:202::a                       # geg01.dnscry.pt vps301.brueggus.de
@@ -371,8 +370,7 @@
 2620:119:fc::3                           # doh.familyshield.opendns.com
 2620:119:fc::4                           # doh.sandbox.opendns.com
 2620:119:fc::5                           # doh.umbrella.com
-2620:149:a0e:3000::1c2                   # doh.dns.apple.com
-2620:149:a0e:4000::1c2                   # doh.dns.apple.com.v.aaplimg.com
+2620:149:a0e:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:4000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:4000::b2                    # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
@@ -400,7 +398,7 @@
 2803:f800:53::5                          # opera.cloudflare-dns.com
 2803:f800:54::1                          # odoh.cloudflare-dns.com
 2a00:1158::100::14                       # doh.hottis.de
-2a00:11c0:39:353::3                      # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2a00:11c0:39:353::3                      # steering.nextdns.io
 2a00:4820:31b0::dacb:8aff:feba:55d7      # doh.port53.dk
 2a00:5980:94::71                         # dns.circl.lu
 2a00:6800:3:4bd::                        # ns2.opennameserver.org
@@ -585,6 +583,7 @@
 2a0a:6040:9500:a70::a                    # waw01.dnscry.pt vps221.brueggus.de
 2a0a:be80::cbe:4444                      # cubedns.com
 2a0a:be80::cbe:4445                      # cubedns.com
+2a0b:4341:b02:166:5054:ff:fe53:ab1       # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io
 2a0c:3d00:11:6942:5:180:59:37            # nsc.torgues.net
 2a0c:59c0:19::3                          # nl-ams.doh.sb
 2a0c:8901::53                            # dns.dnshome.de
@@ -611,7 +610,7 @@
 2a0d:5600:33:3::abcd                     # doh.eastus.pi-dns.com dot.eastus.pi-dns.com
 2a0d:8480:3:b9::1                        # ada.openbld.net
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt vps241.brueggus.de
-2a0e:6902:2002:12b:5054:ff:fed7:6b78     # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2a0e:6902:2002:12b:5054:ff:fed7:6b78     # steering.nextdns.io
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt vps183.brueggus.de
 2a0f:5707:aae1:8421::1                   # dns.internal.hosmatic.com
