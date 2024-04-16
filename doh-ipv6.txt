@@ -7,6 +7,7 @@
 2001:19f0:5:6d5c:5400:2ff:feed:db51      # adguard1.jsanagustin.net
 2001:19f0:7001:225d::1                   # doh.eastas.pi-dns.com dot.eastas.pi-dns.com
 2001:19f0:7001:4532:5400:3ff:fe2d:82bb   # adguard.konikoni428.com
+2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0    # dns.fullaccesstointernet.jp.eu.org
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
@@ -28,7 +29,6 @@
 2001:41d0:8:9a14::1                      # yarp.lefolgoc.net
 2001:41d0:a:3cbc::1                      # jackyes.ovh
 2001:41d0:a:5e02::1                      # adguard.ender.fr
-2001:448a:4044:450e::1                   # gustamadh.dynv6.net
 2001:4610:a:4b::466f                     # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                      # dns.cmrg.net
 2001:470:1f15:b80::53                    # opennic.i2pd.xyz
@@ -104,8 +104,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:1000::4::53                   # dns.telekom.de
-2003:180:2:b000::4::53                   # dns.telekom.de
+2003:180:2:4000::4::53                   # dns.telekom.de
+2003:180:2:7000::4::53                   # dns.telekom.de
 2003:4:e0b0:102::4::53                   # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2400:3200::1                             # dns.alidns.com
@@ -171,7 +171,6 @@
 2600:3c00::f03c:93ff:fe79:3686           # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be           # us1.blissdns.net
 2600:3c01:e000:130::8:                   # dns.elemental.software
-2600:3c01:e000:341::8:                   # dns.startupstack.tech
 2600:3c02::f03c:93ff:fec9:e0ff           # dns.thebuckners.org
 2600:3c06::f03c:94ff:fe72:5889           # dns.ovpn.bond
 2600:3c06::f03c:94ff:fe77:35d9           # dns.ovpn.bond
@@ -373,8 +372,7 @@
 2620:119:fc::3                           # doh.familyshield.opendns.com
 2620:119:fc::4                           # doh.sandbox.opendns.com
 2620:119:fc::5                           # doh.umbrella.com
-2620:149:a0e:3000::1c2                   # doh.dns.apple.com.v.aaplimg.com
-2620:149:a0e:4000::1c2                   # doh.dns.apple.com
+2620:149:a0e:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:4000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:4000::b2                    # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
@@ -402,6 +400,7 @@
 2803:f800:53::5                          # opera.cloudflare-dns.com
 2803:f800:54::1                          # odoh.cloudflare-dns.com
 2a00:1158::100::14                       # doh.hottis.de
+2a00:11c0:39:353::3                      # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a00:4820:31b0::dacb:8aff:feba:55d7      # doh.port53.dk
 2a00:5980:94::71                         # dns.circl.lu
 2a00:6800:3:4bd::                        # ns2.opennameserver.org
@@ -607,6 +606,7 @@
 2a0d:5600:33:3::abcd                     # doh.eastus.pi-dns.com dot.eastus.pi-dns.com
 2a0d:8480:3:b9::1                        # ada.openbld.net
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt vps241.brueggus.de
+2a0e:6902:2002:12b:5054:ff:fed7:6b78     # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt vps183.brueggus.de
 2a0f:5707:aae1:8421::1                   # dns.internal.hosmatic.com
