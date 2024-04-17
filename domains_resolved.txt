@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-04-16 00:50:13
+# updated at 2024-04-17 00:51:10
 1.dns.noridev.moe
 10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com
 19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com
@@ -278,7 +278,6 @@ dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
-dns.elemental.software
 dns.emiliyan.com
 dns.eu-frankfurt-1.oci.oraclecloud.net
 dns.eu-frankfurt-1.oraclecloud.com
@@ -298,6 +297,7 @@ dns.furrydns.de
 dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -414,7 +414,6 @@ dns.shecan.ir
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -476,6 +475,7 @@ dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.irumatech.com
+dns1.klcd.eu
 dns1.lothuscorp.com.br
 dns1.nextdns.io
 dns1.nielsdb.be
@@ -488,7 +488,6 @@ dns12.quad9.net
 dns13.quad9.net
 dns2.cbio.top
 dns2.digitale-gesellschaft.ch
-dns2.klcd.eu
 dns2.linzefeng.top
 dns2.nextdns.io
 dns2.saferbfc.org
@@ -749,7 +748,6 @@ ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
 ipoac.nl
-irre.li
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
