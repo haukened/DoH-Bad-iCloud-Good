@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-04-17 12:20:23
+# updated at 2024-04-18 12:20:02
 1.dns.noridev.moe
 10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com
 19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com
@@ -169,7 +169,6 @@ deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
 dff029179c4246e385296ea8de0b8eb8.pacloudflare.com
 dfw01.dnscry.pt
-dgca.myds.me
 dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
@@ -415,7 +414,6 @@ dns.shecan.ir
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -943,6 +941,7 @@ rethinkdns.com
 rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
 ric.openbld.net
+ricko.is
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
 rumpelsepp.org
@@ -1008,6 +1007,7 @@ tpa01.dnscry.pt
 tpe01.dnscry.pt
 trf01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
@@ -1120,4 +1120,3 @@ zal01.dnscry.pt
 zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
-zxcvb.pp.ua
