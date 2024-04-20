@@ -36,6 +36,7 @@
 2001:470:26:7c:6a1d:efff:fe35:5721       # ibksturm.synology.me
 2001:470:71:6dc::53                      # opennic2.i2pd.xyz
 2001:470:7a56::1                         # dns.expert
+2001:470:f829:8593:3::7                  # doh.max.net.id
 2001:4860:4860::64                       # dns64.dns.google
 2001:4860:4860::6464                     # dns64.dns.google
 2001:4860:4860::8844                     # 8888.google dns.google dns.google.com google-public-dns-b.google.com
@@ -91,7 +92,7 @@
 2001:8d8:820:3a00::b:c47                 # doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:2ce3:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:447b:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -102,12 +103,16 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:1000::4::53                   # dns.telekom.de
-2003:180:2:4000::4::53                   # dns.telekom.de
+2003:180:2:8100::4::53                   # dns.telekom.de
+2003:180:2::4::53                        # dns.telekom.de
 2003:4:e0b0:102::4::53                   # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2400:3200::1                             # dns.alidns.com
 2400:3200:baba::1                        # dns.alidns.com
+2400:52e0:1a00::1069:1                   # doh2.b-cdn.net
+2400:52e0:1a00::1070:1                   # doh1.blahdns.com doh2.b-cdn.net
+2400:52e0:1a00::845:1                    # doh1.b-cdn.net
+2400:52e0:1a00::894:1                    # doh1.b-cdn.net doh2.blahdns.com
 2400:6180:100:d0::4e0:6001               # do.shimul.me
 2400:6180:100:d0::798:d001               # in-blr.doh.sb
 2400:6180::d0::45a:b001                  # sg-sin.doh.sb
@@ -162,10 +167,10 @@
 2600:1f28:60:801:bac6:2edf:d866:776      # dns.api.staging.globuscs.info dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 2600:1f28:60:801:e849:ed0f:4b23:39c5     # dns.api.test.globuscs.info dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 2600:1f28:60:802:2965:f5e8:d2c2:96e5     # dns.api.integration.globuscs.info dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
-2600:1f28:60:802:2b2:d2f1:d5eb:1421      # dns.api.staging.globuscs.info dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 2600:1f28:60:802:86a0:cf63:4919:acd0     # dns.api.test.globuscs.info dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 2600:1f28:60:802:b17d:edd4:4ff7:709      # dns.api.sandbox.globuscs.info dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 2600:1f28:60:802:d6a0:9029:405a:98b6     # dns.api.preview.globus.org dns-preview-alb-541438575.us-east-1.elb.amazonaws.com preview.dnsteam.globuscs.info dns-preview-alb-541438575.us-east-1.elb.amazonaws.com
+2600:1f28:60:802:f188:11c5:91ef:3f63     # dns.api.staging.globuscs.info dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 2600:3c00::f03c:93ff:fe79:3686           # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be           # us1.blissdns.net
 2600:3c01:e000:130::8:                   # dns.elemental.software
@@ -372,10 +377,12 @@
 2620:119:fc::3                           # doh.familyshield.opendns.com
 2620:119:fc::4                           # doh.sandbox.opendns.com
 2620:119:fc::5                           # doh.umbrella.com
-2620:149:a0e:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
-2620:149:a10:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
-2620:149:a10:4000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
-2620:149:a10:4000::b2                    # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a23:3000::192                   # doh.dns.apple.com.v.aaplimg.com
+2620:149:a23:3000::1a2                   # doh.dns.apple.com
+2620:149:a23:3000::1b2                   # doh.dns.apple.com.v.aaplimg.com
+2620:149:a23:4000::192                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a23:4000::1a2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a23:4000::1b2                   # doh.dns.apple.com
 2620:171:80c::1                          # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:171:80d::1                          # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:46:8000:128::100                    # cluster-0.gac.edu
@@ -400,6 +407,7 @@
 2803:f800:53::5                          # opera.cloudflare-dns.com
 2803:f800:54::1                          # odoh.cloudflare-dns.com
 2a00:1158::100::14                       # doh.hottis.de
+2a00:11c0:39:353::3                      # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a00:4820:31b0::dacb:8aff:feba:55d7      # doh.port53.dk
 2a00:5980:94::71                         # dns.circl.lu
 2a00:6800:3:4bd::                        # ns2.opennameserver.org
@@ -604,6 +612,7 @@
 2a0d:5600:33:3::abcd                     # doh.eastus.pi-dns.com dot.eastus.pi-dns.com
 2a0d:8480:3:b9::1                        # ada.openbld.net
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt vps241.brueggus.de
+2a0e:6902:2002:12b:5054:ff:fed7:6b78     # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt vps183.brueggus.de
 2a0f:5707:aae1:8421::1                   # dns.internal.hosmatic.com
