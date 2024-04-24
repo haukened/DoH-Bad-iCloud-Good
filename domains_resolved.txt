@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-04-20 12:18:59
+# updated at 2024-04-24 00:50:56
 1.dns.noridev.moe
 10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com
 19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com
@@ -8,7 +8,6 @@
 5g.o0o.re
 8888.google
 90c3f3bd03394bebaa20741314cef947.pacloudflare.com
-a.passcloud.xyz
 aattwwss.duckdns.org
 abe01.dnscry.pt
 abel.waringer-atg.de
@@ -133,7 +132,6 @@ cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
-cloud.198.games.cdn.dnsv1.com
 cloud.samutz.com
 cloud.tezoi.com
 cloudflare-dns.com
@@ -413,6 +411,7 @@ dns.shecan.ir
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -508,6 +507,7 @@ dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnspod-vip2.beian.mydnspod.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
@@ -572,6 +572,7 @@ doh.futa.gg
 doh.gcp.pathofgrace.com
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
+doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -619,6 +620,7 @@ doh.tiarap.org
 doh.totoro.pub
 doh.umbrella.com
 doh.us.dnswarden.com
+doh.viatech.com.tw
 doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
@@ -670,7 +672,6 @@ echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
-elshad-adgh-dns.ru
 emby.rasp.tv
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
@@ -714,6 +715,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -731,7 +733,6 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 i.233py.com
-i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -745,6 +746,7 @@ ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
 ipoac.nl
+irre.li
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
@@ -1091,7 +1093,6 @@ wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
 www.dnsadguard.co.uk
-www.elshad-adgh-dns.ru
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
@@ -1114,3 +1115,4 @@ zal01.dnscry.pt
 zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
+zxcvb.pp.ua
