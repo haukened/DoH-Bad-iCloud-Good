@@ -93,7 +93,7 @@
 2001:8d8:820:3a00::b:c47                 # doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:723b:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:87e7:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -105,7 +105,7 @@
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
 2003:180:2:1000::4::53                   # dns.telekom.de
-2003:180:2:4000::4::53                   # dns.telekom.de
+2003:180:2:b000::4::53                   # dns.telekom.de
 2003:4:e0b0:102::4::53                   # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2400:3200::1                             # dns.alidns.com
@@ -145,15 +145,7 @@
 2406:ef80:2:8f28::1                      # sg.teradns.org
 2406:ef80:4:1537::1                      # doh-jp.blahdns.com dot-jp.blahdns.com
 2407:24c0:2::154:3                       # dns.gi.co.id
-2408:8720:806:300:70::72                 # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:8720:806:300:70::73                 # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:8720:806:300:70::80                 # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:8720:806:300:70::88                 # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:8722:840:f8::83                     # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:8748:a102:2001:64::14               # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:876c:1700:142:70::35                # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:8776:1:62:40::28                    # cloud.198.games cloud.198.games.cdn.dnsv1.com
-2408:877f:30:f::1e                       # cloud.198.games cloud.198.games.cdn.dnsv1.com
+2407:b9c0:e003:180:5054:ff:fe7f:c513     # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2409:8088:2000:2002::98                  # dns.ipv6dns.com
 240e:928:1400:10::25                     # dns.weixin.qq.com.cn
 2600:1700:4e60:b98f::157                 # dns.sarak.as
@@ -164,18 +156,18 @@
 2600:1f28:14:802:4d4f:d7bf:3b52:c4cc     # dns.api.globus.org dns-prod-alb-194669935.us-east-1.elb.amazonaws.com
 2600:1f28:60:800:173b:e6ca:f347:d093     # dns.api.integration.globuscs.info dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
 2600:1f28:60:800:41bb:34d6:ff62:314f     # dns.api.test.globuscs.info dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
+2600:1f28:60:800:55a8:a3dd:9440:e91      # dns.api.sandbox.globuscs.info dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 2600:1f28:60:800:6275:c9de:cbe5:b5d3     # dns.api.staging.globuscs.info dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 2600:1f28:60:800:852b:eafb:9e00:e0fc     # dns.api.preview.globus.org dns-preview-alb-541438575.us-east-1.elb.amazonaws.com preview.dnsteam.globuscs.info dns-preview-alb-541438575.us-east-1.elb.amazonaws.com
-2600:1f28:60:800:a285:f176:25f8:66ff     # dns.api.sandbox.globuscs.info dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
+2600:1f28:60:801:63ad:564c:23a8:ba10     # dns.api.test.globuscs.info dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 2600:1f28:60:801:8faa:4207:96a:4a85      # dns.api.integration.globuscs.info dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
 2600:1f28:60:801:a3e:5914:1b35:11c6      # dns.api.preview.globus.org dns-preview-alb-541438575.us-east-1.elb.amazonaws.com preview.dnsteam.globuscs.info dns-preview-alb-541438575.us-east-1.elb.amazonaws.com
 2600:1f28:60:801:b4f1:ac14:d991:7fb5     # dns.api.sandbox.globuscs.info dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 2600:1f28:60:801:ccdb:4bd5:398b:f906     # dns.api.staging.globuscs.info dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
-2600:1f28:60:801:e849:ed0f:4b23:39c5     # dns.api.test.globuscs.info dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 2600:1f28:60:802:2965:f5e8:d2c2:96e5     # dns.api.integration.globuscs.info dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
+2600:1f28:60:802:6a42:ec1:d577:36de      # dns.api.sandbox.globuscs.info dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
+2600:1f28:60:802:77d4:54cb:8589:8337     # dns.api.test.globuscs.info dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 2600:1f28:60:802:7a2d:692a:7928:d89f     # dns.api.preview.globus.org dns-preview-alb-541438575.us-east-1.elb.amazonaws.com preview.dnsteam.globuscs.info dns-preview-alb-541438575.us-east-1.elb.amazonaws.com
-2600:1f28:60:802:86a0:cf63:4919:acd0     # dns.api.test.globuscs.info dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
-2600:1f28:60:802:b17d:edd4:4ff7:709      # dns.api.sandbox.globuscs.info dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 2600:1f28:60:802:f188:11c5:91ef:3f63     # dns.api.staging.globuscs.info dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 2600:3c00::f03c:93ff:fe79:3686           # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be           # us1.blissdns.net
@@ -383,7 +375,8 @@
 2620:119:fc::3                           # doh.familyshield.opendns.com
 2620:119:fc::4                           # doh.sandbox.opendns.com
 2620:119:fc::5                           # doh.umbrella.com
-2620:149:a0e:4000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
+2620:149:a0e:3000::1c2                   # doh.dns.apple.com.v.aaplimg.com
+2620:149:a0e:4000::1c2                   # doh.dns.apple.com
 2620:149:a10:3000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:4000::1c2                   # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
 2620:149:a10:4000::b2                    # doh.dns.apple.com doh.dns.apple.com.v.aaplimg.com
@@ -411,6 +404,7 @@
 2803:f800:53::5                          # opera.cloudflare-dns.com
 2803:f800:54::1                          # odoh.cloudflare-dns.com
 2a00:1158::100::14                       # doh.hottis.de
+2a00:11c0:26:4::5                        # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a00:4820:31b0::dacb:8aff:feba:55d7      # doh.port53.dk
 2a00:5980:94::71                         # dns.circl.lu
 2a00:6800:3:4bd::                        # ns2.opennameserver.org
@@ -430,7 +424,6 @@
 2a00:d78::712:94:198:159:3               # doh.sidnlabs.nl
 2a00:da00:f201:3300::1                   # dns.oszx.co
 2a00:f826:8:1::254                       # opennic1.eth-services.de
-2a00:f940:4::10                          # elshad-adgh-dns.ru www.elshad-adgh-dns.ru
 2a00:fbe0:1:3802::3                      # kracon.anycast.censurfridns.dk kracon.anycast.uncensoreddns.org
 2a01:111:f100:6000::4134:a07f            # dns.mzrme.cn
 2a01:238:20a:202:1160::                  # project-evoex.de
@@ -599,7 +592,7 @@
 2a0a:be80::cbe:4445                      # cubedns.com
 2a0c:3d00:11:6942:5:180:59:37            # nsc.torgues.net
 2a0c:59c0:19::3                          # nl-ams.doh.sb
-2a0c:8902::53                            # dns.dnshome.de
+2a0c:8901::53                            # dns.dnshome.de
 2a0c:8fc0:1749:66:18::16                 # muc01.dnscry.pt vps214.brueggus.de
 2a0c:8fc1:6441::412:ab34                 # tyo01.dnscry.pt vps226.brueggus.de
 2a0c:8fc1:8004:553::145a:bbf9            # syd01.dnscry.pt vps216.brueggus.de
