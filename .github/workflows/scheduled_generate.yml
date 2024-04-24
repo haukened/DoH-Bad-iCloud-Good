@@ -10,8 +10,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      DNS_SERVER_TO_QUERY: 1.1.1.1
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
@@ -20,10 +18,16 @@ jobs:
     # check out the source
     - uses: actions/checkout@v3
     # set up python // only corelibs so no reqs required
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
+    - name: Set up Python 3.12.3
+      uses: actions/setup-python@v5
       with:
-        python-version: "3.10"
+        python-version: "3.12.3"
+        cache: 'pip'
+    # install pip dependencies
+    - name: Install Python dependencies
+      uses: py-actions/py-dependency-install@v4
+      with:
+        path: "requirements.txt"
     # run the update script
     - name: Run DoH Lookup
       run: python3 generate.py
