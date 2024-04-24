@@ -1,16 +1,94 @@
 #!/usr/bin/env python3
 
-import dns
+import ipaddress
 import os
 import sys
 
+import dns.rdatatype
+import dns.rdtypes
+import dns.resolver
 from datetime import datetime
 from signal import signal, SIGINT
 from urllib.request import urlretrieve
-from multiprocessing.pool import Pool
 
 DOMAIN_LIST_URL="https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains_overall.txt"
 DOMAIN_PRETTY="https://github.com/dibdot/DoH-IP-blocklists"
+
+class DNSResult:
+    addr: str
+    domains: list[str]
+
+    def __init__(self, addr: str, domains: set[str]) -> None:
+        self.addr = addr
+        self.domains = sorted(domains)
+
+class DNSResults:
+    _d4: dict[str,set[str]]
+    _d6: dict[str,set[str]]
+    _failed: set[str]
+    _passed: set[str]
+
+    def __init__(self) -> None:
+       self._d4 = {}
+       self._d6 = {}
+       self._failed = set()
+       self._passed = set()
+
+    def __len__(self) -> int:
+        return len(self._d4) + len(self._d6)
+
+    def add(self, domain: str, ip: str):
+        parsed = ipaddress.ip_address(ip)
+        if not parsed.is_global or parsed.is_multicast:
+            # if this is not a globally routable address dont do anything
+            # if this is multicast dont do anything
+            return
+        if isinstance(parsed, ipaddress.IPv4Address):
+            s = self._d4.get(ip, set())
+            s.add(domain)
+            self._d4[ip] = s
+        elif isinstance(parsed, ipaddress.IPv6Address):
+            s = self._d6.get(ip, set())
+            s.add(domain)
+            self._d6[ip] = s
+    
+    def failed(self, domain: str):
+        self._failed.add(domain)
+
+    def passed(self, domain: str):
+        self._passed.add(domain)
+        
+    @property
+    def num_resolved(self) -> int:
+        return len(self._passed)
+    
+    @property
+    def num_failed(self) -> int:
+        return len(self._failed)
+    
+    @property
+    def domains_passed(self) -> list[str]:
+        return sorted(self._passed)
+
+    @property
+    def domains_failed(self) -> list[str]:
+        return sorted(self._failed)
+    
+    @property
+    def IPv4Addrs(self) -> list[DNSResult]:
+        results: list[DNSResult] = []
+        for ipaddr, domains in sorted(self._d4.items()):
+            result = DNSResult(ipaddr, domains)
+            results.append(result)
+        return results
+    
+    @property
+    def IPv6Addrs(self) -> list[DNSResult]:
+        results: list[DNSResult] = []
+        for ipaddr, domains in sorted(self._d6.items()):
+            result = DNSResult(ipaddr, domains)
+            results.append(result)
+        return results
 
 def log(msg: str) -> None:
     print(f"::: {msg}")
@@ -24,7 +102,7 @@ def download_domains() -> str:
         (filepath, _) = urlretrieve(DOMAIN_LIST_URL)
         return filepath
     except:
-        print("Unable to download domains from GitHub")
+        log("Unable to download domains from GitHub")
         exit(1)
 
 def read_domains(filepath: str) -> list[str]:
@@ -35,95 +113,80 @@ def read_domains(filepath: str) -> list[str]:
     log(f"downloaded {len(lines)} domains")
     return lines
 
-def write_blacklist(filename: str, entries: dict[str,list[str]], comment: str = "", padding: int = 20) -> None:
+def write_blacklist(filename: str, entries: list[DNSResult], comment: str = "", padding: int = 20) -> None:
     if len(entries) == 0:
         log(f"{filename}: no entries to write")
         return
-    d = dict(sorted(entries.items()))
     with open(filename, "w") as f:
         if len(comment) > 0:
             f.write(f"# {comment}\n")
-        for (ip, domains) in d.items():
-            f.write(f"{ip.ljust(padding)} # {' '.join(domains)}\n")
+        for result in entries:
+            f.write(f"{result.addr.ljust(padding)} # {' '.join(result.domains)}\n")
 
-def write_domains(filename: str, entries: set[str], comment: str = "") -> None:
-    domains_sorted = sorted(entries)
+def write_domains(filename: str, domains: list[str], comment: str = "") -> None:
     with open(filename, "w") as f:
         if len(comment) > 0:
             f.write(f"# {comment}\n")
         f.write(f"# updated at {now()}\n")
-        if len(domains_sorted) == 0:
+        if len(domains) == 0:
             f.write("# no domains returned")
         else:
-            for entry in domains_sorted:
+            for entry in domains:
                 f.write(f"{entry}\n")
 
-def flatten(xss):
-    # this flattens a list of lists into a single list
-    return [x for xs in xss for x in xs]
+def metaquery(domain: str) -> list[str]:
+    results: list[str] = []
+    resolver = dns.resolver.Resolver()
+    # resolver.nameservers = ['1.1.1.1', '8.8.8.8', '1.0.0.1', '8.8.4.4']
+    try:
+        a_records = resolver.resolve(domain, dns.rdatatype.A)
+        for record in a_records:
+            # type(record) = <class 'dns.rdtypes.IN.A.A'>
+            results.append(record.to_text())
+    except:
+        pass
+    try:
+        aaaa_records = resolver.resolve(domain, dns.rdatatype.AAAA)
+        for record in aaaa_records:
+            # type(record) = <class 'dns.rdtypes.IN.AAAA.AAAA'>
+            results.append(record.to_text())
+    except:
+        pass
+    return results
 
-def resolve_domains(domains: list[str], dns_server: str) -> list[dns.DNSRecord]:
-    # create a thread pool to concurrently lookup domains
-    # and side-step the global interpreter lock
-    with Pool(10) as pool:
-        total = len(domains)
-        done = 0
-        failed = 0
-        def fail(_):
-            nonlocal done, failed
-            abandoned+=1
-            print(f"::: {done}/{total} domains resolved, {failed} failed", end="\r", flush=True)
-        def progress(_):
-            nonlocal done, failed
-            done+=1
-            print(f"::: {done}/{total} domains resolved, {failed} failed", end="\r", flush=True)
-        async_results = [pool.apply_async(dns.Resolve, args=(domain, dns_server, 53), callback=progress, error_callback=fail) for domain in domains]
-        results = [async_result.get() for async_result in async_results]
-        print("")
-        return flatten(results)
-            
+def resolve_domains(domains: list[str]) -> DNSResults:
+    results = DNSResults()
+    total = len(domains)
+    current = 0
+    for domain in domains:
+        query_results = metaquery(domain)
+        if len(query_results) == 0:
+            results.failed(domain)
+        else:
+            results.passed(domain)
+            for qr in query_results:
+                results.add(domain, qr)
+        current+=1
+        print(f'::: processed {current}/{total} domains, {results.num_failed} failed', end='\r', flush=True)
+    print(f'::: processed {current}/{total} domains, {results.num_failed} failed')
+    return results
+
 def signal_handler(sig, frame) -> None:
     print('\nCtrl+C caught. Exiting.')
     sys.exit(0)
 
 if __name__ == "__main__":
     signal(SIGINT, signal_handler)
-    dns_server = os.environ['DNS_SERVER_TO_QUERY']
-    if dns_server is None:
-        print("error, env var DNS_SERVER_TO_QUERY is unset.")
-        exit(1)
+    log("downloading domains...")
     tmpfile = download_domains()
     domains = read_domains(tmpfile)
     log("resolving domains...")
-    results = resolve_domains(domains, dns_server)
-    log("processing domains...")
-    abandoned_domains = set()
-    processed_domains = set()
-    ipv4_addrs: dict[str,list[str]] = {}
-    ipv6_addrs: dict[str,list[str]] = {}
-    if results is not None:
-        for result in results:
-            if result.rcode != 0:
-                abandoned_domains.add(result.domain)
-            match result.type:
-                case 'A':
-                    e = ipv4_addrs.get(result.value, [])
-                    e.append(result.domain)
-                    ipv4_addrs[result.value] = e
-                    processed_domains.add(result.domain)
-                case 'AAAA':
-                    e = ipv6_addrs.get(result.value, [])
-                    e.append(result.domain)
-                    ipv6_addrs[result.value] = e
-                    processed_domains.add(result.domain)
-                case _:
-                    continue
-    else:
-        print("::: ERROR - Results was NoneType")
-        exit(1)
+    results = resolve_domains(domains)
+    log(f'processed {len(domains)} domains into {len(results)} IP addresses')
+    log(f'{results.num_resolved} addresses resolved, {results.num_failed} domains failed')
     log("saving domains...")
-    write_domains("domains_abandoned.txt", abandoned_domains, "unresolved domains, presumed abandoned")
-    write_domains("domains_resolved.txt", processed_domains, "domains processed into block list")
-    write_blacklist("doh-ipv4.txt", ipv4_addrs, "IPv4 DoH IP addresses", 20)
-    write_blacklist("doh-ipv6.txt", ipv6_addrs, "IPv6 DoH IP addresses", 40)
+    write_domains("domains_abandoned.txt", results.domains_failed, "unresolved domains, presumed abandoned")
+    write_domains("domains_resolved.txt", results.domains_passed, "domains processed into block list")
+    write_blacklist("doh-ipv4.txt", results.IPv4Addrs, "IPv4 DoH IP addresses", 20)
+    write_blacklist("doh-ipv6.txt", results.IPv6Addrs, "IPv6 DoH IP addresses", 40)
     print("Done")
