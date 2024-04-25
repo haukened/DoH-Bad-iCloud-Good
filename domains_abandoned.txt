@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-04-25 08:37:00
+# updated at 2024-04-25 12:23:15
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -59,7 +59,6 @@ dns.d365.in
 dns.dns-over-https.com
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.edgy.network
 dns.ellichua.com
 dns.emeraldonion.org
@@ -82,7 +81,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.wevpn.com
@@ -146,7 +144,7 @@ jcdns.fun
 jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
-krtekvpn.duckdns.org
+jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -170,6 +168,7 @@ thanos.pleumkungz.com
 tk31z.com
 tlz.asia
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
