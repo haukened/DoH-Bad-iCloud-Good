@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-04-25 01:04:09
+# updated at 2024-04-25 08:37:00
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -257,7 +257,6 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
-dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -533,8 +532,6 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.disconnect.app
 doh.dns-ga.de
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
@@ -754,7 +751,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
@@ -848,6 +844,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 paranoia.mydns.network
+pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
