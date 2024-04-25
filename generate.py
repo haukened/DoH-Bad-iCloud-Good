@@ -107,7 +107,8 @@ def download_domains() -> str:
 
 def read_domains(filepath: str) -> list[str]:
     with open(filepath) as file:
-        lines = [line.rstrip() for line in file if "icloud" not in line]
+        lines = [line.rstrip() for line in file if "icloud.com" not in line]
+        lines = [line for line in lines if "apple.com" not in line]
     # remove temp file
     os.remove(filepath)
     log(f"downloaded {len(lines)} domains")
