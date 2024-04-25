@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-04-24 17:25:12
+# updated at 2024-04-25 01:04:09
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -81,6 +81,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.wevpn.com
@@ -91,7 +92,6 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnses.alekberg.net
 dnsvps.familiamv.ml
-doh.360.cn
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
@@ -156,6 +156,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz

@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-04-24 17:25:12
+# updated at 2024-04-25 01:04:09
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -397,7 +397,6 @@ dns.shecan.ir
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -510,6 +509,7 @@ doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.apad.pro
@@ -848,7 +848,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 paranoia.mydns.network
-pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
