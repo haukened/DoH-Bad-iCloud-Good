@@ -14,6 +14,8 @@ from urllib.request import urlretrieve
 DOMAIN_LIST_URL="https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains_overall.txt"
 DOMAIN_PRETTY="https://github.com/dibdot/DoH-IP-blocklists"
 
+should_exit = False
+
 class DNSResult:
     addr: str
     domains: list[str]
@@ -156,10 +158,13 @@ def metaquery(domain: str) -> list[str]:
     return results
 
 def resolve_domains(domains: list[str]) -> DNSResults:
+    global should_exit
     results = DNSResults()
     total = len(domains)
     current = 0
     for domain in domains:
+        if should_exit:
+            sys.exit(1)
         query_results = metaquery(domain)
         if len(query_results) == 0:
             results.failed(domain)
@@ -173,8 +178,10 @@ def resolve_domains(domains: list[str]) -> DNSResults:
     return results
 
 def signal_handler(sig, frame) -> None:
+    global should_exit
+    should_exit = True
     print('\nCtrl+C caught. Exiting.')
-    sys.exit(0)
+    sys.exit(1)
 
 if __name__ == "__main__":
     signal(SIGINT, signal_handler)
