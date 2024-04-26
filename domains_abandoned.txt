@@ -1,11 +1,12 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-04-25 12:23:15
+# updated at 2024-04-26 00:57:37
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
+aattwwss.duckdns.org
 ad-dns.lista.my.id
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -36,6 +37,7 @@ bld.sys-adm.in
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -133,7 +135,9 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -156,6 +160,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
@@ -168,7 +173,6 @@ thanos.pleumkungz.com
 tk31z.com
 tlz.asia
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
