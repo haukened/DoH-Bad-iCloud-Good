@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-04-30 00:56:47
+# updated at 2024-04-30 12:26:37
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -616,7 +616,6 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.disconnect.app
 doh.dns-ga.de
-doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
