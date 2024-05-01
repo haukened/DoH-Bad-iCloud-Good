@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-01 01:01:59
+# updated at 2024-05-01 12:27:48
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -82,6 +82,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.wevpn.com
@@ -96,7 +97,6 @@ doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
-doh.dns.sb
 doh.dnslify.com
 doh.doh.my.id
 doh.es.ahadns.net
