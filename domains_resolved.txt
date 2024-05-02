@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-02 00:57:32
+# updated at 2024-05-02 12:27:18
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -237,7 +237,6 @@ dns.benpro.fr
 dns.beta.gandi.net
 dns.bitdefender.net
 dns.bitservices.io
-dns.blaze-sk.ru
 dns.blokada.org
 dns.bobstrecansky.com
 dns.bofh.in
@@ -456,7 +455,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -651,7 +649,6 @@ doh.maskab.com
 doh.max.net.id
 doh.micronets.in
 doh.mmmalia.com
-doh.morizt.id
 doh.mullvad.net
 doh.neowutran.ovh
 doh.nic.lv
