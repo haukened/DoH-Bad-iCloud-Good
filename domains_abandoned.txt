@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-03 01:00:53
+# updated at 2024-05-03 12:26:15
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -169,9 +169,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tlz.asia
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
