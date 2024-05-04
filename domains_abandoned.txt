@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-04 00:58:03
+# updated at 2024-05-04 12:24:52
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -136,6 +136,7 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -146,6 +147,7 @@ jcdns.fun
 jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
+jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
