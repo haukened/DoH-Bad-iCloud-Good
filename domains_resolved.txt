@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-06 00:59:37
+# updated at 2024-05-06 12:26:48
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -795,6 +795,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -844,6 +845,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
