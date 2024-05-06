@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-05 12:26:14
+# updated at 2024-05-06 00:59:37
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -124,7 +124,6 @@ bluemood.me
 bom01.dnscry.pt
 br.servers.legat.ml
 bravedns.com
-buc-m2.illmods.com
 c.cicitt.ch
 ca-yyc.doh.sb
 ca.doh.cloudveil.org
@@ -308,6 +307,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -454,7 +454,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -587,6 +586,7 @@ doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -795,7 +795,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -845,7 +844,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi

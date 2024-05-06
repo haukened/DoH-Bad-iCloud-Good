@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-05 12:26:14
+# updated at 2024-05-06 00:59:37
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -33,6 +33,7 @@ b.safe.ns.dnslify.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
+buc-m2.illmods.com
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -67,7 +68,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.invisv.com
@@ -84,6 +84,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.wevpn.com
@@ -95,7 +96,6 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnses.alekberg.net
 dnsvps.familiamv.ml
-doh.360.cn
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
@@ -139,6 +139,7 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -149,6 +150,7 @@ jcdns.fun
 jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
