@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-11 00:58:09
+# updated at 2024-05-11 12:26:20
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -92,6 +92,7 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca

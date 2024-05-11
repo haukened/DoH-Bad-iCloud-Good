@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-11 00:58:09
+# updated at 2024-05-11 12:26:20
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -510,7 +510,6 @@ dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.youni.win
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
