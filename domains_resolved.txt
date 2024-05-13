@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-12 12:27:54
+# updated at 2024-05-13 01:00:20
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
