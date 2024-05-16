@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-16 01:00:18
+# updated at 2024-05-16 12:28:53
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -7,7 +7,6 @@
 5g.o0o.re
 8888.google
 a.zpn.me
-aattwwss.duckdns.org
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -142,7 +141,6 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
-cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -306,6 +304,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -510,6 +509,7 @@ dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.youni.win
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -745,7 +745,6 @@ family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -794,7 +793,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -803,7 +801,6 @@ httpdns.meituan.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
-ibuki.cgnat.net
 id.terra.my.id
 ihctw.synology.me
 iij.jp
@@ -830,7 +827,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -845,6 +841,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
@@ -937,7 +934,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -973,6 +969,7 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1075,6 +1072,7 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt

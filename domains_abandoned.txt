@@ -1,11 +1,12 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-16 01:00:18
+# updated at 2024-05-16 12:28:53
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
+aattwwss.duckdns.org
 ad-dns.lista.my.id
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -37,6 +38,7 @@ bld.sys-adm.in
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -69,7 +71,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.invisv.com
@@ -92,7 +93,6 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.ypbind.de
-dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
@@ -138,20 +138,23 @@ ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 example.doh.blockerdns.com
+family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
+ibuki.cgnat.net
 inde.ragnvindr.org
 iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
-krtekvpn.duckdns.org
+jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -163,8 +166,8 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
-punono.duckdns.org
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
 sg.adhole.org
@@ -176,7 +179,6 @@ thanos.pleumkungz.com
 tk31z.com
 tlz.asia
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
