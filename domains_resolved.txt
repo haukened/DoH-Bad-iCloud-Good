@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-17 00:59:13
+# updated at 2024-05-17 12:26:39
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -51,7 +51,6 @@ adguard.ender.fr
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
-adguard.jfchenier.ca
 adguard.kiboko.it
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -282,7 +281,6 @@ dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -306,7 +304,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -453,6 +450,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -688,6 +686,7 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
+doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh1.blahdns.com
@@ -814,7 +813,6 @@ inpssh.online
 internetsehat.bebasid.com
 iow-dns.bitdefender.net
 ipoac.nl
-irre.li
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
