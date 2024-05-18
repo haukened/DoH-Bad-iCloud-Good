@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-17 12:26:39
+# updated at 2024-05-18 00:58:49
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -63,7 +63,6 @@ dns.d365.in
 dns.dns-over-https.com
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.edgy.network
 dns.ellichua.com
 dns.emeraldonion.org
