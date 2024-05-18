@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-18 00:58:49
+# updated at 2024-05-18 12:26:06
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -141,7 +141,6 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
-cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -451,7 +450,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
