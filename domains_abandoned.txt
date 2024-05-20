@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-19 12:26:22
+# updated at 2024-05-20 01:00:05
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -89,6 +89,7 @@ dns.repressoh.it
 dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
+dns.truong.fi
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
