@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-20 12:30:37
+# updated at 2024-05-21 00:59:59
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -844,6 +844,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
@@ -936,6 +937,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
