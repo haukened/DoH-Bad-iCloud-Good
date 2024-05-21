@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-21 00:59:59
+# updated at 2024-05-21 12:28:39
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -37,7 +37,6 @@ adg.rueiliu.space
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
-adguard.aa4.co.uk
 adguard.abd.ong
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -51,6 +50,7 @@ adguard.ender.fr
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
+adguard.jfchenier.ca
 adguard.kiboko.it
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -452,7 +452,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -550,7 +549,6 @@ dns64.dns.google
 dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
-dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -645,7 +643,6 @@ doh.maskab.com
 doh.max.net.id
 doh.micronets.in
 doh.mmmalia.com
-doh.morizt.id
 doh.mullvad.net
 doh.neowutran.ovh
 doh.nic.lv
@@ -794,7 +791,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -864,7 +860,6 @@ mail.data.haus
 mailer.amlegion.org
 mailkyb.co
 mainframe.dewed.de
-masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz

@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-21 00:59:59
+# updated at 2024-05-21 12:28:39
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -11,11 +11,11 @@ adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
+adguard.aa4.co.uk
 adguard.ambiya.net
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.jfchenier.ca
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.lista.my.id
@@ -86,6 +86,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -96,6 +97,7 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
+dnsenc.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
@@ -110,6 +112,7 @@ doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
+doh.morizt.id
 doh.nala.ru
 doh.netweaver.uk
 doh.no.ahadns.net
@@ -141,6 +144,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -154,6 +158,7 @@ jp.gridns.xyz
 jp.ray0512.win
 kswro.web.id
 lion.yazilimatolye.com
+masters-of-cloud.de
 neatdns.ustclug.org
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
