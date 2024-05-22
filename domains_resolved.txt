@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-21 12:28:39
+# updated at 2024-05-22 00:59:50
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -7,7 +7,6 @@
 5g.o0o.re
 8888.google
 a.zpn.me
-aattwwss.duckdns.org
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -102,7 +101,6 @@ armorrush.eu.org
 at.pzhg.me
 atl01.dnscry.pt
 au-syd.doh.sb
-au.rslvr.eu
 au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
@@ -452,6 +450,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -643,6 +642,7 @@ doh.maskab.com
 doh.max.net.id
 doh.micronets.in
 doh.mmmalia.com
+doh.morizt.id
 doh.mullvad.net
 doh.neowutran.ovh
 doh.nic.lv
@@ -784,13 +784,13 @@ h.gjrick.tw
 helios.plan9-dns.com
 hitian.me
 hk-hkg.doh.sb
-hk.rslvr.eu
 hk2.ooroot.com
 hkg01.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -819,13 +819,11 @@ jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp.68360612.xyz
-jp.rslvr.eu
 jp.tiar.app
 jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -860,6 +858,7 @@ mail.data.haus
 mailer.amlegion.org
 mailkyb.co
 mainframe.dewed.de
+masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
@@ -881,7 +880,6 @@ nebula.tru.io
 nenam.eu
 nl-ams.doh.sb
 nl-ams2.doh.sb
-nl.rslvr.eu
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
@@ -968,7 +966,6 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1027,7 +1024,6 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
 sg-sin.doh.sb
-sg.rslvr.eu
 sg.teradns.org
 sg01.dns4me.net
 sg1.dnswarden.com
@@ -1091,7 +1087,6 @@ unicast.uncensoreddns.org
 uradoori.org
 urology.wiki
 us.doh.cloudveil.org
-us.rslvr.eu
 us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
