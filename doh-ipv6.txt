@@ -32,6 +32,7 @@
 2001:41d0:8:9a14::1                      # yarp.lefolgoc.net
 2001:41d0:a:3cbc::1                      # jackyes.ovh
 2001:41d0:a:5e02::1                      # adguard.ender.fr
+2001:448a:404e:7ebd:26cf:24ff:fe32:38a2  # gustamadh.dynv6.net
 2001:4610:a:4b::466f                     # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                      # dns.cmrg.net
 2001:470:1f15:b80::53                    # opennic.i2pd.xyz
@@ -112,8 +113,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:7000:0:4:0:53                 # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
+2003:180:2:1000:0:4:0:53                 # dns.telekom.de
+2003:180:2:8100:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -158,7 +159,7 @@
 2404:9400:41a9:4800::1                   # per.adfilter.net
 2406:da12:6cb:df00:7a77:c387:2bed:613c   # kr-sel.doh.sb
 2406:da19:9b4:6611::53                   # dns.goldplate.org
-2406:da1a:1b5:d610:a790:ae4b:c140:8b86   # pihole.aws.ketan.dev
+2406:da1a:1b5:d610:e51:cd54:4c17:1624    # pihole.aws.ketan.dev
 2406:ef80:2:5ee4::1                      # doh-sg.blahdns.com dot-sg.blahdns.com
 2406:ef80:2:8f28::1                      # sg.teradns.org
 2406:ef80:4:1537::1                      # doh-jp.blahdns.com dot-jp.blahdns.com
@@ -184,7 +185,7 @@
 2600:1f28:60:801:8c04:d5e0:5ba7:fcbf     # dns.api.integration.globuscs.info
 2600:1f28:60:802:2187:d62b:c4bc:ce2e     # dns.api.staging.globuscs.info
 2600:1f28:60:802:27e:6ae0:3667:bcac      # dns.api.preview.globus.org
-2600:1f28:60:802:66e1:8f7f:fd63:6c98     # dns.api.test.globuscs.info
+2600:1f28:60:802:6752:bf88:f603:426f     # dns.api.test.globuscs.info
 2600:1f28:60:802:9b05:54c0:e828:53d5     # dns.api.integration.globuscs.info
 2600:1f28:60:802:b8a0:f1da:a32a:a2a9     # dns.api.sandbox.globuscs.info
 2600:3c00::f03c:93ff:fe79:3686           # tx.teradns.org
@@ -222,6 +223,7 @@
 2603:c022:8004:dfaa:ac07:c4be:baaf:c7db  # dns.txq.life
 2603:c023:1:8763:80d6:891:ed34:7b18      # dns.chromeina.top
 2603:c023:7:8700::8888                   # oraclejp2.chungyu.com
+2603:c024:4507:6821:456c:317b:2f25:11bc  # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd   # dns.0ooo.icu
 2603:c024:8001:2700:e6f4:73a7:b352:919e  # ag.ssrahul96.xyz
 2603:c024:9:35af:19c7:3532:ac18:f4b9     # dns.moonssif.com
@@ -524,6 +526,7 @@
 2a01:9e00::55                            # rdns.faelix.net
 2a01:9e01::54                            # rdns.faelix.net
 2a01:9e01::55                            # rdns.faelix.net
+2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d    # cloud.tezoi.com
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1    # rayneau.fr
 2a02:168:6604:25::65                     # doh.datacore.ch
 2a02:1788:8ff::1                         # ns1.recursive.dnsbycomodo.com
