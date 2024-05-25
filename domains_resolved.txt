@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-25 00:58:37
+# updated at 2024-05-25 12:28:39
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -7,7 +7,6 @@
 5g.o0o.re
 8888.google
 a.zpn.me
-aattwwss.duckdns.org
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -450,7 +449,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -459,6 +457,7 @@ dns.slinkyman.net
 dns.smartguard.io
 dns.spil.co.id
 dns.spirio.fr
+dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.strassmair.org
@@ -789,7 +788,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -823,7 +821,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -838,7 +835,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
@@ -1067,8 +1063,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
