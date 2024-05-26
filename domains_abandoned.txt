@@ -1,12 +1,11 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-25 12:28:39
+# updated at 2024-05-26 01:04:46
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
-aattwwss.duckdns.org
 ad-dns.lista.my.id
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -73,6 +72,7 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.invisv.com
@@ -89,10 +89,10 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
+dns.warpnine.de
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
@@ -155,13 +155,12 @@ i.passcloud.xyz
 inde.ragnvindr.org
 iris.woozeno.eu
 irre.li
+jambi.undo.it
 jcdns.fun
 jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -186,9 +185,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tlz.asia
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
