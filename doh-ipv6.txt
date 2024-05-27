@@ -10,6 +10,7 @@
 2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0    # dns.fullaccesstointernet.jp.eu.org
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
+2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:b001:21e:5400:4ff:fecf:6ed9    # dns.kusoneko.moe
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
 2001:19f0:b001:8fa:5400:3ff:fe8b:d05c    # ca-yyc.doh.sb
@@ -101,7 +102,7 @@
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
 2001:920:1001:1111:a53f:56a3:8fd1:1      # dns.repinger.my.id
-2001:9e8:4003:6d20:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:849e:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -112,8 +113,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:7000:0:4:0:53                 # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
+2003:180:2::4:0:53                       # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -244,7 +245,6 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265   # dns.mestdag.fr dns.superstefan.win dns.unerror.network
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:a94                   # cdn.0ms.dev
@@ -257,6 +257,7 @@
 2606:4700:3030::6815:26f6                # doh.runsel.id
 2606:4700:3030::6815:2a7e                # dns.dgea.fr
 2606:4700:3030::6815:2bbc                # dns.kosan.moe
+2606:4700:3030::6815:2c68                # dns.unerror.network
 2606:4700:3030::6815:532e                # ivnkn.xyz
 2606:4700:3030::6815:533e                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:4700:3030::ac43:87fb                # dnsforfamily.com
@@ -267,6 +268,7 @@
 2606:4700:3030::ac43:b69a                # dns.paesa.es
 2606:4700:3030::ac43:c17e                # doh.ccb-net.it
 2606:4700:3030::ac43:c52a                # doh.killtw.im
+2606:4700:3030::ac43:ca69                # dns.superstefan.win
 2606:4700:3030::ac43:ce5a                # dns.240527.xyz
 2606:4700:3030::ac43:d608                # ivnkn.xyz
 2606:4700:3030::ac43:d6f6                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
@@ -303,6 +305,7 @@
 2606:4700:3032::ac43:c6e5                # dns.daemon.za.net
 2606:4700:3032::ac43:d2c8                # jp.68360612.xyz
 2606:4700:3033::6815:101f                # lindung.pp.ua
+2606:4700:3033::6815:18b0                # dns.mestdag.fr
 2606:4700:3033::6815:25ae                # jp.68360612.xyz
 2606:4700:3033::6815:2ac6                # pooblet.co.za
 2606:4700:3033::6815:2bd                 # www.maxfong.cc
@@ -317,8 +320,10 @@
 2606:4700:3033::ac43:a1e5                # dns-free.link
 2606:4700:3033::ac43:a495                # doh.tiarap.org jp.tiarap.org
 2606:4700:3033::ac43:bc78                # comss.one
+2606:4700:3033::ac43:c6b9                # dns.unerror.network
 2606:4700:3033::ac43:cb9c                # dns.jstockley.com
 2606:4700:3034::6815:10ad                # dns.rayanbab.com
+2606:4700:3034::6815:250f                # dns.superstefan.win
 2606:4700:3034::6815:2e98                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3034::6815:32eb                # ikarosalpha.xyz
 2606:4700:3034::6815:3545                # dns.silentlybren.com
@@ -370,6 +375,7 @@
 2606:4700:3037::ac43:c880                # sundalandia.pp.ua
 2606:4700:3037::ac43:d50d                # dns.iki.my.id
 2606:4700:3037::ac43:d5d8                # ikarosalpha.xyz
+2606:4700:3037::ac43:dbdc                # dns.mestdag.fr
 2606:4700:3108::ac42:2859                # ns.mtsoln.com
 2606:4700:3108::ac42:2890                # comss.ru
 2606:4700:3108::ac42:2922                # dns.rotunneling.net
@@ -440,7 +446,6 @@
 2803:f800:53::5                          # opera.cloudflare-dns.com
 2803:f800:54::1                          # odoh.cloudflare-dns.com
 2a00:1158:0:100::14                      # doh.hottis.de
-2a00:11c0:39:353::3                      # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a00:4820:31b0:0:dacb:8aff:feba:55d7     # doh.port53.dk
 2a00:5980:94::71                         # dns.circl.lu
 2a00:6800:3:4bd::                        # ns2.opennameserver.org
@@ -651,7 +656,7 @@
 2a0d:5600:33:3::abcd                     # doh.eastus.pi-dns.com dot.eastus.pi-dns.com
 2a0d:8480:3:b9::1                        # ada.openbld.net
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt
-2a0e:6902:2002:12b:5054:ff:fed7:6b78     # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt
 2a0f:5707:aae1:8421::1                   # dns.internal.hosmatic.com
