@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-05-28 01:00:39
+# updated at 2024-05-28 12:29:25
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -160,8 +160,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -174,6 +172,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 punono.duckdns.org
 resolver-eu.lelux.fi
@@ -188,7 +187,6 @@ thanos.pleumkungz.com
 tk31z.com
 tlz.asia
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
