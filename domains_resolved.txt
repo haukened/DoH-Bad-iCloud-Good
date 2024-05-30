@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-05-30 00:59:34
+# updated at 2024-05-30 12:28:29
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -354,7 +354,6 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 dns.keweon.center
-dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.kugoapps.com
