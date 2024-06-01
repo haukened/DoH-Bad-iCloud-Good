@@ -10,7 +10,7 @@
 2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0    # dns.fullaccesstointernet.jp.eu.org
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
-2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:b001:21e:5400:4ff:fecf:6ed9    # dns.kusoneko.moe
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
 2001:19f0:b001:8fa:5400:3ff:fe8b:d05c    # ca-yyc.doh.sb
@@ -114,8 +114,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
 2003:180:2:7000:0:4:0:53                 # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -176,12 +176,12 @@
 2600:1f28:60:800:1c05:d89f:f36a:6815     # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:22ee:47fe:4c1d:3852     # dns.api.staging.globuscs.info
 2600:1f28:60:800:83b2:b206:f9a7:19eb     # dns.api.test.globuscs.info
-2600:1f28:60:800:e540:980f:f506:7ace     # dns.api.integration.globuscs.info
+2600:1f28:60:800:d103:e2bf:ff36:d361     # dns.api.integration.globuscs.info
 2600:1f28:60:800:e73e:ab19:a9d8:6a5f     # dns.api.preview.globus.org
 2600:1f28:60:801:2495:a670:f8d:db2e      # dns.api.test.globuscs.info
 2600:1f28:60:801:3c9d:85be:e9d9:42a0     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:3cf4:54f2:6b62:7088     # dns.api.staging.globuscs.info
-2600:1f28:60:801:8c04:d5e0:5ba7:fcbf     # dns.api.integration.globuscs.info
+2600:1f28:60:801:4408:ddea:770b:74b4     # dns.api.integration.globuscs.info
 2600:1f28:60:801:c0bb:221b:6ad5:b688     # dns.api.preview.globus.org
 2600:1f28:60:802:2187:d62b:c4bc:ce2e     # dns.api.staging.globuscs.info
 2600:1f28:60:802:27e:6ae0:3667:bcac      # dns.api.preview.globus.org
@@ -520,6 +520,7 @@
 2a01:4ff:f0:24ff::1                      # dns1.us.newpangea.de
 2a01:4ff:f0:ca92::1                      # dns.smartguard.io
 2a01:678:3:8::2                          # resolver2.absolight.net
+2a01:678:3:9::2                          # resolver1.absolight.net
 2a01:678:3:a::2                          # resolver3.absolight.net
 2a01:7c8:d002:1ef:5054:ff:fe40:3703      # doh.powerdns.org
 2a01:7e01::f03c:92ff:fea3:14b0           # dns.hypercute.eu
@@ -656,7 +657,7 @@
 2a0d:5600:33:3::abcd                     # doh.eastus.pi-dns.com dot.eastus.pi-dns.com
 2a0d:8480:3:b9::1                        # ada.openbld.net
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt
-2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt
 2a0f:5707:aae1:8421::1                   # dns.internal.hosmatic.com
