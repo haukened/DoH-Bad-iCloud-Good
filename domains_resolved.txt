@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-01 01:04:07
+# updated at 2024-06-01 12:26:54
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -33,7 +33,6 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
@@ -450,6 +449,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
