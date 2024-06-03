@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-03 01:01:43
+# updated at 2024-06-03 12:29:21
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -88,6 +88,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -135,7 +136,6 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.pl.ahadns.net
 draco.plan9-ns2.com
-dub01.dnscry.pt
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -170,6 +170,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
