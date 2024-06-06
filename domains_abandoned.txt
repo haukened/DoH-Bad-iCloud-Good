@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-05 12:28:46
+# updated at 2024-06-06 01:00:51
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -73,7 +73,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.invisv.com
@@ -182,7 +181,9 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
