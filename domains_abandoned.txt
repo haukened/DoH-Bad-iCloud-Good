@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-07 01:03:13
+# updated at 2024-06-07 12:28:47
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -75,6 +75,7 @@ dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
+dns.haoxuan.xyz
 dns.invisv.com
 dns.itdept.pro
 dns.jucker.engineering
@@ -89,7 +90,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
