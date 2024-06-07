@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-06 12:28:25
+# updated at 2024-06-07 01:03:13
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -160,7 +160,6 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kswro.web.id
-lion.yazilimatolye.com
 neatdns.ustclug.org
 nl.rslvr.eu
 ns1-doh.iriseden.fr

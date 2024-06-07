@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-06 12:28:25
+# updated at 2024-06-07 01:03:13
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -846,6 +846,7 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 llk01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
