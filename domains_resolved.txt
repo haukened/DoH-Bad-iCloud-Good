@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-08 01:01:38
+# updated at 2024-06-08 12:27:33
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -7,7 +7,6 @@
 5g.o0o.re
 8888.google
 a.zpn.me
-aattwwss.duckdns.org
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -448,7 +447,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -789,7 +787,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -836,6 +833,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
@@ -928,7 +926,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1034,7 +1031,6 @@ sink.nolo.ltd
 sitdns.com
 sky.rethinkdns.com
 slc01.dnscry.pt
-snoke.meganerd.nl
 sof01.dnscry.pt
 spacedns.org
 sriedmueadguard.casa
@@ -1065,7 +1061,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
@@ -1129,5 +1124,6 @@ yul01.dnscry.pt
 yunyun.is.my.waifu.cz
 zal01.dnscry.pt
 zero.dns0.eu
+zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
