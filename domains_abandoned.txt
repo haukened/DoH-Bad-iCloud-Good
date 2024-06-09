@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-09 01:05:50
+# updated at 2024-06-09 12:27:58
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -42,7 +42,6 @@ chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -74,6 +73,7 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -91,7 +91,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -185,6 +184,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
