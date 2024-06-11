@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-11 01:02:10
+# updated at 2024-06-11 12:29:34
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -116,6 +116,7 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
+blog.kimiblock.top
 bluemood.me
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -216,7 +217,6 @@ dns.api.rackspacecloud.com
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
-dns.apigw.online
 dns.aquilenet.fr
 dns.ares-taiwan.com
 dns.artikel10.org
@@ -928,6 +928,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1065,6 +1066,7 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt

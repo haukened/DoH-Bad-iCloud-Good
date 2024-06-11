@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-11 01:02:10
+# updated at 2024-06-11 12:29:34
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -36,7 +36,6 @@ b.safe.ns.dnslify.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
-blog.kimiblock.top
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -56,6 +55,7 @@ dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
 dns.anonymous.pw
+dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
 dns.blaze-sk.ru
@@ -172,7 +172,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
@@ -186,7 +185,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
