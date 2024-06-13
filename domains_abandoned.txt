@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-12 12:29:36
+# updated at 2024-06-13 01:02:26
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -91,7 +91,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -108,6 +107,7 @@ dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.boje8.me
 doh.chi.ahadns.net
 doh.dnslify.com
 doh.doh.my.id
@@ -162,6 +162,8 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -175,6 +177,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
+quic.lol
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
 sg.adhole.org
@@ -186,9 +189,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
