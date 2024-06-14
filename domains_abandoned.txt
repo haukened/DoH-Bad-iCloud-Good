@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-13 12:29:10
+# updated at 2024-06-14 01:02:14
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -67,6 +67,7 @@ dns.d365.in
 dns.dns-over-https.com
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.edgy.network
 dns.ellichua.com
 dns.emeraldonion.org
@@ -74,13 +75,13 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.invisv.com
 dns.itdept.pro
 dns.jucker.engineering
+dns.koala.us.to
 dns.lightmaster.pw
 dns.lsho.top
 dns.mipauns.com
@@ -92,6 +93,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -162,6 +164,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -174,8 +177,8 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
-public-dns-a.dns.sb
 quic.lol
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
