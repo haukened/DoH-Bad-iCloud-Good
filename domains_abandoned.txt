@@ -1,11 +1,12 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-14 12:30:19
+# updated at 2024-06-15 01:01:43
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
+aattwwss.duckdns.org
 ad-dns.lista.my.id
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -83,7 +84,6 @@ dns.jucker.engineering
 dns.lightmaster.pw
 dns.lsho.top
 dns.mipauns.com
-dns.nas-server.ru
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud

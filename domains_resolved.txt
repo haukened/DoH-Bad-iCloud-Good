@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-14 12:30:19
+# updated at 2024-06-15 01:01:43
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -7,7 +7,6 @@
 5g.o0o.re
 8888.google
 a.zpn.me
-aattwwss.duckdns.org
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -389,6 +388,7 @@ dns.murgi.de
 dns.muxinghe.cn
 dns.mzrme.cn
 dns.narl.app
+dns.nas-server.ru
 dns.neilzone.co.uk
 dns.neubsi.at
 dns.nextdns.io
