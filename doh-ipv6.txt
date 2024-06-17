@@ -11,6 +11,7 @@
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:8001:cd4:5400:4ff:fe58:1f47    # hitian.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
+2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:b001:21e:5400:4ff:fecf:6ed9    # dns.kusoneko.moe
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
 2001:19f0:b001:8fa:5400:3ff:fe8b:d05c    # ca-yyc.doh.sb
@@ -114,7 +115,7 @@
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
 2003:180:2:7000:0:4:0:53                 # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
+2003:180:2:8100:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -125,7 +126,6 @@
 2003:a:b15:4500::1                       # 3dns.eu
 2400:3200::1                             # dns.alidns.com
 2400:3200:baba::1                        # dns.alidns.com
-2400:52e0:1a01::953:1                    # doh2.b-cdn.net doh2.blahdns.com
 2400:6180:0:d0::45a:b001                 # sg-sin.doh.sb
 2400:6180:0:d0::5f73:4001                # doh.tiar.app dot.tiar.app
 2400:6180:0:d0::f7:1001                  # sg-dns1.bancuh.com
@@ -175,8 +175,8 @@
 2600:1f28:14:801:27a8:999a:d579:9c9f     # dns.api.globus.org
 2600:1f28:14:802:f1d0:d9a0:8173:ac2c     # dns.api.globus.org
 2600:1f28:60:800:3466:229:bf68:faed      # dns.api.test.globuscs.info
-2600:1f28:60:800:715c:217:f94c:80c       # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:99b2:6a8a:f442:96f5     # dns.api.preview.globus.org
+2600:1f28:60:800:ce31:aa85:353:c906      # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:e326:7862:f56:4064      # dns.api.integration.globuscs.info
 2600:1f28:60:800:e81f:542b:c255:258d     # dns.api.staging.globuscs.info
 2600:1f28:60:801:25d2:15cd:160c:62c6     # dns.api.staging.globuscs.info
@@ -465,6 +465,7 @@
 2a00:c98:4002:2:c::115                   # dns.keweon.center
 2a00:c98:4002:2:c::117                   # dns.keweon.center
 2a00:d78:0:712:94:198:159:3              # doh.sidnlabs.nl
+2a00:da00:f201:3300::1                   # dns.oszx.co
 2a00:f826:8:1::254                       # opennic1.eth-services.de
 2a00:fbe0:1:3802::3                      # kracon.anycast.censurfridns.dk kracon.anycast.uncensoreddns.org
 2a01:111:f100:6000::4134:a07f            # dns.mzrme.cn
@@ -658,6 +659,7 @@
 2a0d:5600:33:3::abcd                     # doh.eastus.pi-dns.com dot.eastus.pi-dns.com
 2a0d:8480:3:b9::1                        # ada.openbld.net
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt
+2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt
 2a0f:5707:aae1:8421::1                   # dns.internal.hosmatic.com

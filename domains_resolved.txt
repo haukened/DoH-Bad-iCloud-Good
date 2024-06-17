@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-16 12:27:36
+# updated at 2024-06-17 01:04:00
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -405,6 +405,7 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
 dns.paesa.es
@@ -446,6 +447,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
