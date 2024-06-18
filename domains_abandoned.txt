@@ -1,11 +1,12 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-17 12:28:40
+# updated at 2024-06-18 01:02:48
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
+aattwwss.duckdns.org
 ad-dns.lista.my.id
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -23,6 +24,7 @@ adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
+adguard.quydang.name.vn
 adguardh.ga
 aihe.app
 anydoh.sidnlabs.nl
@@ -91,6 +93,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -160,6 +163,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -172,7 +176,9 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
@@ -186,6 +192,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
