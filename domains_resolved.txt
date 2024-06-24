@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-24 01:03:44
+# updated at 2024-06-24 12:30:46
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -194,7 +194,6 @@ dns.7vpn.com
 dns.886886886.xyz
 dns.888654.xyz
 dns.9999.sg
-dns.a47.me
 dns.aa.net.uk
 dns.abdullahabas.de
 dns.adguard-dns.com
@@ -849,7 +848,6 @@ lv1.nixnet.xyz
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mailkyb.co
 mainframe.dewed.de
 masters-of-cloud.de
 max.rethinkdns.com
@@ -1060,7 +1058,6 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt

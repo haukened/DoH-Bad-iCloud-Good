@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-24 01:03:44
+# updated at 2024-06-24 12:30:46
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -55,6 +55,7 @@ dns-public.ibakerserver.pt
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
+dns.a47.me
 dns.aaflalo.me
 dns.aaytorr.com
 dns.anonymous.pw
@@ -167,6 +168,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kswro.web.id
 lion.yazilimatolye.com
+mailkyb.co
 neatdns.ustclug.org
 nl.rslvr.eu
 ns1-doh.iriseden.fr
@@ -191,6 +193,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org
