@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-25 01:02:56
+# updated at 2024-06-25 12:30:05
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -17,6 +17,7 @@ adguard.ambiya.net
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.lista.my.id
@@ -150,7 +151,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
-gclouddns.com
 groupy.ga
 himedns.com
 hk.rslvr.eu
@@ -182,6 +182,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi

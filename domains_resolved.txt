@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-25 01:02:56
+# updated at 2024-06-25 12:30:05
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -46,7 +46,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
-adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
@@ -763,6 +762,7 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -918,7 +918,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
