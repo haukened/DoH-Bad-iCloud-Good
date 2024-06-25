@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-24 12:30:46
+# updated at 2024-06-25 01:02:56
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -55,7 +55,6 @@ dns-public.ibakerserver.pt
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
-dns.a47.me
 dns.aaflalo.me
 dns.aaytorr.com
 dns.anonymous.pw
@@ -100,6 +99,7 @@ dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
+dns.warma.me
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
@@ -150,9 +150,11 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
+gclouddns.com
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -166,9 +168,10 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
-mailkyb.co
 neatdns.ustclug.org
 nl.rslvr.eu
 ns1-doh.iriseden.fr
