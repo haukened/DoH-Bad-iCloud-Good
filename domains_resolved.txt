@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-26 01:02:51
+# updated at 2024-06-26 12:31:34
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -297,7 +297,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -442,6 +441,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -634,6 +634,7 @@ doh.micronets.in
 doh.mmmalia.com
 doh.morizt.id
 doh.mullvad.net
+doh.neowutran.ovh
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
@@ -779,7 +780,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1054,6 +1054,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
