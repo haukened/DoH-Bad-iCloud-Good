@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-06-27 12:29:26
+# updated at 2024-06-28 01:01:44
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -96,7 +96,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -107,7 +106,6 @@ dns.wugui.zone
 dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
-dns2.guidocioni.it
 dns2.ipv6.dnscrypt.ca
 dns4.imkvq.com
 dnsenc.com
@@ -200,6 +198,7 @@ tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
+uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org

@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-27 12:29:26
+# updated at 2024-06-28 01:01:44
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -442,6 +442,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -525,6 +526,7 @@ dns12.quad9.net
 dns13.quad9.net
 dns2.cbio.top
 dns2.digitale-gesellschaft.ch
+dns2.guidocioni.it
 dns2.klcd.eu
 dns2.linzefeng.top
 dns2.nextdns.io
@@ -1070,7 +1072,6 @@ uncensored.ny1.dns.nixnet.xyz
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
-uradoori.org
 urology.wiki
 us-ny-alula.heliumcloud.cc
 us.doh.cloudveil.org
