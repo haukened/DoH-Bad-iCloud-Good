@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-28 01:01:44
+# updated at 2024-06-28 12:29:17
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -674,7 +674,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh1.blahdns.com
