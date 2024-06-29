@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-29 01:01:21
+# updated at 2024-06-29 12:28:56
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -323,7 +323,6 @@ dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
-dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
 dns.interhub.cc
