@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-06-29 12:28:56
+# updated at 2024-06-30 01:07:14
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -296,7 +296,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
