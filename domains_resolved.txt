@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-04 01:03:42
+# updated at 2024-07-04 12:31:11
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -27,7 +27,6 @@ adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adblockersite.com
-addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
@@ -322,6 +321,7 @@ dns.ian.rocks
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -440,6 +440,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -774,7 +775,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -807,7 +807,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -882,6 +881,7 @@ ns2.opennameserver.org
 ns2.recursive.dnsbycomodo.com
 ns3.bit-trail.nl
 ns3.com
+ns3.cx
 ns3.link
 ns3.opennameserver.org
 ns4.opennameserver.org
@@ -912,7 +912,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1046,6 +1045,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
