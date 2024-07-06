@@ -98,7 +98,7 @@
 2001:8d8:820:3a00::b:c47                 # doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:4c1:6b4:feff:fe9b:eb1d     # area51.mywire.org
+2001:9e8:4003:14d7:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -110,8 +110,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:4000:0:4:0:53                 # dns.telekom.de
-2003:180:2:7000:0:4:0:53                 # dns.telekom.de
+2003:180:2:8100:0:4:0:53                 # dns.telekom.de
+2003:180:2::4:0:53                       # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -169,7 +169,7 @@
 2600:1f28:14:802:77a9:c2f9:7a14:786f     # dns.api.globus.org
 2600:1f28:60:800:51d0:f21d:3df:c919      # dns.api.integration.globuscs.info
 2600:1f28:60:800:5828:f8ee:f467:f328     # dns.api.staging.globuscs.info
-2600:1f28:60:800:8cad:865d:db80:63a7     # dns.api.sandbox.globuscs.info
+2600:1f28:60:800:7027:7dda:a513:c999     # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:ccbe:9ad8:317d:af58     # dns.api.test.globuscs.info
 2600:1f28:60:800:e420:958b:f187:9711     # dns.api.preview.globus.org
 2600:1f28:60:801:4ea6:146e:437e:4bd9     # dns.api.sandbox.globuscs.info
@@ -241,6 +241,7 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
+2606:4700:130:436c:6f75:6466:6c61:7265   # o1.lt
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:ea7                   # dns.gamban.com
@@ -274,9 +275,7 @@
 2606:4700:3031::6815:58dd                # cdn.0ms.dev
 2606:4700:3031::6815:595c                # family.puredns.org puredns.org
 2606:4700:3031::6815:887                 # comss.one
-2606:4700:3031::6815:df1                 # o1.lt
 2606:4700:3031::6815:fa9                 # dns.240527.xyz
-2606:4700:3031::ac43:8582                # o1.lt
 2606:4700:3031::ac43:8b63                # adguard.sparshbajaj.me
 2606:4700:3031::ac43:90b4                # vtcuong.site
 2606:4700:3031::ac43:9d36                # paulo.nom.za

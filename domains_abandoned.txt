@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-06 01:01:35
+# updated at 2024-07-06 12:28:32
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -97,7 +97,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -114,6 +113,7 @@ dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
+doh.360.cn
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
@@ -157,9 +157,11 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
+galileo.math.unipd.it
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -173,6 +175,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
