@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-05 12:28:51
+# updated at 2024-07-06 01:01:35
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -152,6 +152,7 @@ cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 d.adguard-dns.com
+d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
 dandelionsprout.asuscomm.com
@@ -440,7 +441,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
