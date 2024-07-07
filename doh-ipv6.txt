@@ -90,7 +90,7 @@
 2001:878:0:e000:82:e1:f4:a6              # deic-lgb.anycast.censurfridns.dk deic-lgb.anycast.uncensoreddns.org
 2001:878:0:e000:82:e2:a1:22              # deic-ore.anycast.censurfridns.dk deic-ore.anycast.uncensoreddns.org
 2001:8b0:24:24::24                       # dns-tls.bitwiseshift.net
-2001:8b0:836:900:f6c:6a44:d5f6:d9b8      # dns.neilzone.co.uk
+2001:8b0:836:900:978f:88ff:f46c:bd67     # dns.neilzone.co.uk
 2001:8b0::2022                           # dns.aa.net.uk
 2001:8b0::2023                           # dns.aa.net.uk
 2001:8d8:1800:835d::1                    # pihole4.hoerli.net
@@ -110,8 +110,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:8100:0:4:0:53                 # dns.telekom.de
-2003:180:2::4:0:53                       # dns.telekom.de
+2003:180:2:7000:0:4:0:53                 # dns.telekom.de
+2003:180:2:b000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -170,14 +170,14 @@
 2600:1f28:60:800:51d0:f21d:3df:c919      # dns.api.integration.globuscs.info
 2600:1f28:60:800:5828:f8ee:f467:f328     # dns.api.staging.globuscs.info
 2600:1f28:60:800:7027:7dda:a513:c999     # dns.api.sandbox.globuscs.info
-2600:1f28:60:800:ccbe:9ad8:317d:af58     # dns.api.test.globuscs.info
+2600:1f28:60:800:b739:e086:91eb:bb35     # dns.api.test.globuscs.info
 2600:1f28:60:800:e420:958b:f187:9711     # dns.api.preview.globus.org
+2600:1f28:60:801:13b1:ff55:e3f8:9cba     # dns.api.test.globuscs.info
 2600:1f28:60:801:4ea6:146e:437e:4bd9     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:a170:2bc2:d7a1:48f7     # dns.api.staging.globuscs.info
 2600:1f28:60:801:d9b5:8a7:5ead:8385      # dns.api.integration.globuscs.info
-2600:1f28:60:801:e323:b0d3:ee53:8719     # dns.api.test.globuscs.info
 2600:1f28:60:801:ebd5:3a3e:92aa:2c7      # dns.api.preview.globus.org
-2600:1f28:60:802:1dc3:faa9:4571:73d2     # dns.api.staging.globuscs.info
+2600:1f28:60:802:19b9:3eea:1e81:c1a5     # dns.api.staging.globuscs.info
 2600:1f28:60:802:5627:5083:1648:a362     # dns.api.integration.globuscs.info
 2600:1f28:60:802:5f0f:7d99:4072:9c12     # dns.api.sandbox.globuscs.info
 2600:1f28:60:802:66d3:87f3:4267:bd2f     # dns.api.test.globuscs.info
@@ -218,7 +218,6 @@
 2603:c022:8004:dfaa:ac07:c4be:baaf:c7db  # dns.txq.life
 2603:c023:1:8763:80d6:891:ed34:7b18      # dns.chromeina.top
 2603:c023:7:8700::8888                   # oraclejp2.chungyu.com
-2603:c024:4507:6821:456c:317b:2f25:11bc  # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd   # dns.0ooo.icu
 2603:c024:8001:2700:e6f4:73a7:b352:919e  # ag.ssrahul96.xyz
 2603:c024:9:35af:19c7:3532:ac18:f4b9     # dns.moonssif.com
@@ -241,7 +240,7 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265   # o1.lt
+2606:4700:130:436c:6f75:6466:6c61:7265   # dns.superstefan.win
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:ea7                   # dns.gamban.com
@@ -262,7 +261,6 @@
 2606:4700:3030::ac43:b69a                # dns.paesa.es
 2606:4700:3030::ac43:c17e                # doh.ccb-net.it
 2606:4700:3030::ac43:c52a                # doh.killtw.im
-2606:4700:3030::ac43:ca69                # dns.superstefan.win
 2606:4700:3030::ac43:ce5a                # dns.240527.xyz
 2606:4700:3030::ac43:d608                # ivnkn.xyz
 2606:4700:3030::ac43:d6f6                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
@@ -275,7 +273,9 @@
 2606:4700:3031::6815:58dd                # cdn.0ms.dev
 2606:4700:3031::6815:595c                # family.puredns.org puredns.org
 2606:4700:3031::6815:887                 # comss.one
+2606:4700:3031::6815:df1                 # o1.lt
 2606:4700:3031::6815:fa9                 # dns.240527.xyz
+2606:4700:3031::ac43:8582                # o1.lt
 2606:4700:3031::ac43:8b63                # adguard.sparshbajaj.me
 2606:4700:3031::ac43:90b4                # vtcuong.site
 2606:4700:3031::ac43:9d36                # paulo.nom.za
@@ -312,7 +312,6 @@
 2606:4700:3033::ac43:c6b9                # dns.unerror.network
 2606:4700:3033::ac43:cb9c                # dns.jstockley.com
 2606:4700:3034::6815:10ad                # dns.rayanbab.com
-2606:4700:3034::6815:250f                # dns.superstefan.win
 2606:4700:3034::6815:2e98                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3034::6815:32eb                # ikarosalpha.xyz
 2606:4700:3034::6815:3545                # dns.silentlybren.com
@@ -514,7 +513,6 @@
 2a01:9e00::55                            # rdns.faelix.net
 2a01:9e01::54                            # rdns.faelix.net
 2a01:9e01::55                            # rdns.faelix.net
-2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d    # cloud.tezoi.com
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1    # rayneau.fr
 2a02:168:6604:25::65                     # doh.datacore.ch
 2a02:1788:8ff::1                         # ns1.recursive.dnsbycomodo.com
@@ -627,7 +625,7 @@
 2a0a:be80::cbe:4445                      # cubedns.com
 2a0c:3d00:11:6942:5:180:59:37            # nsc.torgues.net
 2a0c:59c0:19::3                          # nl-ams.doh.sb
-2a0c:8902::53                            # dns.dnshome.de
+2a0c:8901::53                            # dns.dnshome.de
 2a0c:8fc0:1749:66:18::16                 # muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34                 # tyo01.dnscry.pt
 2a0c:8fc1:8004:553::145a:bbf9            # syd01.dnscry.pt
