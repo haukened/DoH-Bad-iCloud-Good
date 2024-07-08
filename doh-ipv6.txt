@@ -102,7 +102,7 @@
 2001:a18:1::29                           # dnspub.restena.lu kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
-2001:b011:9805:434:c447:4754:c0ac:e40f   # dns.ares-taiwan.com
+2001:b011:9805:18e:c447:4754:c0ac:e40f   # dns.ares-taiwan.com
 2001:bc8:255e:100::1                     # dns.novg.net
 2001:bc8:255e:200::1                     # dns.novg.net
 2001:bc8:710:1228:dc00:ff:fe2c:3b73      # dns.mandre.dev
@@ -110,8 +110,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
 2003:180:2::4:0:53                       # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -240,7 +240,6 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265   # armorrush.eu.org dns.rayanbab.com
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:ea7                   # dns.gamban.com
@@ -283,6 +282,7 @@
 2606:4700:3031::ac43:cf8c                # alleesph.online
 2606:4700:3032::6815:2d99                # dns.lista.my.id
 2606:4700:3032::6815:39ea                # doh.ccb-net.it
+2606:4700:3032::6815:4f6c                # armorrush.eu.org
 2606:4700:3032::6815:50d7                # dns.ian.rocks
 2606:4700:3032::6815:5b0e                # doh.tiarap.org jp.tiarap.org
 2606:4700:3032::6815:5fc7                # adguard-dns.com
@@ -311,6 +311,7 @@
 2606:4700:3033::ac43:bc78                # comss.one
 2606:4700:3033::ac43:c6b9                # dns.unerror.network
 2606:4700:3033::ac43:cb9c                # dns.jstockley.com
+2606:4700:3034::6815:10ad                # dns.rayanbab.com
 2606:4700:3034::6815:250f                # dns.superstefan.win
 2606:4700:3034::6815:2e98                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3034::6815:32eb                # ikarosalpha.xyz
@@ -328,6 +329,7 @@
 2606:4700:3035::ac43:8d26                # doh.runsel.id
 2606:4700:3035::ac43:99c3                # cdn.0ms.dev
 2606:4700:3035::ac43:d1ad                # dns.silentlybren.com
+2606:4700:3035::ac43:d6e3                # dns.rayanbab.com
 2606:4700:3035::ac43:d84d                # adguard.twotigers.xyz
 2606:4700:3035::ac43:de7e                # takhtakh.domyah.net
 2606:4700:3036::6815:210e                # commons.host
@@ -350,6 +352,7 @@
 2606:4700:3037::ac43:8263                # dns1.lothuscorp.com.br
 2606:4700:3037::ac43:8912                # dns.silen.org
 2606:4700:3037::ac43:8b89                # family.puredns.org puredns.org
+2606:4700:3037::ac43:9118                # armorrush.eu.org
 2606:4700:3037::ac43:b84c                # dns.kosan.moe
 2606:4700:3037::ac43:c880                # sundalandia.pp.ua
 2606:4700:3037::ac43:d50d                # dns.iki.my.id
@@ -452,6 +455,7 @@
 2a01:238:20a:202:1160::                  # project-evoex.de
 2a01:238:4231:5200::1                    # ns3.opennameserver.org
 2a01:239:22f:800::1                      # pihole3.hoerli.net
+2a01:239:27f:4500::1                     # dns.schlagheck.berlin
 2a01:239:2fd:b700::1                     # ns1.opennameserver.org
 2a01:239:303:1800::1                     # testguard.meexx.de
 2a01:378:ff42:6942:81:18:191:7           # nsc.torgues.net
@@ -482,7 +486,6 @@
 2a01:4f8:c012:6d9c::1                    # dns.alvosec.com
 2a01:4f8:c012:8ce2::1                    # dns.molinero.dev
 2a01:4f8:c012:ed89::208                  # clean.dnsforge.de
-2a01:4f8:c012:f8c9::                     # dns.schlagheck.berlin
 2a01:4f8:c012:ff0d::1                    # resolver.rferee.dev
 2a01:4f8:c0c:5491::1                     # ric.openbld.net
 2a01:4f8:c0c:e514::1                     # doh.dns-ga.de secure-dns.dns-ga.de
