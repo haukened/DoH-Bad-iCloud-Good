@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-08 12:31:30
+# updated at 2024-07-09 01:05:22
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -773,7 +773,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -912,7 +911,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1105,7 +1103,6 @@ xenergy.cc
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
-ychen.gq
 your-dns.run
 yovbak.com
 yul01.dnscry.pt

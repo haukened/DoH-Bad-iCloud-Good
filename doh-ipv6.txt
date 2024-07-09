@@ -217,7 +217,6 @@
 2603:c022:8004:dfaa:ac07:c4be:baaf:c7db  # dns.txq.life
 2603:c023:1:8763:80d6:891:ed34:7b18      # dns.chromeina.top
 2603:c023:7:8700::8888                   # oraclejp2.chungyu.com
-2603:c024:4507:6821:456c:317b:2f25:11bc  # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd   # dns.0ooo.icu
 2603:c024:8001:2700:e6f4:73a7:b352:919e  # ag.ssrahul96.xyz
 2603:c024:9:35af:19c7:3532:ac18:f4b9     # dns.moonssif.com
@@ -240,7 +239,7 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265   # dns.silentlybren.com
+2606:4700:130:436c:6f75:6466:6c61:7265   # dns.superstefan.win
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:ea7                   # dns.gamban.com
@@ -261,7 +260,6 @@
 2606:4700:3030::ac43:b69a                # dns.paesa.es
 2606:4700:3030::ac43:c17e                # doh.ccb-net.it
 2606:4700:3030::ac43:c52a                # doh.killtw.im
-2606:4700:3030::ac43:ca69                # dns.superstefan.win
 2606:4700:3030::ac43:ce5a                # dns.240527.xyz
 2606:4700:3030::ac43:d608                # ivnkn.xyz
 2606:4700:3030::ac43:d6f6                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
@@ -313,9 +311,9 @@
 2606:4700:3033::ac43:c6b9                # dns.unerror.network
 2606:4700:3033::ac43:cb9c                # dns.jstockley.com
 2606:4700:3034::6815:10ad                # dns.rayanbab.com
-2606:4700:3034::6815:250f                # dns.superstefan.win
 2606:4700:3034::6815:2e98                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3034::6815:32eb                # ikarosalpha.xyz
+2606:4700:3034::6815:3545                # dns.silentlybren.com
 2606:4700:3034::6815:3cc6                # sundalandia.pp.ua
 2606:4700:3034::ac43:8ba4                # commons.host
 2606:4700:3034::ac43:a60e                # lindung.pp.ua
@@ -328,6 +326,7 @@
 2606:4700:3035::ac43:8c5e                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3035::ac43:8d26                # doh.runsel.id
 2606:4700:3035::ac43:99c3                # cdn.0ms.dev
+2606:4700:3035::ac43:d1ad                # dns.silentlybren.com
 2606:4700:3035::ac43:d6e3                # dns.rayanbab.com
 2606:4700:3035::ac43:d84d                # adguard.twotigers.xyz
 2606:4700:3035::ac43:de7e                # takhtakh.domyah.net
@@ -512,7 +511,6 @@
 2a01:9e00::55                            # rdns.faelix.net
 2a01:9e01::54                            # rdns.faelix.net
 2a01:9e01::55                            # rdns.faelix.net
-2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d    # cloud.tezoi.com
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1    # rayneau.fr
 2a02:168:6604:25::65                     # doh.datacore.ch
 2a02:1788:8ff::1                         # ns1.recursive.dnsbycomodo.com
