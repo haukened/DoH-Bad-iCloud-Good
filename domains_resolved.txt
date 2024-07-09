@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-09 01:05:22
+# updated at 2024-07-09 12:31:53
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -77,7 +77,6 @@ ag.brianlee.fun
 ag.ff0x.ca
 ag.hostme.co.il
 ag.marschi.de
-ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.fltn.us
 agh.printk.info
@@ -136,7 +135,6 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
-cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -773,6 +771,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -805,7 +804,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -820,7 +818,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
@@ -946,7 +943,6 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1045,7 +1041,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
@@ -1103,6 +1098,7 @@ xenergy.cc
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
+ychen.gq
 your-dns.run
 yovbak.com
 yul01.dnscry.pt
