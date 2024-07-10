@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-09 12:31:53
+# updated at 2024-07-10 01:04:34
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -44,7 +44,6 @@ bld.sys-adm.in
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
@@ -101,6 +100,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -177,8 +177,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -192,9 +190,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
@@ -208,7 +204,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
