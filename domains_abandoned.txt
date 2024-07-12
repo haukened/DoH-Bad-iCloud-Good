@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-11 12:32:46
+# updated at 2024-07-12 01:03:44
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -92,17 +92,16 @@ dns.jucker.engineering
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
-dns.melalandia.tk
 dns.mipauns.com
 dns.ndo.dev
 dns.nixnet.xyz
+dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.ronc.ru
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -163,7 +162,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
-galileo.math.unipd.it
 groupy.ga
 himedns.com
 hk.rslvr.eu
@@ -180,24 +178,19 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
-msr177.com
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
-ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
-ns2.recursive.dnsbycomodo.com
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
