@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-13 12:28:27
+# updated at 2024-07-14 01:08:14
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -91,6 +91,7 @@ antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
+aqua.is.my.waifu.cz
 arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
@@ -135,6 +136,7 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
+cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -436,7 +438,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -757,7 +758,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -817,6 +817,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 la.ray0512.win
 las01.dnscry.pt
 lastentarvike.fi
