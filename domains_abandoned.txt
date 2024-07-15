@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-14 12:39:06
+# updated at 2024-07-15 01:05:13
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -94,13 +94,13 @@ dns.milkpie.one
 dns.mipauns.com
 dns.ndo.dev
 dns.nixnet.xyz
-dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -163,6 +163,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -212,7 +213,6 @@ uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
-us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 www.elshad-adgh-dns.ru
