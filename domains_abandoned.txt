@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-16 01:05:19
+# updated at 2024-07-16 12:31:00
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -76,6 +76,7 @@ dns.dutchwhite.nl
 dns.edgy.network
 dns.ellichua.com
 dns.emeraldonion.org
+dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
@@ -100,7 +101,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -201,7 +201,6 @@ sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
 snoke.meganerd.nl
-sukidayo.eu.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com

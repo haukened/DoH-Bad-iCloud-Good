@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-16 01:05:19
+# updated at 2024-07-16 12:31:00
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -281,7 +281,6 @@ dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
-dns.f97.xyz
 dns.fancyorg.at
 dns.filipccz.eu
 dns.flatuslifir.is
@@ -438,6 +437,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -1020,6 +1020,7 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
