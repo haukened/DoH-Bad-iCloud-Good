@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-15 12:31:39
+# updated at 2024-07-16 01:05:19
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -8,7 +8,6 @@ a.passcloud.xyz
 a.safe.ns.dnslify.com
 aattwwss.duckdns.org
 ad-dns.lista.my.id
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -130,7 +129,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.nala.ru
@@ -181,7 +179,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -204,6 +201,7 @@ sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
 snoke.meganerd.nl
+sukidayo.eu.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
