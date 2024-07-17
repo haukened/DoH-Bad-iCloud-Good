@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-17 01:04:48
+# updated at 2024-07-17 12:30:49
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -14,7 +14,6 @@ adguard-dns.turker.info
 adguard-server.cf
 adguard.aa4.co.uk
 adguard.ambiya.net
-adguard.avdkishore.dev
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
@@ -103,6 +102,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
 dns.simplylinux.ch
+dns.skrep.eu
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -111,6 +111,7 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns1.nielsdb.be
 dns2.dnscrypt.ca
@@ -166,7 +167,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com

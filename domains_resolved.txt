@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-17 01:04:48
+# updated at 2024-07-17 12:30:49
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -37,6 +37,7 @@ adguard-dns.com
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard.abd.ong
+adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.bonis.de
 adguard.bonsirven.eu
@@ -438,7 +439,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.siry.de
 dns.sitdns.com
-dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
@@ -491,7 +491,6 @@ dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.youni.win
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -755,6 +754,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
