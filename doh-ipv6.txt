@@ -11,6 +11,7 @@
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:8001:cd4:5400:4ff:fe58:1f47    # hitian.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
+2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:b001:21e:5400:4ff:fecf:6ed9    # dns.kusoneko.moe
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
 2001:19f0:b001:8fa:5400:3ff:fe8b:d05c    # ca-yyc.doh.sb
@@ -32,7 +33,6 @@
 2001:41d0:8:9a14::1                      # yarp.lefolgoc.net
 2001:41d0:a:3cbc::1                      # jackyes.ovh
 2001:41d0:a:5e02::1                      # adguard.ender.fr
-2001:448a:404c:1513:26cf:24ff:fe32:38a2  # gustamadh.dynv6.net
 2001:4610:a:4b::c4bc                     # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                      # dns.cmrg.net
 2001:470:1f15:b80::53                    # opennic.i2pd.xyz
@@ -168,16 +168,16 @@
 2600:1f28:14:801:90bd:492a:8dda:3fd7     # dns.api.globus.org
 2600:1f28:14:802:5d97:945c:894:19e8      # dns.api.globus.org
 2600:1f28:60:800:3ad1:4a23:3fee:842d     # dns.api.staging.globuscs.info
-2600:1f28:60:800:7027:7dda:a513:c999     # dns.api.sandbox.globuscs.info
-2600:1f28:60:800:b739:e086:91eb:bb35     # dns.api.test.globuscs.info
+2600:1f28:60:800:928c:5877:4f2b:3e86     # dns.api.test.globuscs.info
+2600:1f28:60:800:cd4c:f4c2:e6b7:c948     # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:d9ca:55ff:ecee:7fa1     # dns.api.integration.globuscs.info
 2600:1f28:60:800:fe0:2c96:f577:d125      # dns.api.preview.globus.org
-2600:1f28:60:801:13b1:ff55:e3f8:9cba     # dns.api.test.globuscs.info
 2600:1f28:60:801:156a:9b4f:ac36:fa47     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:2d8d:40ad:73e4:8f8b     # dns.api.staging.globuscs.info
+2600:1f28:60:801:389b:543e:d511:2e33     # dns.api.test.globuscs.info
 2600:1f28:60:801:4ce4:9c33:9dc4:f7a7     # dns.api.integration.globuscs.info
 2600:1f28:60:801:6e83:6017:e9f8:c568     # dns.api.preview.globus.org
-2600:1f28:60:802:19b9:3eea:1e81:c1a5     # dns.api.staging.globuscs.info
+2600:1f28:60:802:4da4:ae9d:3e06:1791     # dns.api.staging.globuscs.info
 2600:1f28:60:802:607c:d2b:6014:6ce0      # dns.api.integration.globuscs.info
 2600:1f28:60:802:84a2:1bc0:3f65:8498     # dns.api.sandbox.globuscs.info
 2600:1f28:60:802:b7ff:493e:ff4b:b1d3     # dns.api.test.globuscs.info
@@ -240,7 +240,6 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265   # jp.68360612.xyz vtcuong.site
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:ea7                   # dns.gamban.com
@@ -278,6 +277,7 @@
 2606:4700:3031::6815:fa9                 # dns.240527.xyz
 2606:4700:3031::ac43:8582                # o1.lt
 2606:4700:3031::ac43:8b63                # adguard.sparshbajaj.me
+2606:4700:3031::ac43:90b4                # vtcuong.site
 2606:4700:3031::ac43:9d36                # paulo.nom.za
 2606:4700:3031::ac43:cf8c                # alleesph.online
 2606:4700:3032::6815:2d99                # dns.lista.my.id
@@ -292,8 +292,10 @@
 2606:4700:3032::ac43:a3aa                # darya.persiannit.net
 2606:4700:3032::ac43:c394                # basic.bravedns.com bravedns.com free.bravedns.com
 2606:4700:3032::ac43:c6e5                # dns.daemon.za.net
+2606:4700:3032::ac43:d2c8                # jp.68360612.xyz
 2606:4700:3033::6815:101f                # lindung.pp.ua
 2606:4700:3033::6815:18b0                # dns.mestdag.fr
+2606:4700:3033::6815:25ae                # jp.68360612.xyz
 2606:4700:3033::6815:2ac6                # pooblet.co.za
 2606:4700:3033::6815:2bd                 # www.maxfong.cc
 2606:4700:3033::6815:37fa                # dns.hanahira.dev
@@ -344,6 +346,7 @@
 2606:4700:3037::6815:3790                # gztech.me
 2606:4700:3037::6815:4663                # takhtakh.domyah.net
 2606:4700:3037::6815:491e                # paulo.nom.za
+2606:4700:3037::6815:4972                # vtcuong.site
 2606:4700:3037::ac43:8263                # dns1.lothuscorp.com.br
 2606:4700:3037::ac43:8912                # dns.silen.org
 2606:4700:3037::ac43:8b89                # family.puredns.org puredns.org
@@ -424,7 +427,6 @@
 2803:f800:53::5                          # opera.cloudflare-dns.com
 2803:f800:54::1                          # odoh.cloudflare-dns.com
 2a00:1158:0:100::14                      # doh.hottis.de
-2a00:11c0:39:353::3                      # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a00:4820:31b0:0:dacb:8aff:feba:55d7     # doh.port53.dk
 2a00:5980:94::71                         # dns.circl.lu
 2a00:6800:3:4bd::                        # ns2.opennameserver.org
@@ -527,7 +529,6 @@
 2a02:6b8::feed:ff                        # common.dot.dns.yandex.net
 2a02:6ca3:0:1::2                         # dns.levonet.sk
 2a02:6ca3:0:2::2                         # dns.levonet.sk
-2a02:6ea0:c454::1                        # doh2.b-cdn.net doh2.blahdns.com
 2a02:908:c20f:3800::3                    # doh.kekew.info
 2a02:c206:2156:7915::1                   # ada.openbld.net
 2a02:c206:2172:9461::1                   # ric.openbld.net
@@ -637,7 +638,7 @@
 2a0d:5600:33:3::abcd                     # doh.eastus.pi-dns.com dot.eastus.pi-dns.com
 2a0d:8480:3:b9::1                        # ada.openbld.net
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt
-2a0e:6902:2002:12b:5054:ff:fed7:6b78     # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt
 2a0f:5707:aae1:8421::1                   # dns.internal.hosmatic.com
