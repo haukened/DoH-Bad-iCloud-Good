@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-18 01:04:05
+# updated at 2024-07-18 12:31:02
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -104,7 +104,6 @@ dns.repressoh.it
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
-dns.vinokurov.tk
 dns.warma.me
 dns.wevpn.com
 dns.wibenson.cloud
@@ -182,6 +181,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kswro.web.id
 lion.yazilimatolye.com
+msr177.com
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
@@ -196,6 +196,7 @@ odoh-target.alekberg.net
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
+resolver.noaddns.com
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
