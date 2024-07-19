@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-18 12:31:02
+# updated at 2024-07-19 01:04:22
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -101,6 +101,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -181,7 +182,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kswro.web.id
 lion.yazilimatolye.com
-msr177.com
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
