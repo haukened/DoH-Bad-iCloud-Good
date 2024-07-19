@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-19 01:04:22
+# updated at 2024-07-19 12:30:47
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -203,6 +203,7 @@ sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
 snoke.meganerd.nl
+sukidayo.eu.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com

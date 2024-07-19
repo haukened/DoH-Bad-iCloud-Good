@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-19 01:04:22
+# updated at 2024-07-19 12:30:47
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -1018,7 +1018,6 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
-sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
