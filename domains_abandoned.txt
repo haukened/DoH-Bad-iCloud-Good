@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-21 12:29:46
+# updated at 2024-07-22 01:05:50
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -44,7 +44,6 @@ canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
-cube.neubsi.at
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
 de.adhole.org
@@ -72,7 +71,6 @@ dns.containerpi.com
 dns.cybershell.xyz
 dns.d365.in
 dns.dns-over-https.com
-dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network

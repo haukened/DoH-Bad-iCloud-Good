@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-21 12:29:46
+# updated at 2024-07-22 01:05:50
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -148,6 +148,7 @@ comss.one
 comss.ru
 console.carestyle.org
 crypto.sx
+cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 d.adguard-dns.com
@@ -268,6 +269,7 @@ dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.dnswarden.com
+dns.doh.best
 dns.dotnet.win
 dns.dyn1.de
 dns.east.comss.one

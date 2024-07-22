@@ -7,6 +7,7 @@
 2001:19f0:5:6d5c:5400:2ff:feed:db51      # adguard1.jsanagustin.net
 2001:19f0:7001:225d::1                   # doh.eastas.pi-dns.com dot.eastas.pi-dns.com
 2001:19f0:7001:4532:5400:3ff:fe2d:82bb   # adguard.konikoni428.com
+2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0    # dns.fullaccesstointernet.jp.eu.org
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:8001:cd4:5400:4ff:fe58:1f47    # hitian.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
@@ -112,7 +113,7 @@
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
 2003:180:2:1000:0:4:0:53                 # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -167,19 +168,19 @@
 2600:1700:4e60:b98f::157                 # dns.sarak.as
 2600:1700:4e60:b98f::158                 # dns.sarak.as
 2600:1f18:6296:8903::beef                # doth.huque.com
-2600:1f28:14:800:a33f:2ff7:5c8a:910d     # dns.api.globus.org
-2600:1f28:14:801:90bd:492a:8dda:3fd7     # dns.api.globus.org
+2600:1f28:14:800:277a:75d7:acf4:afc4     # dns.api.globus.org
+2600:1f28:14:801:67b:3ab7:b513:6585      # dns.api.globus.org
 2600:1f28:14:802:83e0:e93e:676d:d3f8     # dns.api.globus.org
 2600:1f28:60:800:3ad1:4a23:3fee:842d     # dns.api.staging.globuscs.info
+2600:1f28:60:800:733f:1416:11aa:6cba     # dns.api.preview.globus.org
 2600:1f28:60:800:928c:5877:4f2b:3e86     # dns.api.test.globuscs.info
 2600:1f28:60:800:cd4c:f4c2:e6b7:c948     # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:d9ca:55ff:ecee:7fa1     # dns.api.integration.globuscs.info
-2600:1f28:60:800:fe0:2c96:f577:d125      # dns.api.preview.globus.org
 2600:1f28:60:801:19d4:f083:8df1:6e27     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:2d8d:40ad:73e4:8f8b     # dns.api.staging.globuscs.info
 2600:1f28:60:801:389b:543e:d511:2e33     # dns.api.test.globuscs.info
 2600:1f28:60:801:4ce4:9c33:9dc4:f7a7     # dns.api.integration.globuscs.info
-2600:1f28:60:801:6e83:6017:e9f8:c568     # dns.api.preview.globus.org
+2600:1f28:60:801:6297:981c:dfde:4a00     # dns.api.preview.globus.org
 2600:1f28:60:802:44ef:7a76:17dc:581d     # dns.api.test.globuscs.info
 2600:1f28:60:802:4da4:ae9d:3e06:1791     # dns.api.staging.globuscs.info
 2600:1f28:60:802:607c:d2b:6014:6ce0      # dns.api.integration.globuscs.info
@@ -623,7 +624,7 @@
 2a0a:be80::cbe:4445                      # cubedns.com
 2a0c:3d00:11:6942:5:180:59:37            # nsc.torgues.net
 2a0c:59c0:19::3                          # nl-ams.doh.sb
-2a0c:8902::53                            # dns.dnshome.de
+2a0c:8901::53                            # dns.dnshome.de
 2a0c:8fc0:1749:66:18::16                 # muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34                 # tyo01.dnscry.pt
 2a0c:8fc1:8004:553::145a:bbf9            # syd01.dnscry.pt
