@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-22 01:05:50
+# updated at 2024-07-22 12:31:37
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -294,7 +294,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -437,6 +436,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -747,7 +747,6 @@ freedom.mydns.network
 frog.dns.qwer.pw
 fuchur.pentament.de
 fwgw.orangepipc.mywire.org
-galileo.math.unipd.it
 gateway.fomichev.cloud
 gclouddns.com
 geg01.dnscry.pt
