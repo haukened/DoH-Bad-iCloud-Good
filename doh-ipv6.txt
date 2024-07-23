@@ -99,7 +99,7 @@
 2001:8d8:820:3a00::b:c47                 # doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:7f1c:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:959c:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -115,6 +115,14 @@
 2003:180:2:7000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
+2003:a:64b:3b00::1                       # doh.kekew.info
+2003:a:64b:3b00::3                       # doh.kekew.info
+2003:a:64b:3b00::5                       # doh.kekew.info
+2003:a:64b:3b00::7                       # doh.kekew.info
+2003:a:64b:3b01::1                       # doh.kekew.info
+2003:a:64b:3b01::3                       # doh.kekew.info
+2003:a:64b:3b01::5                       # doh.kekew.info
+2003:a:64b:3b01::7                       # doh.kekew.info
 2003:a:b15:4500::1                       # 3dns.eu
 2400:3200::1                             # dns.alidns.com
 2400:3200:baba::1                        # dns.alidns.com
@@ -205,6 +213,7 @@
 2603:c021:4004:5500::10                  # adblock.indianets.net
 2603:c021:8002:5c77:1e9f:20d:512e:3fc3   # virga.pp.ua
 2603:c021:8002:5c77:6a7c:6bf2:eaa0:b8fd  # awan.ftp.sh
+2603:c021:8005:4100:265d:d3cd:89bb:a2a9  # jp1.f7b6h9.tk
 2603:c021:c001:31fa:780:b000:0:415       # ibuki.cgnat.net
 2603:c021:c005:aa7e:2300:6ff2:13ff:4e6b  # dns.retakecs.com
 2603:c022:8004:dfaa:50f:3b22:6a0c:a54e   # dns.txq.life
@@ -233,7 +242,7 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265   # gztech.me jp.68360612.xyz www.maxfong.cc
+2606:4700:130:436c:6f75:6466:6c61:7265   # dns.240527.xyz gztech.me
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:ea7                   # dns.gamban.com
@@ -255,7 +264,6 @@
 2606:4700:3030::ac43:c17e                # doh.ccb-net.it
 2606:4700:3030::ac43:c52a                # doh.killtw.im
 2606:4700:3030::ac43:ca69                # dns.superstefan.win
-2606:4700:3030::ac43:ce5a                # dns.240527.xyz
 2606:4700:3030::ac43:d608                # ivnkn.xyz
 2606:4700:3030::ac43:d6f6                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:4700:3031::6815:16e2                # alleesph.online
@@ -268,7 +276,6 @@
 2606:4700:3031::6815:595c                # family.puredns.org puredns.org
 2606:4700:3031::6815:887                 # comss.one
 2606:4700:3031::6815:df1                 # o1.lt
-2606:4700:3031::6815:fa9                 # dns.240527.xyz
 2606:4700:3031::ac43:8582                # o1.lt
 2606:4700:3031::ac43:8b63                # adguard.sparshbajaj.me
 2606:4700:3031::ac43:90b4                # vtcuong.site
@@ -286,9 +293,12 @@
 2606:4700:3032::ac43:a3aa                # darya.persiannit.net
 2606:4700:3032::ac43:c394                # basic.bravedns.com bravedns.com free.bravedns.com
 2606:4700:3032::ac43:c6e5                # dns.daemon.za.net
+2606:4700:3032::ac43:d2c8                # jp.68360612.xyz
 2606:4700:3033::6815:101f                # lindung.pp.ua
 2606:4700:3033::6815:18b0                # dns.mestdag.fr
+2606:4700:3033::6815:25ae                # jp.68360612.xyz
 2606:4700:3033::6815:2ac6                # pooblet.co.za
+2606:4700:3033::6815:2bd                 # www.maxfong.cc
 2606:4700:3033::6815:37fa                # dns.hanahira.dev
 2606:4700:3033::6815:54f0                # dns.daemon.za.net
 2606:4700:3033::6815:5e7e                # dnsforfamily.com
@@ -324,6 +334,7 @@
 2606:4700:3036::6815:210e                # commons.host
 2606:4700:3036::6815:3dbc                # dns.iki.my.id
 2606:4700:3036::6815:4ea                 # dns.cynthialabs.net
+2606:4700:3036::ac43:8191                # www.maxfong.cc
 2606:4700:3036::ac43:bc3e                # ahadns.net
 2606:4700:3037::6815:2023                # dns.paesa.es
 2606:4700:3037::6815:2b2                 # adg.rokh.biz
@@ -518,7 +529,8 @@
 2a02:6b8::feed:ff                        # common.dot.dns.yandex.net
 2a02:6ca3:0:1::2                         # dns.levonet.sk
 2a02:6ca3:0:2::2                         # dns.levonet.sk
-2a02:6ea0:c454::1                        # doh1.b-cdn.net doh1.blahdns.com doh2.b-cdn.net doh2.blahdns.com
+2a02:6ea0:c454::1                        # doh2.b-cdn.net doh2.blahdns.com
+2a02:908:c20f:3800::3                    # doh.kekew.info
 2a02:c206:2156:7915::1                   # ada.openbld.net
 2a02:c206:2172:9461::1                   # ric.openbld.net
 2a02:c206:3008:9781::1                   # dns.abdullahabas.de
@@ -599,7 +611,7 @@
 2a09:8280:1::1:7432                      # max.rethinkdns.com
 2a09:8280:1::1:da1b                      # dns.dnswarden.com doh.asia.dnswarden.com doh.eu.dnswarden.com doh.us.dnswarden.com fr1.dnswarden.com sg1.dnswarden.com
 2a09:8280:1::a:791                       # fly.io
-2a09::                                   # doh.sb public-dns-a.dns.sb
+2a09::                                   # dns.sb doh.sb public-dns-a.dns.sb
 2a09:b280:fe00:24::a                     # waw02.dnscry.pt
 2a09:cd42:f:425b::1                      # dnsse-noads.alekberg.net dnsse.alekberg.net
 2a09:cd46:f:429e::5                      # dub01.dnscry.pt

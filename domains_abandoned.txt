@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-23 01:05:23
+# updated at 2024-07-23 12:30:07
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -94,6 +94,7 @@ dns.lightmaster.pw
 dns.lsho.top
 dns.milkpie.one
 dns.mipauns.com
+dns.moog.sh
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -102,8 +103,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.sb
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -132,7 +131,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.nala.ru
