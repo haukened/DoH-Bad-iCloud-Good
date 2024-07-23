@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-22 12:31:37
+# updated at 2024-07-23 01:05:23
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -423,7 +423,6 @@ dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
 dns.sarilouis.com
-dns.sb
 dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
@@ -436,7 +435,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -610,7 +608,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
@@ -747,6 +744,7 @@ freedom.mydns.network
 frog.dns.qwer.pw
 fuchur.pentament.de
 fwgw.orangepipc.mywire.org
+galileo.math.unipd.it
 gateway.fomichev.cloud
 gclouddns.com
 geg01.dnscry.pt
