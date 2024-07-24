@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-24 01:06:01
+# updated at 2024-07-24 12:31:34
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -159,6 +159,7 @@ dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
+de-dus.doh.sb
 de-fra.doh.sb
 de.teradns.org
 deic-lgb.anycast.censurfridns.dk
@@ -293,6 +294,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -765,7 +767,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
