@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-24 12:31:34
+# updated at 2024-07-25 01:04:27
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -767,6 +767,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
