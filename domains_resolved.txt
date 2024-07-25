@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-25 01:04:27
+# updated at 2024-07-25 12:31:03
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -294,7 +294,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -438,7 +437,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.siry.de
 dns.sitdns.com
-dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
@@ -1078,7 +1076,6 @@ vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
-wdns.233py.com
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn

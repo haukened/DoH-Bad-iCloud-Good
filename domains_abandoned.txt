@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-25 01:04:27
+# updated at 2024-07-25 12:31:03
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -81,6 +81,7 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -103,6 +104,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
 dns.simplylinux.ch
+dns.skrep.eu
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -219,6 +221,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
+wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 xorbiadns.com
