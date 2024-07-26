@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-25 12:31:03
+# updated at 2024-07-26 01:04:28
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -104,7 +104,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
 dns.simplylinux.ch
-dns.skrep.eu
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -183,6 +182,8 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -221,7 +222,6 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
-wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 xorbiadns.com
