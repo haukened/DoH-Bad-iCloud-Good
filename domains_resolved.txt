@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-26 12:31:05
+# updated at 2024-07-27 01:03:35
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -276,6 +276,7 @@ dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
+dns.ellichua.com
 dns.emiliyan.com
 dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
@@ -306,7 +307,6 @@ dns.hanahira.dev
 dns.hanmey.de
 dns.henek.ovh
 dns.hinet.net
-dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.hugo0.moe
@@ -435,6 +435,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -1039,6 +1040,7 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
