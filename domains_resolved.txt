@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-27 01:03:35
+# updated at 2024-07-27 12:31:33
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -307,6 +307,7 @@ dns.hanahira.dev
 dns.hanmey.de
 dns.henek.ovh
 dns.hinet.net
+dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.hugo0.moe
@@ -435,7 +436,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
