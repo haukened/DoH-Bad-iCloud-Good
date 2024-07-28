@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-28 01:09:36
+# updated at 2024-07-28 12:29:16
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -314,6 +314,7 @@ dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
+dns.hypercute.eu
 dns.iamninja.ru
 dns.ian.rocks
 dns.ihaveacloud.com

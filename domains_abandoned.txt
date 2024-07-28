@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-07-28 01:09:36
+# updated at 2024-07-28 12:29:16
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -84,7 +84,6 @@ dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
-dns.hypercute.eu
 dns.infosec.xyz
 dns.invisv.com
 dns.itdept.pro

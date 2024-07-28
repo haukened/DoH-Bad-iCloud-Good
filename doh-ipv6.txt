@@ -98,7 +98,7 @@
 2001:8d8:820:3a00::b:c47                 # doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:f24d:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:8af:6b4:feff:fe9b:eb1d     # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu kaitain.restena.lu
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
@@ -111,8 +111,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:1000:0:4:0:53                 # dns.telekom.de
-2003:180:2:8100:0:4:0:53                 # dns.telekom.de
+2003:180:2::4:0:53                       # dns.telekom.de
+2003:180:2:b000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -126,7 +126,7 @@
 2003:a:b15:4500::1                       # 3dns.eu
 2400:3200::1                             # dns.alidns.com
 2400:3200:baba::1                        # dns.alidns.com
-2400:52e0:1a01::953:1                    # doh2.b-cdn.net doh2.blahdns.com
+2400:52e0:1a01::954:1                    # doh1.b-cdn.net doh1.blahdns.com
 2400:6180:0:d0::45a:b001                 # sg-sin.doh.sb
 2400:6180:0:d0::5f73:4001                # doh.tiar.app dot.tiar.app
 2400:6180:0:d0::f7:1001                  # sg-dns1.bancuh.com
@@ -508,6 +508,7 @@
 2a01:678:3:a::2                          # resolver3.absolight.net
 2a01:7c8:bb01:6d9::1                     # meganerd.nl
 2a01:7c8:d002:1ef:5054:ff:fe40:3703      # doh.powerdns.org
+2a01:7e01::f03c:92ff:fea3:14b0           # dns.hypercute.eu
 2a01:8740:1:40::8a25                     # sof01.dnscry.pt
 2a01:9e00::54                            # rdns.faelix.net
 2a01:9e00::55                            # rdns.faelix.net
