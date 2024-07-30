@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-07-29 12:31:31
+# updated at 2024-07-30 01:05:57
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -75,7 +75,6 @@ ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ag.brianlee.fun
 ag.ff0x.ca
-ag.hostme.co.il
 ag.marschi.de
 agh-yz.russel053.com
 agh.fltn.us
@@ -92,7 +91,6 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
-arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
 at.pzhg.me
@@ -551,6 +549,7 @@ dog.dns.qwer.pw
 doh-01.spectrum.com
 doh-02.spectrum.com
 doh-2.seby.io
+doh-ca.naftalie.net
 doh-ch.blahdns.com
 doh-de.blahdns.com
 doh-fi.blahdns.com
@@ -798,7 +797,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -813,7 +811,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1035,6 +1032,8 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
+tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
