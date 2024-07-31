@@ -12,7 +12,6 @@
 2001:19f0:8001:cd4:5400:4ff:fe58:1f47    # hitian.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
 2001:19f0:b001:21e:5400:4ff:fecf:6ed9    # dns.kusoneko.moe
-2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
 2001:19f0:b001:8fa:5400:3ff:fe8b:d05c    # ca-yyc.doh.sb
 2001:19f0:b400:1d8c:5400:4ff:fe11:b15a   # helios.plan9-dns.com
 2001:19f0:b800:1689:1890:6b2e:3228:50fd  # br.servers.legat.ml
@@ -106,12 +105,11 @@
 2001:b011:d000:b01b:211:32ff:fe79:26cd   # ihctw.synology.me
 2001:bc8:255e:100::1                     # dns.novg.net
 2001:bc8:255e:200::1                     # dns.novg.net
-2001:bc8:710:1efa:dc00:ff:fe34:a339      # fr-dns1.bancuh.com
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:1000:0:4:0:53                 # dns.telekom.de
-2003:180:2:8100:0:4:0:53                 # dns.telekom.de
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
+2003:180:2::4:0:53                       # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -244,7 +242,7 @@
 2605:6400:30:f881::1                     # adblock.lux1.dns.nixnet.xyz lux1.nixnet.xyz uncensored.lux1.dns.nixnet.xyz
 2605:aa80:1:1688::1                      # ny.teradns.org
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265   # armorrush.eu.org commons.host dns.superstefan.win
+2606:4700:130:436c:6f75:6466:6c61:7265   # dns.cynthialabs.net dns.unerror.network www.maxfong.cc
 2606:4700:20::681a:289                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:389                   # blitz-setup.ahadns.com blitz.ahadns.com
 2606:4700:20::681a:ea7                   # dns.gamban.com
@@ -254,17 +252,16 @@
 2606:4700:3030::6815:26f6                # doh.runsel.id
 2606:4700:3030::6815:2a7e                # dns.dgea.fr
 2606:4700:3030::6815:2bbc                # dns.kosan.moe
-2606:4700:3030::6815:2c68                # dns.unerror.network
 2606:4700:3030::6815:532e                # ivnkn.xyz
 2606:4700:3030::6815:533e                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
 2606:4700:3030::ac43:87fb                # dnsforfamily.com
-2606:4700:3030::ac43:9a3d                # dns.cynthialabs.net
 2606:4700:3030::ac43:a208                # dns.dgea.fr
 2606:4700:3030::ac43:a590                # pooblet.co.za
 2606:4700:3030::ac43:b141                # guard.sntrk.ru
 2606:4700:3030::ac43:b69a                # dns.paesa.es
 2606:4700:3030::ac43:c17e                # doh.ccb-net.it
 2606:4700:3030::ac43:c52a                # doh.killtw.im
+2606:4700:3030::ac43:ca69                # dns.superstefan.win
 2606:4700:3030::ac43:ce5a                # dns.240527.xyz
 2606:4700:3030::ac43:d608                # ivnkn.xyz
 2606:4700:3030::ac43:d6f6                # basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com
@@ -286,6 +283,7 @@
 2606:4700:3031::ac43:cf8c                # alleesph.online
 2606:4700:3032::6815:2d99                # dns.lista.my.id
 2606:4700:3032::6815:39ea                # doh.ccb-net.it
+2606:4700:3032::6815:4f6c                # armorrush.eu.org
 2606:4700:3032::6815:50d7                # dns.ian.rocks
 2606:4700:3032::6815:5b0e                # doh.tiarap.org jp.tiarap.org
 2606:4700:3032::6815:5fc7                # adguard-dns.com
@@ -300,7 +298,6 @@
 2606:4700:3033::6815:18b0                # dns.mestdag.fr
 2606:4700:3033::6815:25ae                # jp.68360612.xyz
 2606:4700:3033::6815:2ac6                # pooblet.co.za
-2606:4700:3033::6815:2bd                 # www.maxfong.cc
 2606:4700:3033::6815:37fa                # dns.hanahira.dev
 2606:4700:3033::6815:54f0                # dns.daemon.za.net
 2606:4700:3033::6815:5e7e                # dnsforfamily.com
@@ -311,13 +308,14 @@
 2606:4700:3033::ac43:9a5c                # dns.ian.rocks
 2606:4700:3033::ac43:a495                # doh.tiarap.org jp.tiarap.org
 2606:4700:3033::ac43:bc78                # comss.one
-2606:4700:3033::ac43:c6b9                # dns.unerror.network
 2606:4700:3033::ac43:cb9c                # dns.jstockley.com
 2606:4700:3034::6815:10ad                # dns.rayanbab.com
+2606:4700:3034::6815:250f                # dns.superstefan.win
 2606:4700:3034::6815:2e98                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3034::6815:32eb                # ikarosalpha.xyz
 2606:4700:3034::6815:3545                # dns.silentlybren.com
 2606:4700:3034::6815:3cc6                # sundalandia.pp.ua
+2606:4700:3034::ac43:8ba4                # commons.host
 2606:4700:3034::ac43:a60e                # lindung.pp.ua
 2606:4700:3034::ac43:aed2                # dns.hanahira.dev
 2606:4700:3034::ac43:d82e                # dns.lista.my.id
@@ -332,9 +330,8 @@
 2606:4700:3035::ac43:d6e3                # dns.rayanbab.com
 2606:4700:3035::ac43:d84d                # adguard.twotigers.xyz
 2606:4700:3035::ac43:de7e                # takhtakh.domyah.net
+2606:4700:3036::6815:210e                # commons.host
 2606:4700:3036::6815:3dbc                # dns.iki.my.id
-2606:4700:3036::6815:4ea                 # dns.cynthialabs.net
-2606:4700:3036::ac43:8191                # www.maxfong.cc
 2606:4700:3036::ac43:bc3e                # ahadns.net
 2606:4700:3037::6815:2023                # dns.paesa.es
 2606:4700:3037::6815:2b2                 # adg.rokh.biz
@@ -350,6 +347,7 @@
 2606:4700:3037::ac43:8263                # dns1.lothuscorp.com.br
 2606:4700:3037::ac43:8912                # dns.silen.org
 2606:4700:3037::ac43:8b89                # family.puredns.org puredns.org
+2606:4700:3037::ac43:9118                # armorrush.eu.org
 2606:4700:3037::ac43:b84c                # dns.kosan.moe
 2606:4700:3037::ac43:c880                # sundalandia.pp.ua
 2606:4700:3037::ac43:d50d                # dns.iki.my.id
