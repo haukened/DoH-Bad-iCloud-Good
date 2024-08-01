@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-01 01:11:10
+# updated at 2024-08-01 12:32:13
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -135,7 +135,6 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
-cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -766,6 +765,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -798,7 +798,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -903,7 +902,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1036,7 +1034,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
