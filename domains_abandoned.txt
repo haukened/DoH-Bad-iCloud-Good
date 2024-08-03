@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-03 01:04:23
+# updated at 2024-08-03 12:27:30
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -72,6 +72,7 @@ dns.containerpi.com
 dns.cybershell.xyz
 dns.d365.in
 dns.dns-over-https.com
+dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
@@ -186,6 +187,7 @@ jp.rslvr.eu
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
+msr177.com
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu

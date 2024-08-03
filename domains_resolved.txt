@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-03 01:04:23
+# updated at 2024-08-03 12:27:30
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -266,7 +266,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnsoverhttps.net
-dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
@@ -840,7 +839,6 @@ mia01.dnscry.pt
 minilla.store
 morbitzer.de
 mozilla.cloudflare-dns.com
-msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
 muxyuji.ru
