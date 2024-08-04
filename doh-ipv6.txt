@@ -33,7 +33,6 @@
 2001:41d0:a:3cbc::1                      # jackyes.ovh
 2001:41d0:a:5e02::1                      # adguard.ender.fr
 2001:448a:404c:1513:26cf:24ff:fe32:38a2  # gustamadh.dynv6.net
-2001:4610:a:4b::c4bc                     # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                      # dns.cmrg.net
 2001:470:1f15:b80::53                    # opennic.i2pd.xyz
 2001:470:20::2                           # ordns.he.net
@@ -104,15 +103,15 @@
 2001:b000:168::1                         # dns.hinet.net
 2001:b000:168::2                         # dns.hinet.net
 2001:b011:9805:42a1:c447:4754:c0ac:e40f  # dns.ares-taiwan.com
-2001:b011:d000:d8c1:211:32ff:fe79:26cd   # ihctw.synology.me
+2001:b011:d000:9e7d:211:32ff:fe79:26cd   # ihctw.synology.me
 2001:bc8:255e:100::1                     # dns.novg.net
 2001:bc8:255e:200::1                     # dns.novg.net
 2001:bc8:710:1efa:dc00:ff:fe34:a339      # fr-dns1.bancuh.com
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:4000:0:4:0:53                 # dns.telekom.de
-2003:180:2::4:0:53                       # dns.telekom.de
+2003:180:2:1000:0:4:0:53                 # dns.telekom.de
+2003:180:2:b000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:64b:3b00::1                       # doh.kekew.info
@@ -172,7 +171,7 @@
 2600:1f28:14:800:8260:dc36:5670:2295     # dns.api.globus.org
 2600:1f28:14:801:597e:6348:45ad:171e     # dns.api.globus.org
 2600:1f28:14:802:727f:64f1:aefd:e9b6     # dns.api.globus.org
-2600:1f28:60:800:9583:c1d4:e28c:803      # dns.api.integration.globuscs.info
+2600:1f28:60:800:130a:b659:44b6:f27d     # dns.api.integration.globuscs.info
 2600:1f28:60:800:a7a1:6959:61be:7ac0     # dns.api.preview.globus.org
 2600:1f28:60:800:bec8:8019:3929:c911     # dns.api.staging.globuscs.info
 2600:1f28:60:800:c3b5:9b77:a3e2:64e8     # dns.api.test.globuscs.info
@@ -501,7 +500,7 @@
 2a01:4f9:c01f:4::abcd                    # doh.northeu.pi-dns.com dot.northeu.pi-dns.com
 2a01:4f9:c01f:74::1                      # eu1.dns.lavate.ch
 2a01:4ff:f0:24ff::1                      # dns1.us.newpangea.de
-2a01:4ff:f0:ac5::1                       # dns.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2a01:4ff:f0:ac5::1                       # chromium.dns.nextdns.io
 2a01:4ff:f0:ca92::1                      # dns.smartguard.io
 2a01:678:3:8::2                          # resolver2.absolight.net
 2a01:678:3:9::2                          # resolver1.absolight.net
@@ -533,7 +532,7 @@
 2a02:6b8::feed:ff                        # common.dot.dns.yandex.net
 2a02:6ca3:0:1::2                         # dns.levonet.sk
 2a02:6ca3:0:2::2                         # dns.levonet.sk
-2a02:6ea0:c454::1                        # doh1.b-cdn.net doh1.blahdns.com doh2.blahdns.com
+2a02:6ea0:c454::1                        # doh1.b-cdn.net doh1.blahdns.com doh2.b-cdn.net doh2.blahdns.com
 2a02:908:c20f:3800::1                    # doh.kekew.info
 2a02:908:c20f:3800::3                    # doh.kekew.info
 2a02:908:c20f:3800::5                    # doh.kekew.info
@@ -630,10 +629,10 @@
 2a0a:6040:9500:a70::a                    # waw01.dnscry.pt
 2a0a:be80::cbe:4444                      # cubedns.com
 2a0a:be80::cbe:4445                      # cubedns.com
-2a0b:4342:1a32:f:5054:ff:fe48:d17f       # chromium.dns.nextdns.io dns2.nextdns.io
+2a0b:4342:1a32:f:5054:ff:fe48:d17f       # dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0c:3d00:11:6942:5:180:59:37            # nsc.torgues.net
 2a0c:59c0:19::3                          # nl-ams.doh.sb
-2a0c:8901::53                            # dns.dnshome.de
+2a0c:8902::53                            # dns.dnshome.de
 2a0c:8fc0:1749:66:18::16                 # muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34                 # tyo01.dnscry.pt
 2a0c:8fc1:8004:553::145a:bbf9            # syd01.dnscry.pt

@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-03 12:27:30
+# updated at 2024-08-04 01:08:47
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -47,6 +47,7 @@ chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -105,6 +106,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -187,7 +189,6 @@ jp.rslvr.eu
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
-msr177.com
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
