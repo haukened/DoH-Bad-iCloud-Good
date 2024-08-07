@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-07 01:05:27
+# updated at 2024-08-07 12:31:41
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -599,7 +599,6 @@ doh.funtopia.tv
 doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
