@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-07 12:31:41
+# updated at 2024-08-08 01:05:29
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -431,6 +431,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -599,6 +600,7 @@ doh.funtopia.tv
 doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
+doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -759,7 +761,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -896,7 +897,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
