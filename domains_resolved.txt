@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-10 12:29:35
+# updated at 2024-08-11 01:09:27
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -303,7 +303,6 @@ dns.hanahira.dev
 dns.hanmey.de
 dns.henek.ovh
 dns.hinet.net
-dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.hugo0.moe
@@ -431,7 +430,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
@@ -905,6 +903,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 paranoia.mydns.network
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
