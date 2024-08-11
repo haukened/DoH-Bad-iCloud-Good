@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-11 01:09:27
+# updated at 2024-08-11 12:29:40
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -88,7 +88,6 @@ dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
-dns.horcrux.vip
 dns.infosec.xyz
 dns.invisv.com
 dns.itdept.pro
@@ -108,7 +107,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -137,6 +135,7 @@ doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
+doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
