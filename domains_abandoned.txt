@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-14 12:31:28
+# updated at 2024-08-15 01:02:56
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -68,7 +68,6 @@ dns.bayas.dev
 dns.blaze-sk.ru
 dns.cfiec.net
 dns.chocolatezz.xyz
-dns.colorfreedom.org
 dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
@@ -188,6 +187,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -218,7 +218,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
