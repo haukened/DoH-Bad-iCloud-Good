@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-19 01:08:45
+# updated at 2024-08-19 12:33:35
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -45,9 +45,7 @@ canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
-cube.neubsi.at
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -100,6 +98,7 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
 dns.mandre.dev
+dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
@@ -113,7 +112,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.scott-smith.us
 dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
