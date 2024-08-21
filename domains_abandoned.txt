@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-21 01:06:43
+# updated at 2024-08-21 12:33:13
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -79,7 +79,6 @@ dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.edgy.network
 dns.efficientdocuments.com
 dns.emeraldonion.org
@@ -95,6 +94,7 @@ dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.infosec.xyz
 dns.invisv.com
+dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
 dns.labnekotest.site
@@ -115,7 +115,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.scott-smith.us
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -182,6 +181,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -195,6 +195,8 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -211,6 +213,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
