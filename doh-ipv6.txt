@@ -119,7 +119,7 @@
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
 2001:99a:0:41::1ee4                      # ns.trcnet.fi
-2001:9e8:4003:4bbf:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:62bb:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu kaitain.restena.lu
 2001:a60::53:1                           # dns.mnet-online.de
 2001:a60::53:2                           # dns.mnet-online.de
@@ -213,15 +213,15 @@
 2600:1f28:60:800:ab8:c5df:d684:a1f1      # dns.api.staging.globuscs.info
 2600:1f28:60:800:b695:f312:38e9:56b5     # dns.api.preview.globus.org
 2600:1f28:60:800:f4f4:ba3b:3e15:3c88     # dns.api.test.globuscs.info
+2600:1f28:60:801:10c6:b04d:3ff6:a212     # dns.api.staging.globuscs.info
 2600:1f28:60:801:1a78:9356:5d9f:a977     # dns.api.test.globuscs.info
 2600:1f28:60:801:4923:cfde:7101:fe4b     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:50f5:fdaa:e9aa:4976     # dns.api.preview.globus.org
 2600:1f28:60:801:6026:83e0:210f:1ccc     # dns.api.integration.globuscs.info
-2600:1f28:60:801:d7c5:acee:673f:86b0     # dns.api.staging.globuscs.info
+2600:1f28:60:802:15b8:29d1:abb0:6d82     # dns.api.preview.globus.org
 2600:1f28:60:802:1bf5:dcdd:505:da4       # dns.api.integration.globuscs.info
 2600:1f28:60:802:29b4:b9eb:61fc:e2b7     # dns.api.sandbox.globuscs.info
 2600:1f28:60:802:a3fe:4ebd:19c0:1f87     # dns.api.staging.globuscs.info
-2600:1f28:60:802:c2f5:2413:5e3e:cc36     # dns.api.preview.globus.org
 2600:1f28:60:802:dc4c:a207:ada7:d96f     # dns.api.test.globuscs.info
 2600:3c00::f03c:93ff:fe79:3686           # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be           # us1.blissdns.net
@@ -229,9 +229,9 @@
 2600:3c01:e000:16f::8:0                  # dns.w3ctag.org
 2600:3c01:e000:341::8:0                  # dns.startupstack.tech
 2600:3c01:e000:3e2::8:0                  # dns.falkenthal.org
-2600:3c01:e000:446::8:0                  # dns.efficientdocuments.com
 2600:3c01:e000:449::8:0                  # dns.stirringphoto.com
 2600:3c01:e000:7e5::8:0                  # dns.csswg.org
+2600:3c01:e000:7e9::8:0                  # dns.scott-smith.us
 2600:3c01:e000:8ae::8:0                  # dns.inclusioproject.com
 2600:3c02::f03c:93ff:fec9:e0ff           # dns.thebuckners.org
 2600:3c02:e000:67d::8:0                  # dns.flightspace.net
@@ -704,7 +704,6 @@
 2a01:9e01::54                            # rdns.faelix.net
 2a01:9e01::55                            # rdns.faelix.net
 2a01:cb19:8aa2:4ef9:6e2b:59ff:fee8:7a13  # dns.kebree.fr
-2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d    # cloud.tezoi.com
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1    # rayneau.fr
 2a01:e0a:bc2:47c0:215:5dff:fe01:8705     # dns.freopc.fr
 2a01:e0a:bf3:a440::ba89:636              # dns.maitrekuc.fr
