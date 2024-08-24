@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-23 12:34:31
+# updated at 2024-08-24 01:07:17
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -62,6 +62,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -180,6 +181,7 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
+cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -367,6 +369,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -384,6 +387,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -516,6 +520,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -995,6 +1000,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1034,6 +1040,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 kaiwu.xyz
@@ -1203,6 +1210,7 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1324,6 +1332,7 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
@@ -1408,6 +1417,7 @@ yyz01.dnscry.pt
 zakaria.website
 zal01.dnscry.pt
 zdn.ro
+zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
