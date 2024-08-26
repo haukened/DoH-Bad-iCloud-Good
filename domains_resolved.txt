@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-26 01:07:56
+# updated at 2024-08-26 12:33:36
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -128,7 +128,6 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
-arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
@@ -385,7 +384,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -598,6 +596,7 @@ dns.sb
 dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
+dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
 dns.seia.io
@@ -610,6 +609,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
