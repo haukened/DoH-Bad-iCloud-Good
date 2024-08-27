@@ -14,6 +14,7 @@
 2001:19f0:8001:5aa:5400:ff:fe58:db8f     # dns.carter.me
 2001:19f0:8001:cd4:5400:4ff:fe58:1f47    # hitian.me
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
+2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:b001:21e:5400:4ff:fecf:6ed9    # dns.kusoneko.moe
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
 2001:19f0:b001:8fa:5400:3ff:fe8b:d05c    # ca-yyc.doh.sb
@@ -43,6 +44,7 @@
 2001:41d0:e:84c::1                       # dns.mh4ckt3mh4ckt1c4s.xyz
 2001:448a:4000:1bbe:7073:1cff:feb9:e5cb  # dns.velyn.my.id
 2001:448a:404c:1513:26cf:24ff:fe32:38a2  # gustamadh.dynv6.net
+2001:4610:a:4b::bd1e                     # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                      # dns.cmrg.net
 2001:470:1f15:b80::53                    # opennic.i2pd.xyz
 2001:470:1f2a:1de::2                     # lim01.dnscry.pt
@@ -117,7 +119,7 @@
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
 2001:99a:0:41::1ee4                      # ns.trcnet.fi
-2001:9e8:4003:aab0:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:c184:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu kaitain.restena.lu
 2001:a60::53:1                           # dns.mnet-online.de
 2001:a60::53:2                           # dns.mnet-online.de
@@ -134,8 +136,8 @@
 2001:de4::101                            # dns.twnic.tw
 2001:de4::102                            # dns.twnic.tw
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
 2003:180:2:7000:0:4:0:53                 # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:37f:ef4f::1                       # dns.faked.org
@@ -154,7 +156,6 @@
 2400:3200::1                             # dns.alidns.com
 2400:3200:baba::1                        # dns.alidns.com
 2400:4052:3a00:1ff1:be24:11ff:fe2b:c18b  # dns.soldier.terumi.club
-2400:52e0:1a01::954:1                    # doh1.b-cdn.net doh1.blahdns.com doh2.b-cdn.net doh2.blahdns.com
 2400:6180:0:d0::45a:b001                 # sg-sin.doh.sb
 2400:6180:0:d0::5f73:4001                # doh.tiar.app dot.tiar.app
 2400:6180:0:d0::f7:1001                  # sg-dns1.bancuh.com
@@ -166,12 +167,10 @@
 2400:8902::f03c:92ff:fe80:38b7           # dns.kuuhaku.moe
 2400:8902::f03c:93ff:feb8:2f31           # dns.wang.art
 2400:8904::f03c:92ff:fe29:cb19           # dns.therifleman.name
-2400:8905::f03c:93ff:fe1d:a421           # dns.nodoa.me
 2400:c401::5054:ff:fe1b:b036             # adl.adfilter.net
 2400:d321:2191:8363::1                   # dns.albony.xyz
 2400:f880:17:aa5d:602e:ee9f:3917:2af6    # urology.wiki
 2400:f880:17:b7eb:a795:7170:76de:f6c6    # urology.wiki
-2401:c080:1000:4ec0:5400:3ff:fe3b:67c5   # dns.nodoa.me
 2401:c080:1400:522d:5400:4ff:fe09:61b9   # doh.dscloud.me
 2401:c080:3400:251f:5400:4ff:fe97:fa4e   # dns1.in.newpangea.de
 2402:1f00:8000:800::2234                 # dns1.sg.newpangea.de
@@ -206,7 +205,7 @@
 2600:1f18:6296:8903::beef                # doth.huque.com
 2600:1f28:14:800:6799:9087:f19d:2009     # dns.api.globus.org
 2600:1f28:14:801:1845:b2d7:d9a0:902f     # dns.api.globus.org
-2600:1f28:14:802:ea5c:9718:6dcd:859c     # dns.api.globus.org
+2600:1f28:14:802:baf3:b712:508b:5aef     # dns.api.globus.org
 2600:1f28:60:800:1869:c5d8:d192:7098     # dns.api.staging.globuscs.info
 2600:1f28:60:800:2001:637f:957b:b806     # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:5c66:3c90:3655:cd43     # dns.api.integration.globuscs.info
@@ -224,15 +223,12 @@
 2600:1f28:60:802:f4e6:8087:acd3:1f8      # dns.api.staging.globuscs.info
 2600:3c00::f03c:93ff:fe79:3686           # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be           # us1.blissdns.net
-2600:3c00:e000:37a::8:0                  # dns.mzjtechnology.com
 2600:3c01:e000:130::8:0                  # dns.elemental.software
 2600:3c01:e000:16f::8:0                  # dns.w3ctag.org
 2600:3c01:e000:341::8:0                  # dns.startupstack.tech
 2600:3c01:e000:3e2::8:0                  # dns.falkenthal.org
-2600:3c01:e000:446::8:0                  # dns.efficientdocuments.com
 2600:3c01:e000:449::8:0                  # dns.stirringphoto.com
 2600:3c01:e000:7e5::8:0                  # dns.csswg.org
-2600:3c01:e000:7e9::8:0                  # dns.scott-smith.us
 2600:3c01:e000:8ae::8:0                  # dns.inclusioproject.com
 2600:3c02::f03c:93ff:fec9:e0ff           # dns.thebuckners.org
 2600:3c02:e000:67d::8:0                  # dns.flightspace.net
@@ -243,6 +239,7 @@
 2600:4c00:80:8::a                        # atl01.dnscry.pt
 2600:6c7f:f000:202::7                    # doh-01.spectrum.com
 2600:6c7f:f000:202::8                    # doh-02.spectrum.com
+2602:fafd:f52:3b::a                      # dns.syaifullah.com
 2602:fb94:1:39::a                        # dfw02.dnscry.pt
 2602:fba1:100::71:1                      # fet01.dnscry.pt
 2602:fba1:d00::23:1                      # yyz01.dnscry.pt
@@ -354,7 +351,6 @@
 2606:4700:3031::6815:d6f                 # dns.rootlab.top
 2606:4700:3031::6815:df1                 # o1.lt
 2606:4700:3031::6815:e15                 # affcdn.net
-2606:4700:3031::6815:fa7                 # dns.n23.io
 2606:4700:3031::6815:fa9                 # dns.240527.xyz
 2606:4700:3031::6815:fd9                 # tecdrive.site
 2606:4700:3031::ac43:8582                # o1.lt
@@ -367,8 +363,9 @@
 2606:4700:3031::ac43:d938                # dns.bmwhocking.com
 2606:4700:3031::ac43:dfed                # dns.aeiou.pp.ua
 2606:4700:3032::6815:2d99                # dns.lista.my.id
-2606:4700:3032::6815:2e53                # luna-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg
+2606:4700:3032::6815:2e53                # luna-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg
 2606:4700:3032::6815:39ea                # doh.ccb-net.it
+2606:4700:3032::6815:4f6c                # armorrush.eu.org
 2606:4700:3032::6815:50d7                # dns.ian.rocks
 2606:4700:3032::6815:5b0e                # doh.tiarap.org jp.tiarap.org
 2606:4700:3032::6815:5fc7                # adguard-dns.com
@@ -460,7 +457,7 @@
 2606:4700:3035::6815:ed5                 # dns.0rz.ing
 2606:4700:3035::ac43:8275                # outdoorchair.us
 2606:4700:3035::ac43:833d                # doh.aaaab3n.moe
-2606:4700:3035::ac43:88fd                # luna-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg
+2606:4700:3035::ac43:88fd                # luna-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg
 2606:4700:3035::ac43:8c5e                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3035::ac43:8d26                # doh.runsel.id
 2606:4700:3035::ac43:99c3                # cdn.0ms.dev
@@ -486,7 +483,6 @@
 2606:4700:3036::ac43:9866                # xn--durhre-yxa.de
 2606:4700:3036::ac43:9aec                # dns.warma.me
 2606:4700:3036::ac43:9be0                # dns.rootlab.top
-2606:4700:3036::ac43:a324                # dns.n23.io
 2606:4700:3036::ac43:a463                # doh.serverhost.no
 2606:4700:3036::ac43:a714                # 3dcosas.xyz
 2606:4700:3036::ac43:b735                # nightlymoon.us.kg
@@ -511,6 +507,7 @@
 2606:4700:3037::6815:5d50                # bazooki-infra.dev
 2606:4700:3037::ac43:8912                # dns.silen.org
 2606:4700:3037::ac43:8b89                # family.puredns.org puredns.org
+2606:4700:3037::ac43:9118                # armorrush.eu.org
 2606:4700:3037::ac43:ae5c                # deep-henchman-excuse.cfd
 2606:4700:3037::ac43:b84c                # dns.kosan.moe
 2606:4700:3037::ac43:b98d                # dns.princex.net
@@ -705,6 +702,7 @@
 2a01:9e01::54                            # rdns.faelix.net
 2a01:9e01::55                            # rdns.faelix.net
 2a01:cb19:8aa2:4ef9:6e2b:59ff:fee8:7a13  # dns.kebree.fr
+2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d    # cloud.tezoi.com
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1    # rayneau.fr
 2a01:e0a:bc2:47c0:215:5dff:fe01:8705     # dns.freopc.fr
 2a01:e0a:bf3:a440::ba89:636              # dns.maitrekuc.fr
@@ -790,7 +788,6 @@
 2a04:bdc7:100:70::70                     # doh.la.ahadns.net dot.la.ahadns.net
 2a04:bdc7:100:70::abcd                   # doh.westus.pi-dns.com dot.westus.pi-dns.com
 2a04:ff00:501:bf36::1                    # uk.teradns.org
-2a04:ff00:800:104::a                     # dns.syaifullah.com
 2a05:1500:600:8:1c00:45ff:fe00:13ce      # ns3.bit-trail.nl
 2a05:4140:700:e::a                       # lon01.dnscry.pt
 2a05:5502::5906:97f8:2d0e:1              # bts01.dnscry.pt
@@ -815,7 +812,6 @@
 2a06:9f44:f3e0:beba:51d::53              # dns.bebasid.com
 2a06:a005:2e60:616:64f4:57ff:fed0:220a   # dns.mateo.ovh
 2a06:a006:d1d1::116                      # zal01.dnscry.pt
-2a06:cd40:100:2::2d0                     # adg.tshost.no
 2a06:f902:4001:100:9000:9000:39a4:5feb   # fjr01.dnscry.pt
 2a06:f902:8001:100::1757:e617            # bom01.dnscry.pt
 2a07:a105:c0f:fee::20                    # dns.neeb.it
@@ -876,6 +872,7 @@
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt
 2a0e:1d80:21:9cc2::1                     # mil01.dnscry.pt
 2a0e:1d80:31:8a56:0:b0e:5e:0             # cph01.dnscry.pt
+2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:6902:2002:174:5054:ff:fe8d:94b2     # dns.rslvr.eu
 2a0e:97c0:38f:ffff::1                    # dns.home.daniil.it
 2a0e:dc0:6:23::2                         # doh-ch.blahdns.com dot-ch.blahdns.com
