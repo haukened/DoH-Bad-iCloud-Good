@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-28 01:10:21
+# updated at 2024-08-28 12:35:32
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -42,14 +42,12 @@ b.safe.ns.dnslify.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
-blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -89,6 +87,7 @@ dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -117,7 +116,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
+dns.scott-smith.us
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -149,6 +148,7 @@ doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
+doh.morizt.id
 doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
@@ -185,6 +185,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -198,6 +199,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -230,6 +232,7 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
