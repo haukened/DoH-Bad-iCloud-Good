@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-29 12:35:01
+# updated at 2024-08-30 01:10:33
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -62,6 +62,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -155,7 +156,6 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
-blog.kimiblock.top
 bluemood.me
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -180,6 +180,7 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
+cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -366,7 +367,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -517,7 +517,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1035,6 +1034,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 kaiwu.xyz
@@ -1164,6 +1164,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com

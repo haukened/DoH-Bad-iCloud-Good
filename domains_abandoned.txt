@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-08-29 12:35:01
+# updated at 2024-08-30 01:10:33
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -18,7 +18,6 @@ adguard.ambiya.net
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -43,11 +42,11 @@ b.safe.ns.dnslify.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
+blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -84,6 +83,7 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
@@ -107,6 +107,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -198,7 +199,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -214,7 +214,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
