@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-30 01:10:33
+# updated at 2024-08-30 12:33:24
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -156,6 +156,7 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
+blog.kimiblock.top
 bluemood.me
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -384,7 +385,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -524,7 +524,6 @@ dns.narl.app
 dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
-dns.neowutran.ovh
 dns.netraptor.com.au
 dns.netvpn.net
 dns.neubsi.at
@@ -608,6 +607,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
