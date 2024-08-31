@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-31 01:09:12
+# updated at 2024-08-31 12:33:04
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -128,6 +128,7 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
+arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
@@ -155,6 +156,7 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
+blog.kimiblock.top
 bluemood.me
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -416,6 +418,7 @@ dns.hellozhao.com
 dns.henek.ovh
 dns.hinet.net
 dns.home.daniil.it
+dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.huas.me
@@ -593,6 +596,7 @@ dns.sb
 dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
+dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
 dns.seia.io
@@ -1032,7 +1036,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 kaiwu.xyz
@@ -1049,7 +1052,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
@@ -1161,7 +1163,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1201,7 +1202,6 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1322,7 +1322,6 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
