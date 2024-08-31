@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-08-30 12:33:24
+# updated at 2024-08-31 01:09:12
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -128,7 +128,6 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
-arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
@@ -156,7 +155,6 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
-blog.kimiblock.top
 bluemood.me
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -418,7 +416,6 @@ dns.hellozhao.com
 dns.henek.ovh
 dns.hinet.net
 dns.home.daniil.it
-dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.huas.me
@@ -524,6 +521,7 @@ dns.narl.app
 dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
+dns.neowutran.ovh
 dns.netraptor.com.au
 dns.netvpn.net
 dns.neubsi.at
@@ -1113,7 +1111,6 @@ nl.dns.privex.io
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
-ns.lov.host
 ns.mtsoln.com
 ns.ral9005.org
 ns.trcnet.fi
