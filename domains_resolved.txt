@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-04 01:12:31
+# updated at 2024-09-04 12:36:03
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -24,7 +24,6 @@ ada.openbld.net
 adb-home.xaoimoon.fr
 adb.aadityakushwaha.com
 adblock.any.dns.nixnet.xyz
-adblock.borjalopez.eu
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
@@ -62,7 +61,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -202,6 +200,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -516,6 +515,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -593,6 +593,7 @@ dns.sb
 dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
+dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
 dns.seia.io
@@ -605,7 +606,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -838,6 +838,7 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
+doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -976,6 +977,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1287,6 +1289,7 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
@@ -1315,6 +1318,7 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
