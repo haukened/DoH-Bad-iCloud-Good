@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-03 12:49:00
+# updated at 2024-09-04 01:12:31
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -202,7 +202,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -368,6 +367,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -496,7 +496,6 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.meeo.win
@@ -588,7 +587,6 @@ dns.rootlab.top
 dns.rotunneling.net
 dns.rslvr.eu
 dns.rubyfish.cn
-dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
@@ -723,12 +721,16 @@ dnscache.e-utp.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -989,7 +991,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1045,7 +1046,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
@@ -1157,7 +1157,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1288,7 +1287,6 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
-sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
