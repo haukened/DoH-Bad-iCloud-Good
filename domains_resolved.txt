@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-06 01:11:06
+# updated at 2024-09-06 12:36:25
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -179,7 +179,6 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
-cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -366,7 +365,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -604,6 +602,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -802,6 +801,7 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
+doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -989,6 +989,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1156,7 +1157,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
