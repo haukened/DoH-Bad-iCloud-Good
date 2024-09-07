@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-07 01:09:50
+# updated at 2024-09-07 12:31:06
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -180,6 +180,7 @@ clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
+cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -200,6 +201,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -365,7 +367,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -383,7 +384,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -592,7 +592,6 @@ dns.sb
 dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
-dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
 dns.seia.io
