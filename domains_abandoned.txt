@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-09-07 12:31:06
+# updated at 2024-09-08 01:16:10
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -88,7 +88,6 @@ dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -109,7 +108,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -122,7 +120,6 @@ dns.pumplex.com
 dns.repressoh.it
 dns.sarak.as
 dns.scott-smith.us
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
