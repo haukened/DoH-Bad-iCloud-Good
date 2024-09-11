@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-09-11 01:11:10
+# updated at 2024-09-11 12:35:49
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -19,6 +19,7 @@ adguard.ambiya.net
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -84,11 +85,11 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -99,7 +100,6 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
-dns.koala.us.to
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
@@ -206,6 +206,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -224,7 +225,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 osefcorp.duckdns.org
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -241,7 +241,6 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org

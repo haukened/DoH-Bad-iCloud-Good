@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-11 01:11:10
+# updated at 2024-09-11 12:35:49
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -61,7 +61,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -366,6 +365,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -383,7 +383,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -469,6 +468,7 @@ dns.kernel-error.de
 dns.kescher.at
 dns.keviland.com
 dns.keweon.center
+dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.kugoapps.com
@@ -1027,7 +1027,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 kaiwu.xyz
@@ -1195,6 +1194,7 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1315,6 +1315,7 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
