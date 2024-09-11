@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-09-10 12:37:08
+# updated at 2024-09-11 01:11:10
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -89,10 +89,8 @@ dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -101,6 +99,7 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
+dns.koala.us.to
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
@@ -110,6 +109,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -120,6 +120,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -129,6 +130,7 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.xiumu.org
+dns.youni.win
 dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
@@ -190,6 +192,7 @@ groupy.ga
 gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -203,7 +206,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -239,6 +241,7 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
