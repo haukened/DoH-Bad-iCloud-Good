@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-12 01:11:53
+# updated at 2024-09-12 12:35:23
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -42,7 +42,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.rokh.biz
 adg.rueiliu.space
-adg.tshost.no
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
@@ -197,6 +196,7 @@ cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
+d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
 dandelionsprout.asuscomm.com
@@ -365,6 +365,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -382,6 +383,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -598,7 +600,6 @@ dns.sec511.com
 dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
-dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
 dns.sheggi.ch
@@ -873,7 +874,6 @@ doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
-dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-ch.blahdns.com
 dot-de.blahdns.com
@@ -988,6 +988,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1043,6 +1044,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
@@ -1312,6 +1314,8 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
@@ -1379,7 +1383,6 @@ www.muxyuji.ru
 www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
-wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
 xray.krnl.eu
