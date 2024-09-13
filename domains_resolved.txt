@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-12 12:35:23
+# updated at 2024-09-13 01:10:49
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -365,7 +365,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -600,6 +599,7 @@ dns.sec511.com
 dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
+dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
 dns.sheggi.ch
@@ -802,7 +802,6 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -822,7 +821,6 @@ doh.maskab.com
 doh.max.net.id
 doh.micronets.in
 doh.mmmalia.com
-doh.morizt.id
 doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
@@ -874,6 +872,7 @@ doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
+dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-ch.blahdns.com
 dot-de.blahdns.com
@@ -988,7 +987,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1156,6 +1154,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1383,6 +1382,7 @@ www.muxyuji.ru
 www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
+wyx.cloud
 xenergy.cc
 xn--durhre-yxa.de
 xray.krnl.eu
