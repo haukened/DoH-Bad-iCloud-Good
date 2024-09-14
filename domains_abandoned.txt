@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-09-13 12:34:50
+# updated at 2024-09-14 01:10:45
 1.xhr0no.my
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -122,7 +122,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -132,6 +131,7 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.xiumu.org
+dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
@@ -194,7 +194,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -209,7 +208,6 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 jurre-home.duckdns.org
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -226,7 +224,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
@@ -245,7 +242,6 @@ tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
