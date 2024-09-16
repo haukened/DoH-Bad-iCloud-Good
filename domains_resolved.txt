@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-15 12:33:13
+# updated at 2024-09-16 01:14:06
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -382,6 +382,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -1163,6 +1164,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
