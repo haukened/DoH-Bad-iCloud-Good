@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-25 12:38:00
+# updated at 2024-09-26 01:14:25
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -61,7 +61,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -386,6 +385,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -547,7 +547,6 @@ dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
-dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ourvau.lt
@@ -612,7 +611,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -1050,6 +1048,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
@@ -1170,7 +1169,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1202,6 +1200,7 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
