@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-28 01:14:49
+# updated at 2024-09-28 12:34:45
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -518,7 +518,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -604,7 +603,6 @@ dns.sec511.com
 dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
-dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
 dns.sheggi.ch
@@ -679,7 +677,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -1292,6 +1289,7 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
