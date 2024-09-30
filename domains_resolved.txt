@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-09-30 01:16:18
+# updated at 2024-09-30 12:38:42
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -62,7 +62,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -386,7 +385,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -519,6 +517,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -611,6 +610,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -740,11 +740,8 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 doh-2.seby.io
 doh-ca.naftalie.net
-doh-ch.blahdns.com
 doh-de.blahdns.com
-doh-fi.blahdns.com
 doh-ipv6.crypto.sx
-doh-jp.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
@@ -876,10 +873,7 @@ doh2.gslb2.xfinity.com
 dohdot.coxlab.net
 dohtrial.att.net
 dooh.cloudflare-dns.com
-dot-ch.blahdns.com
 dot-de.blahdns.com
-dot-fi.blahdns.com
-dot-jp.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
 dot.centraleu.pi-dns.com
@@ -1032,7 +1026,6 @@ jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
-kaitain.restena.lu
 kaiwu.xyz
 keithchung.hopto.org
 kids.5ososea.com
