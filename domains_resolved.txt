@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-01 01:21:51
+# updated at 2024-10-01 12:38:38
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -367,7 +367,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -517,7 +516,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1009,7 +1007,6 @@ ist01.dnscry.pt
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
-jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -1039,7 +1036,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
@@ -1097,6 +1093,7 @@ nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
+nl.dns.privex.io
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
@@ -1150,6 +1147,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1293,6 +1291,7 @@ testguard.meexx.de
 tetty-is.so-gorgeo.us.kg
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tky-dns.bitdefender.net
@@ -1307,6 +1306,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
