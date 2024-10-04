@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-04 01:14:53
+# updated at 2024-10-04 12:35:10
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -369,6 +369,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
