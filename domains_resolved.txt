@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-04 12:35:10
+# updated at 2024-10-05 01:12:28
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -369,7 +369,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -611,6 +610,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -913,7 +913,6 @@ emby.rasp.tv
 esel.stusta.mhn.de
 eth.link
 eu1.dns.lavate.ch
-everovpn.co
 extended.dns.mullvad.net
 eyg01.dnscry.pt
 family-filter-dns.cleanbrowsing.org
