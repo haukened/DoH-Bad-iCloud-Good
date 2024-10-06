@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-05 12:33:53
+# updated at 2024-10-06 01:18:07
 1.xhr0no.my
 a-bld.sys-adm.in
 a.passcloud.xyz
@@ -74,7 +74,6 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.cybershell.xyz
-dns.d365.in
 dns.dns-over-https.com
 dns.dnssilo.top
 dns.doh.best
@@ -86,6 +85,7 @@ dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -111,11 +111,11 @@ dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
-dns.pizzari.me
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
