@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-07 01:16:29
+# updated at 2024-10-07 12:37:35
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -62,6 +62,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -414,6 +415,7 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
+dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hellozhao.com
@@ -610,7 +612,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -1041,6 +1042,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
