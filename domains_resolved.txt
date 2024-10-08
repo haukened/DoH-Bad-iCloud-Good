@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-07 12:37:35
+# updated at 2024-10-08 01:13:19
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -62,7 +62,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -387,6 +386,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -612,6 +612,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -750,7 +751,6 @@ doh.233py.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
-doh.978159.xyz
 doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.angry.im
