@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-08 12:35:29
+# updated at 2024-10-09 01:13:00
 1.xhr0no.my
 a-bld.sys-adm.in
 a.passcloud.xyz
@@ -115,7 +115,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -210,7 +209,6 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com

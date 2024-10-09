@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-08 12:35:29
+# updated at 2024-10-09 01:13:00
 003153.xyz
 1.dns.noridev.moe
 123000123.xyz
@@ -611,6 +611,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -1040,6 +1041,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 las01.dnscry.pt
 lastentarvike.fi
