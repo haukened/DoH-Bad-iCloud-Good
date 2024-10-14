@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-13 12:33:45
+# updated at 2024-10-14 01:15:58
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -387,7 +387,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -635,7 +634,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -1011,6 +1009,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1129,7 +1128,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-michelo.line.pm
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
@@ -1187,6 +1185,7 @@ ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
+ns3.cx
 ns3.link
 ns3.opennameserver.org
 ns3.wuyouss.com
