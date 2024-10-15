@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-14 12:39:40
+# updated at 2024-10-15 01:16:16
 1.xhr0no.my
 a-bld.sys-adm.in
 a.passcloud.xyz
@@ -18,16 +18,15 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
-adguard.lege.despagne.net
 adguard.lista.my.id
 adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
-adguard.pggns.de
 adguard.quydang.name.vn
 adguardh.ga
 ag.brianlee.fun
@@ -87,7 +86,6 @@ dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -98,7 +96,6 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
-dns.keviland.com
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
@@ -107,11 +104,8 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
-dns.mo0on15.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
-dns.neeb.it
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
@@ -120,9 +114,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.schlagheck.berlin
-dns.simplylinux.ch
-dns.siry.de
+dns.rootlab.top
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -155,7 +147,6 @@ doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
-doh.cornes.me
 doh.doh.my.id
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
@@ -217,6 +208,7 @@ jcdns.fun
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
@@ -234,8 +226,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
-please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -253,9 +244,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-typaza.com
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
