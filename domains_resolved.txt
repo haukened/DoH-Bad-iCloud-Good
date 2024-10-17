@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-16 12:37:46
+# updated at 2024-10-17 01:13:58
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -132,6 +132,7 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
+arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
@@ -212,6 +213,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -385,7 +387,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -495,7 +496,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -633,6 +633,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -1017,6 +1018,7 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
+hfgx.shop
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -1088,6 +1090,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1217,6 +1220,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
