@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-17 12:38:21
+# updated at 2024-10-18 01:14:40
 1.xhr0no.my
 a-bld.sys-adm.in
 a.passcloud.xyz
@@ -58,6 +58,7 @@ dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
+dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
 dns.7sec.com.br
@@ -80,8 +81,8 @@ dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
@@ -91,7 +92,6 @@ dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
-dns.hannielzhang.com
 dns.haoxuan.xyz
 dns.infosec.xyz
 dns.invisv.com
@@ -108,10 +108,8 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
-dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.post-factum.tk
@@ -147,6 +145,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.233py.com
 doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
@@ -175,6 +174,7 @@ doh.this.web.id
 doh.velyn.my.id
 doh.zln.wtf
 doh2.abmb.win
+dohtrial.att.net
 dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
@@ -191,6 +191,7 @@ dot.pl.ahadns.net
 draco.plan9-ns2.com
 drs.rustsword.com
 ecs-doh.dnswarden.com
+edns.233py.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -201,9 +202,9 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
+i.233py.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
 inde.ragnvindr.org
@@ -214,13 +215,12 @@ jcdns.fun
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 nanopi.cybergroove.net
+ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
@@ -233,12 +233,12 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io
 sby-doh.limotelu.org
+sdns.233py.com
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
@@ -251,9 +251,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
@@ -262,6 +260,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
+wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 xorbiadns.com
