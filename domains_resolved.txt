@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-18 01:14:40
+# updated at 2024-10-18 12:36:46
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -386,6 +386,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -404,6 +405,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -539,7 +541,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -634,6 +635,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -906,6 +908,7 @@ doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
+dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
@@ -1086,7 +1089,6 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1390,7 +1392,6 @@ tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
 tyo02.dnscry.pt
-typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk.teradns.org
