@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-19 01:13:20
+# updated at 2024-10-19 12:35:11
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -385,6 +385,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -526,6 +527,7 @@ dns.mestdag.fr
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mihanentalpo.me
 dns.mikeliu.org
+dns.mikrotikrumahan.my.id
 dns.mnet-online.de
 dns.mo0on15.com
 dns.molinero.dev
@@ -537,7 +539,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1161,7 +1162,6 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.nerdytechgeeks.co.za
-ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
@@ -1224,7 +1224,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
