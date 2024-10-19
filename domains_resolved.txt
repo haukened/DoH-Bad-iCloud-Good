@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-18 12:36:46
+# updated at 2024-10-19 01:13:20
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -49,7 +49,6 @@ adg.rokh.biz
 adg.rueiliu.space
 adg.tshost.no
 adguard-dns.com
-adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard.abd.ong
 adguard.alu.dog
@@ -386,7 +385,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -405,7 +403,6 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -529,7 +526,6 @@ dns.mestdag.fr
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mihanentalpo.me
 dns.mikeliu.org
-dns.mikrotikrumahan.my.id
 dns.mnet-online.de
 dns.mo0on15.com
 dns.molinero.dev
@@ -541,6 +537,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -635,7 +632,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.siry.de
 dns.sitdns.com
@@ -750,6 +746,7 @@ dns8.org
 dns9.quad9.net
 dnsblock.grisumedia.de
 dnscache.e-utp.net
+dnscache0.ns71.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -1089,6 +1086,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1392,6 +1390,7 @@ tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
 tyo02.dnscry.pt
+typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk.teradns.org
