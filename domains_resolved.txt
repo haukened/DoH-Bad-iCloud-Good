@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-19 12:35:11
+# updated at 2024-10-20 01:20:42
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -12,7 +12,6 @@
 3dns.eu
 5g.o0o.re
 8888.google
-89433332.xyz
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.safe.ns.dnslify.com
@@ -385,7 +384,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -778,7 +776,6 @@ doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -1162,6 +1159,7 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.nerdytechgeeks.co.za
+ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
@@ -1224,6 +1222,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
