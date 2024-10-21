@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-21 01:16:23
+# updated at 2024-10-21 12:37:45
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -36,6 +36,7 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
@@ -78,6 +79,7 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.cybershell.xyz
+dns.daarrk.tech
 dns.dns-over-https.com
 dns.dnssilo.top
 dns.doh.best
@@ -216,6 +218,7 @@ jcdns.fun
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
@@ -234,7 +237,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
