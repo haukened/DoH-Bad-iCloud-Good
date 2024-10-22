@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-21 12:37:45
+# updated at 2024-10-22 01:14:50
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -36,7 +36,6 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-arashi.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
@@ -79,7 +78,6 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.cybershell.xyz
-dns.daarrk.tech
 dns.dns-over-https.com
 dns.dnssilo.top
 dns.doh.best
@@ -223,6 +221,7 @@ kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
+michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org

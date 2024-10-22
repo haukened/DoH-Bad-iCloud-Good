@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-21 12:37:45
+# updated at 2024-10-22 01:14:50
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -129,6 +129,7 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
+arashi.eu.org
 arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
@@ -354,6 +355,7 @@ dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
 dns.d96.info
+dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
 dns.datenquark.de
@@ -1119,7 +1121,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-michelo.line.pm
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
