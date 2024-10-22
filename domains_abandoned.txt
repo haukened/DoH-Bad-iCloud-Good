@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-22 01:14:50
+# updated at 2024-10-22 12:38:05
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -42,6 +42,7 @@ axaxa.fun
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
+blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 catdns.org
@@ -70,6 +71,7 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
+dns.benpro.fr
 dns.blaze-sk.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -111,7 +113,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -218,10 +219,10 @@ jp.ray0512.win
 jp.rslvr.eu
 jurre-home.duckdns.org
 kaitain.restena.lu
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
-michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -236,6 +237,8 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -254,6 +257,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
