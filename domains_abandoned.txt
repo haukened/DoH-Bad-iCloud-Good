@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-23 01:15:33
+# updated at 2024-10-23 12:38:43
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -20,6 +20,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -203,8 +204,10 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -239,6 +242,8 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
@@ -258,6 +263,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tungdnsne.duckdns.org
 uf-dns.lista.my.id
