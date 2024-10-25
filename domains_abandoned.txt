@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-25 01:16:31
+# updated at 2024-10-25 12:38:01
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -87,7 +87,6 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
@@ -124,6 +123,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rootlab.top
+dns.simplylinux.ch
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -207,6 +207,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -221,7 +222,6 @@ johneldenring.lol
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -262,6 +262,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tungdnsne.duckdns.org
 uf-dns.lista.my.id
