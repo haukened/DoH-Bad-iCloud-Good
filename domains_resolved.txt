@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-27 01:19:47
+# updated at 2024-10-27 12:35:02
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -54,7 +54,6 @@ adguard.alu.dog
 adguard.avdkishore.dev
 adguard.blogssl.com
 adguard.bonis.de
-adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
@@ -146,7 +145,6 @@ b-ii.com
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
-bahopir188.dnshome.de
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -415,7 +413,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -1063,6 +1060,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 keithchung.hopto.org
@@ -1078,7 +1076,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1115,6 +1112,7 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
+michelo.line.pm
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
@@ -1206,7 +1204,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
