@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-27 12:35:02
+# updated at 2024-10-28 12:38:54
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -18,9 +18,9 @@ adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
-adguard.bonsirven.eu
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -38,6 +38,7 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
@@ -97,7 +98,6 @@ dns.fgbk.net
 dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -143,6 +143,7 @@ dns.zui.lol
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
+dns1.server.my.id
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
@@ -224,6 +225,7 @@ johneldenring.lol
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 krtekvpn.duckdns.org
@@ -246,6 +248,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 osefcorp.duckdns.org
 outdoorchair.us
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -264,9 +267,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
