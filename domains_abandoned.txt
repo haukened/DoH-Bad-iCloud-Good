@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-10-31 01:15:00
+# updated at 2024-10-31 12:38:09
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -20,6 +20,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -71,6 +72,7 @@ dns.aaytorr.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
+dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -87,13 +89,11 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -210,6 +210,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -224,13 +225,14 @@ johneldenring.lol
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
-luna-is.so-gorgeo.us.kg
+michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -245,7 +247,9 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -265,6 +269,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
