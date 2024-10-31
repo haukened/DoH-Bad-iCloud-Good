@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-10-30 12:37:14
+# updated at 2024-10-31 01:15:00
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -63,6 +63,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -128,6 +129,7 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
+arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
@@ -1015,6 +1017,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1073,6 +1076,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1088,12 +1092,10 @@ lion.dns.qwer.pw
 llk01.dnscry.pt
 loadlow.me
 local.sufly.top
-lon-dns.bitdefender.net
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
-luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 luxembourg.privacy-dns.pw
 lv1.nixnet.xyz
