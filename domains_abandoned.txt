@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-01 12:37:52
+# updated at 2024-11-02 01:14:08
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -20,7 +20,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -38,7 +37,6 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-arashi.net.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
@@ -127,7 +125,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rootlab.top
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -225,16 +222,19 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jcdns.fun
+jit.ddns.net
 johneldenring.lol
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
+michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -251,7 +251,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 osefcorp.duckdns.org
 outdoorchair.us
-please.dontsteal.my.id
 punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
@@ -271,8 +270,8 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
