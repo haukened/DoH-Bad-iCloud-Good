@@ -137,8 +137,8 @@
 2001:de4::102                            # dns.twnic.tw
 2001:df7:5300:3::2f4                     # dns.syaifullah.com
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
 2003:180:2:7000:0:4:0:53                 # dns.telekom.de
-2003:180:2:8100:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:37f:ef4f::1                       # dns.faked.org
@@ -169,6 +169,7 @@
 2400:8902::f03c:92ff:fe3e:46cd           # jp-dns1.bancuh.com
 2400:8902::f03c:92ff:fe80:38b7           # dns.kuuhaku.moe
 2400:8902::f03c:93ff:feb8:2f31           # dns.wang.art
+2400:8904::f03c:92ff:fe29:cb19           # dns.therifleman.name
 2400:8905::f03c:93ff:fe1d:a421           # dns.nodoa.me
 2400:c401::5054:ff:fe1b:b036             # adl.adfilter.net
 2400:d321:2191:8363::1                   # dns.albony.xyz
@@ -242,14 +243,14 @@
 2600:4c00:80:8::a                        # atl01.dnscry.pt
 2600:6c7f:f000:202::7                    # doh-01.spectrum.com
 2600:6c7f:f000:202::8                    # doh-02.spectrum.com
-2600:9000:234b:2400:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:2800:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:3e00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:400:f:5c7a:55c0:93a1      # eth.link
-2600:9000:234b:5a00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:8c00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:ac00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:f000:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:200:f:5c7a:55c0:93a1      # eth.link
+2600:9000:234b:4400:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:4600:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:7c00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:8600:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:8e00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:a600:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:c800:f:5c7a:55c0:93a1     # eth.link
 2602:fa67:101:20::a                      # hkg02.dnscry.pt
 2602:fb94:1:39::a                        # dfw02.dnscry.pt
 2602:fba1:100::71:1                      # fet01.dnscry.pt
@@ -287,6 +288,7 @@
 2603:c022:800e:b67e:1011::               # dns.haka.se
 2603:c023:1:8763:80d6:891:ed34:7b18      # dns.chromeina.top
 2603:c023:7:8700::8888                   # oraclejp2.chungyu.com
+2603:c024:4507:6821:456c:317b:2f25:11bc  # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd   # dns.0ooo.icu
 2603:c024:9:35af:19c7:3532:ac18:f4b9     # dns.moonssif.com
 2604:180:f3::132                         # dns.sev.monster
@@ -386,7 +388,7 @@
 2606:4700:3031::ac43:d938                # dns.bmwhocking.com
 2606:4700:3032::6815:1979                # pihole4.hoerli.net
 2606:4700:3032::6815:2d99                # dns.lista.my.id
-2606:4700:3032::6815:2e53                # luna-is.so-gorgeo.us.kg mita-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg nindy-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg yussy-is.so-gorgeo.us.kg
+2606:4700:3032::6815:2e53                # luna-is.so-gorgeo.us.kg mita-is.so-gorgeo.us.kg nindy-is.so-gorgeo.us.kg nova-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg yussy-is.so-gorgeo.us.kg
 2606:4700:3032::6815:39ea                # doh.ccb-net.it
 2606:4700:3032::6815:4f6c                # armorrush.eu.org
 2606:4700:3032::6815:518e                # dns.repressoh.it
@@ -497,7 +499,7 @@
 2606:4700:3035::6815:630                 # dns.warma.me
 2606:4700:3035::6815:ed5                 # dns.0rz.ing
 2606:4700:3035::ac43:833d                # doh.aaaab3n.moe
-2606:4700:3035::ac43:88fd                # luna-is.so-gorgeo.us.kg mita-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg nindy-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg yussy-is.so-gorgeo.us.kg
+2606:4700:3035::ac43:88fd                # luna-is.so-gorgeo.us.kg mita-is.so-gorgeo.us.kg nindy-is.so-gorgeo.us.kg nova-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg yussy-is.so-gorgeo.us.kg
 2606:4700:3035::ac43:8c5e                # crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
 2606:4700:3035::ac43:8d26                # doh.runsel.id
 2606:4700:3035::ac43:90b6                # doh.asagiri.moe
@@ -785,6 +787,7 @@
 2a02:88:1:e:807::101                     # dns.cert.ee
 2a02:88:1:e:807::99                      # dns.cert.ee
 2a02:908:c20f:3800::11                   # doh.kekew.info
+2a02:908:c20f:3800::13                   # doh.kekew.info
 2a02:908:c20f:3800::3                    # doh.kekew.info
 2a02:908:c20f:3800::5                    # doh.kekew.info
 2a02:908:c20f:3800::7                    # doh.kekew.info
@@ -910,7 +913,7 @@
 2a0c:3d00:11:6942:5:180:59:37            # nsc.torgues.net
 2a0c:59c0:19::3                          # nl-ams.doh.sb
 2a0c:82c0::1                             # doh.suche.org
-2a0c:8901::53                            # dns.dnshome.de
+2a0c:8902::53                            # dns.dnshome.de
 2a0c:8fc0:1749:66:18::16                 # muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34                 # tyo01.dnscry.pt
 2a0c:8fc1:8004:553::145a:bbf9            # syd01.dnscry.pt
