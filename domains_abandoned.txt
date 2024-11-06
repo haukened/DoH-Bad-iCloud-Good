@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-06 01:13:54
+# updated at 2024-11-06 12:37:14
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -122,10 +122,12 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -244,6 +246,7 @@ neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
 ns.lov.host
+ns.net.kg
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
@@ -252,9 +255,9 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
