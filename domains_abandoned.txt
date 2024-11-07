@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-07 01:13:51
+# updated at 2024-11-07 12:36:03
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -74,6 +74,7 @@ dns.arapurayil.com
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
+dns.burgas.pro
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -127,7 +128,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -237,8 +237,6 @@ kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
-luna-is.so-gorgeo.us.kg
-michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -253,8 +251,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
