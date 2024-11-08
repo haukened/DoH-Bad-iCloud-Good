@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-08 01:13:07
+# updated at 2024-11-08 12:36:21
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -43,6 +43,7 @@ axaxa.fun
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bigora2.vuhai.de
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
@@ -88,6 +89,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
@@ -213,6 +215,7 @@ groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -250,8 +253,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
