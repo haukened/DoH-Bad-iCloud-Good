@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-10 01:17:17
+# updated at 2024-11-10 12:35:08
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -51,6 +51,7 @@ canadianshield.cira.ca
 catdns.org
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+chr.kepegawaiandju.id
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -124,13 +125,13 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.ourvau.lt
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.redvau.lt
 dns.rslvr.eu
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -220,6 +221,7 @@ groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -236,14 +238,14 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
-keithchung.hopto.org
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
-michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -259,8 +261,8 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -280,6 +282,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
