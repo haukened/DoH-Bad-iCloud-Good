@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-09 12:33:43
+# updated at 2024-11-10 01:17:17
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -20,6 +20,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -118,11 +119,11 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.ourvau.lt
 dns.post-factum.tk
 dns.privilab.net
@@ -188,6 +189,7 @@ doh.serverhost.no
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
@@ -235,11 +237,13 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
+keithchung.hopto.org
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
+michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -255,6 +259,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
