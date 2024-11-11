@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-11 01:16:28
+# updated at 2024-11-11 12:37:38
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -20,7 +20,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -126,11 +125,9 @@ dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
-dns.ourvau.lt
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
-dns.redvau.lt
 dns.rslvr.eu
 dns.siry.de
 dns.stvsk.ml
@@ -190,7 +187,6 @@ doh.serverhost.no
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
@@ -240,11 +236,11 @@ jp.rslvr.eu
 jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
+michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -262,6 +258,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 osefcorp.duckdns.org
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 punono.duckdns.org
 quic.lol
@@ -283,6 +280,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tungdnsne.duckdns.org
 uf-dns.lista.my.id

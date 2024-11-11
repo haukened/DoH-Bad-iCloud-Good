@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-11 01:16:28
+# updated at 2024-11-11 12:37:38
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -63,6 +63,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -558,6 +559,7 @@ dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ours.luxe
+dns.ourvau.lt
 dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
@@ -586,6 +588,7 @@ dns.rayanbab.com
 dns.rbn.gr
 dns.reckoningslug.name
 dns.redhosting.com.ar
+dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
@@ -879,6 +882,7 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
+doh.zephyrus.id
 doh.zknt.org
 doh003.280blocker.net
 doh1.b-cdn.net
@@ -1062,6 +1066,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1097,7 +1102,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-michelo.line.pm
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
@@ -1195,7 +1199,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1351,7 +1354,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
