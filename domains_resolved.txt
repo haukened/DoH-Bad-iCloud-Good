@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-10 12:35:08
+# updated at 2024-11-11 01:16:28
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -1006,6 +1006,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1161,7 +1162,6 @@ ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 nue01.dnscry.pt
-nue2.moderateinfra.net
 nvi-dns.bitdefender.net
 ny.teradns.org
 ny1.nixnet.xyz
@@ -1188,7 +1188,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1245,7 +1244,6 @@ res-acst3.absolight.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
-resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
