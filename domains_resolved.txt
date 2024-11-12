@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-12 01:13:06
+# updated at 2024-11-12 12:37:33
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -1066,7 +1066,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1102,7 +1101,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-michelo.line.pm
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
@@ -1295,7 +1293,6 @@ secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
-secure.onedns.cc
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com

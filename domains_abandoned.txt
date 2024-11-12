@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-12 01:13:06
+# updated at 2024-11-12 12:37:33
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -236,10 +236,12 @@ jp.rslvr.eu
 jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
+michelo.line.pm
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -265,6 +267,7 @@ resolver.noaddns.com
 resolver.unstoppable.io
 sby-doh.limotelu.org
 sdns.233py.com
+secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
