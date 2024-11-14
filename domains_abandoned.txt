@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-13 12:36:41
+# updated at 2024-11-14 01:13:21
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -91,11 +91,13 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -128,6 +130,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -232,7 +235,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -256,7 +258,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
-query.hdns.io
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -278,7 +279,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
