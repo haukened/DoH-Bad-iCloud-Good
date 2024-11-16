@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-16 01:16:59
+# updated at 2024-11-16 12:36:40
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -20,6 +20,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -92,7 +93,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
@@ -124,7 +124,6 @@ dns.moog.sh
 dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
-dns.njal.la
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -132,6 +131,8 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
+dns.sev.monster
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -174,7 +175,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -221,6 +221,8 @@ groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+hkname.freecdn.one
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -239,6 +241,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -260,6 +263,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -280,6 +284,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
