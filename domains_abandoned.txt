@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-16 12:36:40
+# updated at 2024-11-17 01:22:49
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -93,12 +93,12 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -131,8 +131,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
-dns.sev.monster
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -221,7 +219,6 @@ groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
-hkname.freecdn.one
 home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
@@ -261,6 +258,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 punono.duckdns.org
@@ -286,6 +284,7 @@ tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org

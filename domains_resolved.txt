@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-16 12:36:40
+# updated at 2024-11-17 01:22:49
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -375,7 +375,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -393,6 +392,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.flwagners.com
@@ -612,12 +612,14 @@ dns.sec511.com
 dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
+dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1001,6 +1003,7 @@ hk-hkg.doh.sb
 hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
@@ -1187,7 +1190,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1350,7 +1352,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
