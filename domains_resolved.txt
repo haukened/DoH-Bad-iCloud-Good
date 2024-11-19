@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-19 01:19:48
+# updated at 2024-11-19 12:38:19
 003153.xyz
 052419.xyz
 0ms.dev
@@ -290,6 +290,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -402,7 +403,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -789,6 +789,7 @@ doh-primary-pool.goodbyegambling.com
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -1154,6 +1155,7 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
+michelo.line.pm
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
@@ -1251,7 +1253,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
