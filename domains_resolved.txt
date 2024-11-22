@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-22 01:18:15
+# updated at 2024-11-22 12:36:57
 003153.xyz
 052419.xyz
 0ms.dev
@@ -386,7 +386,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -596,7 +595,6 @@ dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
-dns.pumpkinvrar.com
 dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
@@ -850,7 +848,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1022,7 +1019,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1173,7 +1169,6 @@ muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
-myrra-is.so-gorgeo.us.kg
 n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
@@ -1200,6 +1195,7 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.nerdytechgeeks.co.za
+ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
