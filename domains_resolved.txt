@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-21 12:38:31
+# updated at 2024-11-22 01:18:15
 003153.xyz
 052419.xyz
 0ms.dev
@@ -386,6 +386,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1199,7 +1200,6 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.nerdytechgeeks.co.za
-ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi

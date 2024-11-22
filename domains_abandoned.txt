@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-21 12:38:31
+# updated at 2024-11-22 01:18:15
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -93,7 +93,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.f97.xyz
 dns.faze.dev
@@ -249,6 +248,7 @@ neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
 ns.lov.host
+ns.net.kg
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
