@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-23 01:15:03
+# updated at 2024-11-23 12:36:14
 003153.xyz
 052419.xyz
 0ms.dev
@@ -386,7 +386,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1022,6 +1021,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1328,6 +1328,7 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 resolver-eu.haringstad.com
+resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
 resolver1-fs.opendns.com
