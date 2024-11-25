@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-24 12:36:41
+# updated at 2024-11-25 01:21:20
 003153.xyz
 052419.xyz
 0ms.dev
@@ -132,7 +132,6 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
-arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
@@ -262,6 +261,7 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -386,6 +386,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -638,6 +639,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1019,6 +1021,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1155,7 +1158,6 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
-miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
