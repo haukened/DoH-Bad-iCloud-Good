@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-26 01:19:12
+# updated at 2024-11-26 12:40:02
 003153.xyz
 052419.xyz
 0ms.dev
@@ -420,7 +420,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -1155,6 +1154,7 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
+michelo.line.pm
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
