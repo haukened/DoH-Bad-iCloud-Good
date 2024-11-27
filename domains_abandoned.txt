@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-26 12:40:02
+# updated at 2024-11-27 01:20:06
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -120,7 +120,6 @@ dns.lsho.top
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
 dns.mzjtechnology.com
