@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-27 01:20:06
+# updated at 2024-11-27 12:40:54
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -102,7 +102,6 @@ dns.fgbk.net
 dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -116,7 +115,6 @@ dns.jucker.engineering
 dns.kugoapps.com
 dns.labnekotest.site
 dns.lightmaster.pw
-dns.lsho.top
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
@@ -243,6 +241,7 @@ kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
+michelo.line.pm
 miniapp.global
 nanopi.cybergroove.net
 ndns.233py.com
