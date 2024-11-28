@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-28 01:19:50
+# updated at 2024-11-28 12:39:43
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -99,6 +99,7 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -130,6 +131,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -240,6 +242,7 @@ kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
+luna-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
 nanopi.cybergroove.net
