@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-27 12:40:54
+# updated at 2024-11-28 01:19:50
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -99,7 +99,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id

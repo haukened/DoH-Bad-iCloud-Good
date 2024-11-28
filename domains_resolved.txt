@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-27 12:40:54
+# updated at 2024-11-28 01:19:50
 003153.xyz
 052419.xyz
 0ms.dev
@@ -403,6 +403,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
