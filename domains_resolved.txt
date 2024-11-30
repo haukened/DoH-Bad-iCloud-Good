@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-30 01:18:47
+# updated at 2024-11-30 12:36:24
 003153.xyz
 052419.xyz
 0ms.dev
@@ -405,6 +405,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -848,10 +849,10 @@ doh.hajekj.net
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
