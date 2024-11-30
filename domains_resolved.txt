@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-11-29 12:39:53
+# updated at 2024-11-30 01:18:47
 003153.xyz
 052419.xyz
 0ms.dev
@@ -387,7 +387,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -674,7 +673,6 @@ dns.t53.de
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
-dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
@@ -854,7 +852,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
