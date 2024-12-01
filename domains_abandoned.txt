@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-11-30 12:36:24
+# updated at 2024-12-01 01:32:10
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -96,6 +96,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -127,6 +128,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.siry.de
+dns.spirio.fr
 dns.stvsk.ml
 dns.surfshark.com
 dns.tesem.dog
@@ -168,7 +170,6 @@ doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
-doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
@@ -285,6 +286,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
+vps.robotboard.de
 wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
