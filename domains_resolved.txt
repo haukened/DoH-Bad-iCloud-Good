@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-02 01:23:56
+# updated at 2024-12-02 12:41:03
 003153.xyz
 052419.xyz
 0ms.dev
@@ -68,6 +68,7 @@ adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.gambini.org
+adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -385,7 +386,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1256,7 +1256,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1464,6 +1463,7 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
+us-ny-alula.heliumcloud.cc
 us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
