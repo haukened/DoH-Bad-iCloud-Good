@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-01 12:37:35
+# updated at 2024-12-02 01:23:56
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -35,6 +35,7 @@ ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
+antivirus.bebasid.com
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -74,6 +75,7 @@ dns.apigw.online
 dns.arapurayil.com
 dns.auapi.fun
 dns.bayas.dev
+dns.bebasid.com
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bw.i81.ru
@@ -95,6 +97,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -224,6 +227,7 @@ hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
 inde.ragnvindr.org
+internetsehat.bebasid.com
 iris.woozeno.eu
 irre.li
 jambi.undo.it
@@ -246,7 +250,6 @@ nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
-nindy-is.so-gorgeo.us.kg
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -287,6 +290,7 @@ uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
+us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vps.robotboard.de

@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-01 12:37:35
+# updated at 2024-12-02 01:23:56
 003153.xyz
 052419.xyz
 0ms.dev
@@ -127,7 +127,6 @@ alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
-antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
@@ -298,7 +297,6 @@ dns.b612.me
 dns.b72.com
 dns.baishiyuan.cn
 dns.beardic.cn
-dns.bebasid.com
 dns.belnet.be
 dns.bermeitinger.eu
 dns.beta.gandi.net
@@ -406,7 +404,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1063,7 +1060,6 @@ in-blr.doh.sb
 india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
-internetsehat.bebasid.com
 iow-dns.bitdefender.net
 ipoac.nl
 isb01.dnscry.pt
@@ -1185,6 +1181,7 @@ netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
 nightlymoon.us.kg
+nindy-is.so-gorgeo.us.kg
 nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
@@ -1467,7 +1464,6 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
-us-ny-alula.heliumcloud.cc
 us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
