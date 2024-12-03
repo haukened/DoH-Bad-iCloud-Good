@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-03 01:23:17
+# updated at 2024-12-03 12:39:20
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -19,6 +19,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.lista.my.id
@@ -68,7 +69,6 @@ dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
 dns.7sec.com.br
-dns.888654.xyz
 dns.aaflalo.me
 dns.anonymous.pw
 dns.apigw.online
@@ -93,7 +93,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -119,7 +118,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -129,6 +127,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
+dns.salonia.it
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
@@ -271,7 +270,6 @@ resolver.noaddns.com
 resolver.unstoppable.io
 sby-doh.limotelu.org
 sdns.233py.com
-sdns22.gkonuralp.com
 secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org

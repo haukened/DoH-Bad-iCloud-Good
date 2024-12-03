@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-03 01:23:17
+# updated at 2024-12-03 12:39:20
 003153.xyz
 052419.xyz
 0ms.dev
@@ -68,7 +68,6 @@ adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.gambini.org
-adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -259,6 +258,7 @@ dns.52306.org
 dns.688447.xyz
 dns.7vpn.com
 dns.886886886.xyz
+dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -385,6 +385,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -545,6 +546,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -620,7 +622,6 @@ dns.ronc.ru
 dns.rootlab.top
 dns.rotunneling.net
 dns.rubyfish.cn
-dns.salonia.it
 dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
@@ -1356,6 +1357,7 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
 secondary.dns.yandex.ru
