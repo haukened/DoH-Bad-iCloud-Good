@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-02 12:41:03
+# updated at 2024-12-03 01:23:17
 003153.xyz
 052419.xyz
 0ms.dev
@@ -259,7 +259,6 @@ dns.52306.org
 dns.688447.xyz
 dns.7vpn.com
 dns.886886886.xyz
-dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -1256,6 +1255,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1356,7 +1356,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
 secondary.dns.yandex.ru
