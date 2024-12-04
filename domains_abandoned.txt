@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-03 12:39:20
+# updated at 2024-12-04 01:22:25
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -118,6 +118,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -141,6 +142,7 @@ dns.wibenson.cloud
 dns.wugui.zone
 dns.xiumu.org
 dns.xwdmw.xyz
+dns.yague.me
 dns.youni.win
 dns.ypbind.de
 dns.zui.lol

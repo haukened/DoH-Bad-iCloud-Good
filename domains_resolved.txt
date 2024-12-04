@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-03 12:39:20
+# updated at 2024-12-04 01:22:25
 003153.xyz
 052419.xyz
 0ms.dev
@@ -546,7 +546,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -710,7 +709,6 @@ dns.weixin.qq.com.cn
 dns.xlion.tw
 dns.xuming.studio
 dns.xusqui.com
-dns.yague.me
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
