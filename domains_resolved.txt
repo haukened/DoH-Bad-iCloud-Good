@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-04 01:22:25
+# updated at 2024-12-04 12:39:29
 003153.xyz
 052419.xyz
 0ms.dev
@@ -127,6 +127,7 @@ alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
+antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
@@ -297,6 +298,7 @@ dns.b612.me
 dns.b72.com
 dns.baishiyuan.cn
 dns.beardic.cn
+dns.bebasid.com
 dns.belnet.be
 dns.bermeitinger.eu
 dns.beta.gandi.net
@@ -1058,6 +1060,7 @@ in-blr.doh.sb
 india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
+internetsehat.bebasid.com
 iow-dns.bitdefender.net
 ipoac.nl
 isb01.dnscry.pt
@@ -1165,7 +1168,6 @@ muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
-myrra-is.so-gorgeo.us.kg
 n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe

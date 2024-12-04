@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-04 01:22:25
+# updated at 2024-12-04 12:39:29
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -35,7 +35,6 @@ ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
-antivirus.bebasid.com
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -75,7 +74,6 @@ dns.apigw.online
 dns.arapurayil.com
 dns.auapi.fun
 dns.bayas.dev
-dns.bebasid.com
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bw.i81.ru
@@ -229,7 +227,6 @@ hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
 inde.ragnvindr.org
-internetsehat.bebasid.com
 iris.woozeno.eu
 irre.li
 jambi.undo.it
@@ -248,6 +245,7 @@ lion.yazilimatolye.com
 lon-dns.bitdefender.net
 michelo.line.pm
 miniapp.global
+myrra-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
