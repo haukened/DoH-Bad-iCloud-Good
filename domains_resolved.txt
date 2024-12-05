@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-05 01:21:16
+# updated at 2024-12-05 12:41:28
 003153.xyz
 052419.xyz
 0ms.dev
@@ -838,7 +838,6 @@ doh.futa.app
 doh.futa.gg
 doh.hajekj.net
 doh.hottis.de
-doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.infotek.net.id
 doh.infracell.net

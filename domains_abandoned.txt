@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-05 01:21:16
+# updated at 2024-12-05 12:41:28
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -176,6 +176,7 @@ doh.doh.my.id
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
+doh.ibr.cs.tu-bs.de
 doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kutu.my.id
