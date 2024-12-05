@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-04 12:39:29
+# updated at 2024-12-05 01:21:16
 003153.xyz
 052419.xyz
 0ms.dev
@@ -387,7 +387,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -423,7 +422,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -1168,6 +1166,7 @@ muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
+myrra-is.so-gorgeo.us.kg
 n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
@@ -1326,6 +1325,7 @@ resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
+resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
 resolver1.ipv6-sandbox.opendns.com
