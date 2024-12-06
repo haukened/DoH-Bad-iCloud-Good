@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-05 12:41:28
+# updated at 2024-12-06 01:20:50
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -99,7 +99,6 @@ dns.fgbk.net
 dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -115,6 +114,7 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.mandre.dev
 dns.mathewakhil.online
+dns.mayx.eu.org
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
@@ -176,7 +176,7 @@ doh.doh.my.id
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
-doh.ibr.cs.tu-bs.de
+doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kutu.my.id
@@ -225,6 +225,7 @@ groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
