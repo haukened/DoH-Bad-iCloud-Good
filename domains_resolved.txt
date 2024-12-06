@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-06 01:20:50
+# updated at 2024-12-06 12:40:15
 003153.xyz
 052419.xyz
 0ms.dev
@@ -387,6 +387,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -525,6 +526,7 @@ dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
 dns.maybe.icu
+dns.mayx.eu.org
 dns.mbrjun.cn
 dns.meeo.win
 dns.melvin2204.nl
@@ -1012,7 +1014,6 @@ glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
-greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
 gustamadh.dynv6.net
@@ -1035,6 +1036,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1177,7 +1179,6 @@ net01.youcef.io
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
-nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl-ams.doh.sb
 nl-ams2.doh.sb
@@ -1428,7 +1429,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org

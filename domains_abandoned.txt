@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-06 01:20:50
+# updated at 2024-12-06 12:40:15
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -91,7 +91,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -114,7 +113,6 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.mandre.dev
 dns.mathewakhil.online
-dns.mayx.eu.org
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
@@ -221,11 +219,11 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
+greatideasforlife.lol
 groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -253,6 +251,7 @@ nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
+nightlymoon.us.kg
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -285,6 +284,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
