@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-07 01:20:32
+# updated at 2024-12-07 12:37:28
 003153.xyz
 052419.xyz
 0ms.dev
@@ -311,6 +311,7 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
+dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
@@ -1012,7 +1013,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
