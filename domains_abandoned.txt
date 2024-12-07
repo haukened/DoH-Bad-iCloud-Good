@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-06 12:40:15
+# updated at 2024-12-07 01:20:32
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -17,6 +17,7 @@ adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.gbrossi.com.br
@@ -48,6 +49,7 @@ bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
 catdns.org
+chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
@@ -76,6 +78,7 @@ dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
+dns.burgas.pro
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -91,6 +94,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -251,7 +255,6 @@ nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
-nightlymoon.us.kg
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -284,7 +287,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org

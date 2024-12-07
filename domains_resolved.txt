@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-06 12:40:15
+# updated at 2024-12-07 01:20:32
 003153.xyz
 052419.xyz
 0ms.dev
@@ -62,7 +62,6 @@ adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -181,7 +180,6 @@ callies-online.site
 catchen121299.top
 cdn.0ms.dev
 cfdjb.org
-chandr1000.net
 chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
@@ -313,7 +311,6 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
-dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
@@ -387,7 +384,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1179,6 +1175,7 @@ net01.youcef.io
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
+nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl-ams.doh.sb
 nl-ams2.doh.sb
@@ -1429,6 +1426,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
