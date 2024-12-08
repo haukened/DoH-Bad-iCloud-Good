@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-08 01:27:06
+# updated at 2024-12-08 12:36:34
 003153.xyz
 052419.xyz
 0ms.dev
@@ -385,7 +385,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -846,6 +845,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
