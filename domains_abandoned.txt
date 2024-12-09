@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-08 12:36:34
+# updated at 2024-12-09 01:23:28
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -17,7 +17,6 @@ adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.gbrossi.com.br
@@ -111,6 +110,7 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
+dns.koala.us.to
 dns.kugoapps.com
 dns.labnekotest.site
 dns.lightmaster.pw
@@ -164,6 +164,8 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh-own-recursion.nicolas-dorriere.fr
+doh-random-upstream.nicolas-dorriere.fr
 doh.233py.com
 doh.978159.xyz
 doh.abmb.win

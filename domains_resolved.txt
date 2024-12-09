@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-08 12:36:34
+# updated at 2024-12-09 01:23:28
 003153.xyz
 052419.xyz
 0ms.dev
@@ -62,6 +62,7 @@ adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -492,7 +493,6 @@ dns.kernel-error.de
 dns.kescher.at
 dns.keviland.com
 dns.keweon.center
-dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.kukal.cz
@@ -780,10 +780,8 @@ doh-2.seby.io
 doh-ca.naftalie.net
 doh-de.blahdns.com
 doh-ipv6.crypto.sx
-doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
-doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
 doh.360.cn
