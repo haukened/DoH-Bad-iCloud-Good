@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-09 01:23:28
+# updated at 2024-12-09 12:40:14
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -12,7 +12,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.aa4.co.uk
 adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
@@ -110,7 +109,6 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
-dns.koala.us.to
 dns.kugoapps.com
 dns.labnekotest.site
 dns.lightmaster.pw
