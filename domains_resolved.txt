@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-10 01:22:10
+# updated at 2024-12-10 12:40:36
 003153.xyz
 052419.xyz
 0ms.dev
@@ -53,7 +53,6 @@ adg.rueiliu.space
 adg.tshost.no
 adguard-dns.com
 adguard-kartoffel.zernico.de
-adguard.aa4.co.uk
 adguard.abd.ong
 adguard.alu.dog
 adguard.avdkishore.dev
@@ -313,6 +312,7 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
+dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
@@ -386,7 +386,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -414,6 +413,7 @@ dns.freopc.fr
 dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
+dns.furrydns.de
 dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
@@ -1261,6 +1261,7 @@ pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
 per.adfilter.net
+performance.gosami.xyz
 phl01.dnscry.pt
 phx01.dnscry.pt
 pi1.node15.com
