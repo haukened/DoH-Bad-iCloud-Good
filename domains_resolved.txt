@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-09 12:40:14
+# updated at 2024-12-10 01:22:10
 003153.xyz
 052419.xyz
 0ms.dev
@@ -313,7 +313,6 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
-dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
@@ -387,6 +386,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -414,7 +414,6 @@ dns.freopc.fr
 dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
-dns.furrydns.de
 dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
@@ -577,7 +576,6 @@ dns.ofdoom.net
 dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
-dns.oszx.co
 dns.ours.luxe
 dns.ourvau.lt
 dns.ovpn.bond
@@ -782,8 +780,10 @@ doh-2.seby.io
 doh-ca.naftalie.net
 doh-de.blahdns.com
 doh-ipv6.crypto.sx
+doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
+doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
 doh.360.cn
@@ -1261,7 +1261,6 @@ pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
 per.adfilter.net
-performance.gosami.xyz
 phl01.dnscry.pt
 phx01.dnscry.pt
 pi1.node15.com

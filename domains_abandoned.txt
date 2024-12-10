@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-09 12:40:14
+# updated at 2024-12-10 01:22:10
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -76,6 +76,7 @@ dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
+dns.burgas.pro
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -91,7 +92,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -99,6 +99,7 @@ dns.fgbk.net
 dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
+dns.furrydns.de
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -122,6 +123,7 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -162,8 +164,6 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
-doh-own-recursion.nicolas-dorriere.fr
-doh-random-upstream.nicolas-dorriere.fr
 doh.233py.com
 doh.978159.xyz
 doh.abmb.win
@@ -263,6 +263,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
+performance.gosami.xyz
 please.dontsteal.my.id
 quic.lol
 resolve2.r9x.cc
