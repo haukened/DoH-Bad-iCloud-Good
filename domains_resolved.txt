@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-10 12:40:36
+# updated at 2024-12-11 01:21:55
 003153.xyz
 052419.xyz
 0ms.dev
@@ -386,6 +386,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -534,7 +535,6 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.mnet-online.de
 dns.mo0on15.com
 dns.molinero.dev
