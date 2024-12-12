@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-11 12:38:56
+# updated at 2024-12-12 01:20:59
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -19,6 +19,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -70,6 +71,7 @@ dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
 dns.7sec.com.br
 dns.aaflalo.me
+dns.aaytorr.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
@@ -244,8 +246,6 @@ kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
-luna-is.so-gorgeo.us.kg
-mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
 nanopi.cybergroove.net
