@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-12 01:20:59
+# updated at 2024-12-12 12:40:40
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -46,9 +46,9 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
+blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
-catdns.org
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -94,12 +94,10 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id

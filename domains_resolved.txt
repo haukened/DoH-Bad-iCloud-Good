@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-12 01:20:59
+# updated at 2024-12-12 12:40:40
 003153.xyz
 052419.xyz
 0ms.dev
@@ -162,7 +162,6 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
-blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -178,6 +177,7 @@ ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
 catchen121299.top
+catdns.org
 cdn.0ms.dev
 cfdjb.org
 chaos-system.de
@@ -384,6 +384,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -402,6 +403,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
