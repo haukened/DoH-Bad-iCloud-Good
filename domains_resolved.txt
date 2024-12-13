@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-13 01:21:31
+# updated at 2024-12-13 12:39:47
 003153.xyz
 052419.xyz
 0ms.dev
@@ -386,6 +386,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -446,7 +447,6 @@ dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.hshoe.cn
-dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
@@ -641,7 +641,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -846,6 +845,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
