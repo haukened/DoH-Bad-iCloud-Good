@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-14 01:18:06
+# updated at 2024-12-14 12:37:34
 003153.xyz
 052419.xyz
 0ms.dev
@@ -312,7 +312,6 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
-dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
@@ -386,7 +385,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -546,7 +544,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1018,7 +1015,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1214,7 +1210,6 @@ ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
-ns3.cx
 ns3.link
 ns3.opennameserver.org
 ns3.wuyouss.com
