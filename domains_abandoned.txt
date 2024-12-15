@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-15 01:27:01
+# updated at 2024-12-15 12:37:14
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -52,6 +52,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 cossxiu.ga
+cube.neubsi.at
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -92,7 +93,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -119,7 +119,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -222,6 +221,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
