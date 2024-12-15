@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-14 12:37:34
+# updated at 2024-12-15 01:27:01
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -77,7 +77,6 @@ dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
-dns.burgas.pro
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -131,6 +130,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -222,7 +222,6 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
@@ -259,7 +258,6 @@ ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
-ns3.cx
 nue2.moderateinfra.net
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
