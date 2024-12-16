@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-16 01:24:09
+# updated at 2024-12-16 12:41:29
 003153.xyz
 052419.xyz
 0ms.dev
@@ -324,6 +324,7 @@ dns.cctld.kg
 dns.ceai.com.tw
 dns.cert.ee
 dns.chadeyron.fr
+dns.charraud.eu
 dns.chenu.ch
 dns.chilimac.net
 dns.christerwaren.fi
@@ -386,6 +387,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -545,6 +547,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -649,6 +652,7 @@ dns.slinkyman.net
 dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
+dns.spirio.fr
 dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net

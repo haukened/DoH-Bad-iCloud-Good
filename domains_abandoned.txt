@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-16 01:24:09
+# updated at 2024-12-16 12:41:29
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -78,7 +78,6 @@ dns.benpro.fr
 dns.blaze-sk.ru
 dns.bw.i81.ru
 dns.cfiec.net
-dns.charraud.eu
 dns.chmc.ml
 dns.chocolatezz.xyz
 dns.comeonjames.club
@@ -92,7 +91,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -119,7 +117,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -131,7 +128,6 @@ dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
-dns.spirio.fr
 dns.surfshark.com
 dns.truong.fi
 dns.tryk.app
