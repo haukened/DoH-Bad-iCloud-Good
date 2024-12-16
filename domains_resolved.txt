@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-15 12:37:14
+# updated at 2024-12-16 01:24:09
 003153.xyz
 052419.xyz
 0ms.dev
@@ -205,6 +205,7 @@ comss.ru
 console.carestyle.org
 cph01.dnscry.pt
 crypto.sx
+cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
@@ -290,6 +291,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -322,7 +324,6 @@ dns.cctld.kg
 dns.ceai.com.tw
 dns.cert.ee
 dns.chadeyron.fr
-dns.charraud.eu
 dns.chenu.ch
 dns.chilimac.net
 dns.christerwaren.fi
@@ -385,7 +386,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -545,7 +545,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -641,6 +640,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -649,7 +649,6 @@ dns.slinkyman.net
 dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
-dns.spirio.fr
 dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
@@ -1016,6 +1015,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
