@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-17 01:21:51
+# updated at 2024-12-17 12:39:59
 003153.xyz
 052419.xyz
 0ms.dev
@@ -640,7 +640,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -786,7 +785,6 @@ doh-primary-pool.goodbyegambling.com
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -1063,6 +1061,7 @@ iow-dns.bitdefender.net
 ipoac.nl
 isb01.dnscry.pt
 ist01.dnscry.pt
+iterator.lazada.com
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
@@ -1357,6 +1356,7 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
 secondary.dns.yandex.ru
