@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-19 01:18:25
+# updated at 2024-12-19 12:39:43
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -40,6 +40,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
+b-ii.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
@@ -119,6 +120,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -129,7 +131,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -247,6 +248,7 @@ lion.yazilimatolye.com
 lon-dns.bitdefender.net
 michelo.line.pm
 miniapp.global
+nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org

@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-19 01:18:25
+# updated at 2024-12-19 12:39:43
 003153.xyz
 052419.xyz
 0ms.dev
@@ -146,7 +146,6 @@ au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
-b-ii.com
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -545,7 +544,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -641,6 +639,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1172,7 +1171,6 @@ n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
-nana-is.so-gorgeo.us.kg
 nat64.tuxis.nl
 naw01.dnscry.pt
 nenam.eu
