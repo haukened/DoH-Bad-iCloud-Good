@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-20 01:16:07
+# updated at 2024-12-20 12:37:46
 003153.xyz
 052419.xyz
 0ms.dev
@@ -256,6 +256,7 @@ dns.3wv.de
 dns.4-the.win
 dns.52306.org
 dns.688447.xyz
+dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.888654.xyz
@@ -310,6 +311,7 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.bravoc.one
+dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
@@ -543,7 +545,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -618,7 +619,6 @@ dns.roedel.cloud
 dns.ronc.ru
 dns.rootlab.top
 dns.rotunneling.net
-dns.rubyfish.cn
 dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
@@ -1013,8 +1013,10 @@ glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
+greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1434,6 +1436,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
@@ -1503,7 +1506,6 @@ www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
 wyx.cloud
-xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de

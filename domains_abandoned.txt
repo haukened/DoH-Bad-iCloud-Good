@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-20 01:16:07
+# updated at 2024-12-20 12:37:46
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -68,7 +68,6 @@ dns-weblock.wevpn.com
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
-dns.7sec.com.br
 dns.aaflalo.me
 dns.aaytorr.com
 dns.anonymous.pw
@@ -78,7 +77,6 @@ dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
-dns.brembeck.cloud
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -121,6 +119,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -130,6 +129,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
+dns.rubyfish.cn
 dns.salonia.it
 dns.siry.de
 dns.surfshark.com
@@ -220,9 +220,7 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
-greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
@@ -286,7 +284,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
@@ -300,6 +297,7 @@ vps.robotboard.de
 wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
+xbcpb668.com
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
