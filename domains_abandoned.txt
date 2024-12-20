@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-19 12:39:43
+# updated at 2024-12-20 01:16:07
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -78,6 +78,7 @@ dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
+dns.brembeck.cloud
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -120,7 +121,6 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -222,6 +222,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
@@ -248,7 +249,6 @@ lion.yazilimatolye.com
 lon-dns.bitdefender.net
 michelo.line.pm
 miniapp.global
-nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -286,6 +286,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org

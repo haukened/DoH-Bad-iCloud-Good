@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-19 12:39:43
+# updated at 2024-12-20 01:16:07
 003153.xyz
 052419.xyz
 0ms.dev
@@ -310,7 +310,6 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.bravoc.one
-dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
@@ -544,6 +543,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1015,7 +1015,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1171,6 +1170,7 @@ n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
+nana-is.so-gorgeo.us.kg
 nat64.tuxis.nl
 naw01.dnscry.pt
 nenam.eu
@@ -1434,7 +1434,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
