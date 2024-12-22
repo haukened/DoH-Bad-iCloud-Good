@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-22 01:21:32
+# updated at 2024-12-22 12:35:48
 003153.xyz
 052419.xyz
 0ms.dev
@@ -67,6 +67,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -385,6 +386,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1195,7 +1197,6 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr

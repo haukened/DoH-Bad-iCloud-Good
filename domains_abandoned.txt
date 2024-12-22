@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-22 01:21:32
+# updated at 2024-12-22 12:35:48
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -19,7 +19,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -93,7 +92,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -255,6 +253,7 @@ neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
 ns.lov.host
+ns.trcnet.fi
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
