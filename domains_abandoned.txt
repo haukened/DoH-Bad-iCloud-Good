@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-21 12:36:48
+# updated at 2024-12-22 01:21:32
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -93,6 +93,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -112,6 +113,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
 dns.kugoapps.com
+dns.kumoumi.net
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.mandre.dev
@@ -130,7 +132,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -221,11 +222,9 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -241,11 +240,11 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
+lim01.dnscry.pt
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
 michelo.line.pm
@@ -267,13 +266,13 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
+sdns22.gkonuralp.com
 secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
