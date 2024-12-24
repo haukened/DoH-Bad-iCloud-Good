@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-24 01:16:36
+# updated at 2024-12-24 12:38:50
 003153.xyz
 052419.xyz
 0ms.dev
@@ -34,6 +34,7 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -383,6 +384,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1243,7 +1245,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1251,7 +1252,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1497,7 +1497,6 @@ www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
 wyx.cloud
-xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
