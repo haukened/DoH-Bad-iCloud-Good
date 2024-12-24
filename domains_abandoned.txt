@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-23 12:37:34
+# updated at 2024-12-24 01:16:36
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -7,6 +7,7 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
+adblock.krctech.dev
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -65,6 +66,7 @@ dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
+dns.0rz.ing
 dns.0x55.net
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
@@ -121,6 +123,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud

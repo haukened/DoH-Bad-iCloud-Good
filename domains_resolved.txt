@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-23 12:37:34
+# updated at 2024-12-24 01:16:36
 003153.xyz
 052419.xyz
 0ms.dev
@@ -34,7 +34,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -246,7 +245,6 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.0rz.ing
 dns.13evl.com
 dns.23-4.cn
 dns.240527.xyz
@@ -543,7 +541,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
