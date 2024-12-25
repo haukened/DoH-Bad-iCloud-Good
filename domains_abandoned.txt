@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-24 12:38:50
+# updated at 2024-12-25 01:14:34
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -19,7 +19,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.lista.my.id
@@ -94,6 +93,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -265,9 +265,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 quic.lol
 resolve2.r9x.cc
@@ -306,7 +304,6 @@ vps.robotboard.de
 wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
-xbcpb668.com
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
