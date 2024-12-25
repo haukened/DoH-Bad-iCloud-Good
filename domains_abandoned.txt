@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-25 01:14:34
+# updated at 2024-12-25 12:37:20
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -93,7 +93,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -299,6 +298,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
+vd.i81.ru
 vpn.technicule.info
 vps.robotboard.de
 wdns.233py.com

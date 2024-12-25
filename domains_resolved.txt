@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-25 01:14:34
+# updated at 2024-12-25 12:37:20
 003153.xyz
 052419.xyz
 0ms.dev
@@ -385,6 +385,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1473,7 +1474,6 @@ uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v.qdev.cc
 v2.xx3210766.live
-vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vm.mytm.cc
