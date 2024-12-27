@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-26 12:38:06
+# updated at 2024-12-27 01:15:06
 003153.xyz
 052419.xyz
 0ms.dev
@@ -143,6 +143,7 @@ ath01.dnscry.pt
 atl01.dnscry.pt
 atris.cyou
 au-syd-w-f-1.nashkan.net
+au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
@@ -289,7 +290,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -638,6 +638,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -842,6 +843,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1045,7 +1047,6 @@ i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
-id.terra.my.id
 ie01.dns4me.net
 ihctw.synology.me
 iij.jp

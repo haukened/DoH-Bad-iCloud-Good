@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-26 12:38:06
+# updated at 2024-12-27 01:15:06
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -37,7 +37,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
-au-syd.doh.sb
 au.rslvr.eu
 axaxa.fun
 b-ii.com
@@ -75,6 +74,7 @@ dns.aaytorr.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
+dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -132,7 +132,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -180,7 +179,6 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -231,6 +229,7 @@ hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
+id.terra.my.id
 inde.ragnvindr.org
 india.privacy-dns.pw
 iris.woozeno.eu
