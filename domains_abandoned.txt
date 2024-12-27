@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-27 01:15:06
+# updated at 2024-12-27 12:35:45
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -127,6 +127,7 @@ dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
+dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
