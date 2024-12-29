@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-29 01:21:48
+# updated at 2024-12-29 12:34:18
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -93,6 +93,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -178,6 +179,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
+doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
@@ -251,7 +253,6 @@ lion.yazilimatolye.com
 lon-dns.bitdefender.net
 michelo.line.pm
 miniapp.global
-mita-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
