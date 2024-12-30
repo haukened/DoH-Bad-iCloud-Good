@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-30 01:17:31
+# updated at 2024-12-30 12:37:28
 003153.xyz
 052419.xyz
 0ms.dev
@@ -81,7 +81,6 @@ adguard.lege.despagne.net
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.neon0404.space
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -404,7 +403,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -639,6 +637,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1012,7 +1011,6 @@ glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
-greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
 gustamadh.dynv6.net
@@ -1299,6 +1297,7 @@ ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
