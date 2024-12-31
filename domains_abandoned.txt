@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-30 12:37:28
+# updated at 2024-12-31 01:15:37
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -25,7 +25,6 @@ adguard.lista.my.id
 adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
-adguard.neon0404.space
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguard.taxiora.tn
@@ -133,6 +132,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -292,6 +292,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org

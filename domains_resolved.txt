@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-30 12:37:28
+# updated at 2024-12-31 01:15:37
 003153.xyz
 052419.xyz
 0ms.dev
@@ -81,6 +81,7 @@ adguard.lege.despagne.net
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
+adguard.neon0404.space
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -637,7 +638,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1422,7 +1422,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
