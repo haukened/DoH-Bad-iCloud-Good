@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-31 01:15:37
+# updated at 2024-12-31 12:38:16
 003153.xyz
 052419.xyz
 0ms.dev
@@ -838,7 +838,6 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -1422,6 +1421,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org

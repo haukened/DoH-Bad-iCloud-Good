@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2024-12-31 01:15:37
+# updated at 2024-12-31 12:38:16
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -179,6 +179,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
+doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
@@ -292,7 +293,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
