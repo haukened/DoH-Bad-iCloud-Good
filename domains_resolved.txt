@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2024-12-31 12:38:16
+# updated at 2025-01-01 01:22:28
 003153.xyz
 052419.xyz
 0ms.dev
@@ -247,7 +247,6 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.13evl.com
 dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
@@ -638,6 +637,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -838,6 +838,7 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
+doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -1092,7 +1093,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1241,7 +1241,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1424,9 +1423,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
