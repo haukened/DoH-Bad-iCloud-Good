@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-02 01:15:49
+# updated at 2025-01-02 12:37:23
 003153.xyz
 052419.xyz
 0ms.dev
@@ -134,7 +134,6 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
-arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
@@ -310,7 +309,6 @@ dns.bobstrecansky.com
 dns.bofh.in
 dns.braene.com
 dns.brahma.world
-dns.bravoc.one
 dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
@@ -404,6 +402,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -660,7 +659,6 @@ dns.sv-zauner.at
 dns.svoi.dev
 dns.swin.pro
 dns.switch.ch
-dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
@@ -1012,6 +1010,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw

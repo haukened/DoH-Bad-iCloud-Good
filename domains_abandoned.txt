@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-02 01:15:49
+# updated at 2025-01-02 12:37:23
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -36,6 +36,7 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.net.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
@@ -77,6 +78,7 @@ dns.arapurayil.com
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
+dns.bravoc.one
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -97,7 +99,6 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -136,6 +137,7 @@ dns.salonia.it
 dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
+dns.sy.st
 dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz
@@ -225,7 +227,6 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
