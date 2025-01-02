@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-01 12:35:57
+# updated at 2025-01-02 01:15:49
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -118,12 +118,12 @@ dns.lightmaster.pw
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
-dns.mihanentalpo.me
 dns.mipauns.com
 dns.moog.sh
 dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
+dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -133,6 +133,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -224,6 +225,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu

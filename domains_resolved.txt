@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-01 12:35:57
+# updated at 2025-01-02 01:15:49
 003153.xyz
 052419.xyz
 0ms.dev
@@ -529,6 +529,7 @@ dns.melvin2204.nl
 dns.mestdag.fr
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
+dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 dns.milkpie.one
@@ -571,7 +572,6 @@ dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
-dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ours.luxe
 dns.ourvau.lt
@@ -637,7 +637,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1013,7 +1012,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
