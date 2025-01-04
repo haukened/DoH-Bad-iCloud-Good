@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-04 01:13:46
+# updated at 2025-01-04 12:34:53
 003153.xyz
 052419.xyz
 0ms.dev
@@ -385,6 +385,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -501,7 +502,6 @@ dns.kxy.ink
 dns.l337.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
-dns.learningman.top
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
@@ -837,7 +837,6 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -1186,7 +1185,6 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.nerdytechgeeks.co.za
-ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
