@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-05 01:20:40
+# updated at 2025-01-05 12:33:29
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -231,7 +231,6 @@ gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -264,7 +263,6 @@ neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
 ns.lov.host
-ns.net.kg
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr

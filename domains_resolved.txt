@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-05 01:20:40
+# updated at 2025-01-05 12:33:29
 003153.xyz
 052419.xyz
 0ms.dev
@@ -1029,6 +1029,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1183,6 +1184,7 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.nerdytechgeeks.co.za
+ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
