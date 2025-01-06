@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-05 12:33:29
+# updated at 2025-01-06 01:17:23
 003153.xyz
 052419.xyz
 0ms.dev
@@ -380,7 +380,6 @@ dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.dooks.uk
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
@@ -898,7 +897,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh.zknt.org
 doh003.280blocker.net
 doh1.b-cdn.net
@@ -1298,7 +1296,6 @@ puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
 qqmcfw.tech
-qual.cuprum.ru
 query.hdns.io
 r1bnc.com
 rayneau.fr
