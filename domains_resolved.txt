@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-06 01:17:23
+# updated at 2025-01-06 12:38:53
 003153.xyz
 052419.xyz
 0ms.dev
@@ -1296,6 +1296,7 @@ puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
 qqmcfw.tech
+qual.cuprum.ru
 query.hdns.io
 r1bnc.com
 rayneau.fr
