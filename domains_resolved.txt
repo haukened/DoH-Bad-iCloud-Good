@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-08 01:17:06
+# updated at 2025-01-08 12:38:28
 003153.xyz
 052419.xyz
 0ms.dev
@@ -631,6 +631,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1412,7 +1413,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
