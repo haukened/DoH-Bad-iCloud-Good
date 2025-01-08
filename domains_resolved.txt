@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-07 12:38:41
+# updated at 2025-01-08 01:17:06
 003153.xyz
 052419.xyz
 0ms.dev
@@ -70,7 +70,6 @@ adguard.frutuozo.com.br
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
-adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
 adguard.kiboko.it
@@ -632,7 +631,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1084,7 +1082,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1233,7 +1230,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1418,7 +1414,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
