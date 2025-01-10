@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-09 12:37:25
+# updated at 2025-01-10 01:16:52
 003153.xyz
 052419.xyz
 0ms.dev
@@ -309,6 +309,7 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
+dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
