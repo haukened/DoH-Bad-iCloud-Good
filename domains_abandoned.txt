@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-10 01:16:52
+# updated at 2025-01-10 12:37:47
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -106,7 +106,6 @@ dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
-dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
 dns.infosec.xyz
@@ -125,7 +124,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -138,6 +136,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi

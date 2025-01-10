@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-10 01:16:52
+# updated at 2025-01-10 12:37:47
 003153.xyz
 052419.xyz
 0ms.dev
@@ -443,6 +443,7 @@ dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.hshoe.cn
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
@@ -539,6 +540,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -632,7 +634,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
