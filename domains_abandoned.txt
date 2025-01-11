@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-11 01:15:54
+# updated at 2025-01-11 12:35:21
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -100,6 +100,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -298,6 +299,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 united-arab-emirates.privacy-dns.pw
@@ -307,6 +309,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
+vm.mytm.cc
 vpn.technicule.info
 vps.robotboard.de
 vtcuong.site
