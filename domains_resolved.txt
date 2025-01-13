@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-13 01:17:58
+# updated at 2025-01-13 12:37:48
 003153.xyz
 052419.xyz
 0ms.dev
@@ -539,6 +539,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -778,7 +779,6 @@ doh-primary-pool.goodbyegambling.com
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -793,7 +793,6 @@ doh.azoris.ovh
 doh.beauty
 doh.boje8.me
 doh.bortzmeyer.fr
-doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
