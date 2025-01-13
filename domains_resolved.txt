@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-12 12:33:40
+# updated at 2025-01-13 01:17:58
 003153.xyz
 052419.xyz
 0ms.dev
