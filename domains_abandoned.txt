@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-13 12:37:48
+# updated at 2025-01-14 01:12:49
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -125,6 +125,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -172,7 +173,6 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
-doh.360.cn
 doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
