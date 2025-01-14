@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-14 01:12:49
+# updated at 2025-01-14 12:34:44
 003153.xyz
 052419.xyz
 0ms.dev
@@ -121,6 +121,7 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
+ahoj.email
 all.dns.mullvad.net
 alleesph.online
 ams01.dnscry.pt
@@ -793,6 +794,7 @@ doh.azoris.ovh
 doh.beauty
 doh.boje8.me
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
