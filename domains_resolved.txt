@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-14 12:34:44
+# updated at 2025-01-15 01:14:07
 003153.xyz
 052419.xyz
 0ms.dev
@@ -121,7 +121,6 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
-ahoj.email
 all.dns.mullvad.net
 alleesph.online
 ams01.dnscry.pt
