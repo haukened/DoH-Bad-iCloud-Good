@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-15 12:37:39
+# updated at 2025-01-16 01:14:42
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -55,7 +55,6 @@ chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -77,6 +76,7 @@ dns.aaytorr.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
+dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -96,10 +96,12 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -275,6 +277,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
+princez.uk
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -317,3 +320,4 @@ www.memorialus.eu.org
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
+zakaria.website

@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-15 12:37:39
+# updated at 2025-01-16 01:14:42
 003153.xyz
 052419.xyz
 0ms.dev
@@ -213,6 +213,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -287,7 +288,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -382,7 +382,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -401,7 +400,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1280,7 +1278,6 @@ polisitogel.show
 polisitogel.webcam
 pooblet.co.za
 pope.cnblw.me
-princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -1505,7 +1502,6 @@ yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
 yvr01.dnscry.pt
 yyz01.dnscry.pt
-zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
