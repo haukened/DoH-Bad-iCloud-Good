@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-17 01:13:22
+# updated at 2025-01-17 12:35:55
 003153.xyz
 052419.xyz
 0ms.dev
@@ -213,6 +213,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -399,7 +400,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -792,6 +792,7 @@ doh.azoris.ovh
 doh.beauty
 doh.boje8.me
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it

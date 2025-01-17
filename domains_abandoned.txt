@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-17 01:13:22
+# updated at 2025-01-17 12:35:55
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -55,7 +55,6 @@ chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -102,6 +101,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -178,7 +178,6 @@ doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
-doh.bt.com
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
