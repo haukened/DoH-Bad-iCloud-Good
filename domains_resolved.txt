@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-17 12:35:55
+# updated at 2025-01-18 01:12:50
 003153.xyz
 052419.xyz
 0ms.dev
@@ -382,6 +382,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1133,7 +1134,6 @@ mainframe.dewed.de
 maqgie.xyz
 masters-of-cloud.de
 max.rethinkdns.com
-mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 meganerd.nl
 megumin.is.my.waifu.cz
@@ -1381,7 +1381,6 @@ sky.rethinkdns.com
 skydragoness.com
 slc01.dnscry.pt
 sof01.dnscry.pt
-spacedns.org
 squidmall.vip
 sriedmueadguard.casa
 steering.nextdns.io
