@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-19 01:17:34
+# updated at 2025-01-19 12:33:26
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -96,6 +96,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -229,8 +230,8 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
-hfgx.shop
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com

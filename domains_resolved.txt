@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-19 01:17:34
+# updated at 2025-01-19 12:33:26
 003153.xyz
 052419.xyz
 0ms.dev
@@ -382,7 +382,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1008,7 +1007,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1017,6 +1015,7 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
+hfgx.shop
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
