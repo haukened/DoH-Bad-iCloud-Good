@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-19 12:33:26
+# updated at 2025-01-20 01:13:58
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -34,7 +34,6 @@ ads.hunga1k47.com
 ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
-ahoj.email
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -96,12 +95,10 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -126,7 +123,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
