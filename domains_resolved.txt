@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-20 12:37:36
+# updated at 2025-01-21 01:13:48
 003153.xyz
 052419.xyz
 0ms.dev
@@ -111,7 +111,6 @@ africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
 ag.ff0x.ca
-ag.marschi.de
 agh-yz.russel053.com
 agh.dshubham.xyz
 agh.fltn.us
@@ -539,7 +538,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -634,6 +632,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -794,7 +793,6 @@ doh.azoris.ovh
 doh.beauty
 doh.boje8.me
 doh.bortzmeyer.fr
-doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -1027,7 +1025,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1070,6 +1067,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1086,6 +1084,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1132,6 +1131,7 @@ mainframe.dewed.de
 maqgie.xyz
 masters-of-cloud.de
 max.rethinkdns.com
+mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 meganerd.nl
 megumin.is.my.waifu.cz
@@ -1149,7 +1149,6 @@ mru01.dnscry.pt
 msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
-multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
 myrra-is.so-gorgeo.us.kg
