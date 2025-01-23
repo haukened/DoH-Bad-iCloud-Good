@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-22 12:39:26
+# updated at 2025-01-23 01:15:32
 1.xhr0no.my
 89433332.xyz
 a-bld.sys-adm.in
@@ -40,6 +40,7 @@ anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
+awan.ftp.sh
 axaxa.fun
 b-ii.com
 bahopir188.dnshome.de
@@ -47,7 +48,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -97,7 +97,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -116,7 +115,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
-dns.koala.us.to
 dns.kugoapps.com
 dns.kumoumi.net
 dns.labnekotest.site
@@ -128,6 +126,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -137,7 +136,6 @@ dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
-dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.simplylinux.ch
@@ -258,6 +256,7 @@ jp.rslvr.eu
 jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -284,6 +283,7 @@ odoh-target.alekberg.net
 osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -306,9 +306,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 united-arab-emirates.privacy-dns.pw
