@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-23 12:38:09
+# updated at 2025-01-24 01:15:28
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -65,6 +65,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -537,6 +538,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -832,7 +834,6 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -974,7 +975,6 @@ fjr01.dnscry.pt
 fly.io
 fnt01.dnscry.pt
 fr-dns1.bancuh.com
-fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 fr1.dnswarden.com
 fra-dns.bitdefender.net

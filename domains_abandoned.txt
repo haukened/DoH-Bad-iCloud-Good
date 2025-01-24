@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-23 12:38:09
+# updated at 2025-01-24 01:15:28
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -21,7 +21,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -127,7 +126,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -185,6 +183,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
+doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
@@ -229,6 +228,7 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
+fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
