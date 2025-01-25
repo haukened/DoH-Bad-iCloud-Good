@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-25 01:10:14
+# updated at 2025-01-25 12:33:07
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -398,7 +398,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -414,7 +413,6 @@ dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
 dns.ginovs.nl
-dns.girino.org
 dns.glf.wtf
 dns.glorydns.com
 dns.gnb09.id
@@ -537,6 +535,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -587,7 +586,6 @@ dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
-dns.pumpkinvrar.com
 dns.pumplex.com
 dns.qrtz.club
 dns.quad9.net
@@ -1239,7 +1237,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
