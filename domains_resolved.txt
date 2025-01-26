@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-26 01:16:00
+# updated at 2025-01-26 12:31:38
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -537,7 +537,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -632,6 +631,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1240,6 +1240,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1383,6 +1384,7 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
