@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-25 12:33:07
+# updated at 2025-01-26 01:16:00
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -380,6 +380,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -413,6 +414,7 @@ dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
 dns.ginovs.nl
+dns.girino.org
 dns.glf.wtf
 dns.glorydns.com
 dns.gnb09.id
@@ -565,6 +567,7 @@ dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.oszx.co
 dns.ours.luxe
 dns.ourvau.lt
 dns.ovpn.bond
@@ -586,7 +589,7 @@ dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
-dns.pumplex.com
+dns.pumpkinvrar.com
 dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
@@ -1380,7 +1383,6 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
-sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch

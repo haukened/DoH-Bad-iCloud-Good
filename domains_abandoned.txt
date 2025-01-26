@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-25 12:33:07
+# updated at 2025-01-26 01:16:00
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -98,7 +98,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -106,7 +105,6 @@ dns.fgbk.net
 dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
-dns.girino.org
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -134,11 +132,10 @@ dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
-dns.pumpkinvrar.com
+dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
 dns.simplylinux.ch
@@ -298,6 +295,7 @@ sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
 snoke.meganerd.nl
+sukidayo.eu.org
 surt.ml
 sweden.privacy-dns.pw
 switzerland.privacy-dns.pw
