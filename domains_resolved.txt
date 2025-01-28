@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-28 01:12:40
+# updated at 2025-01-28 12:36:47
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -379,7 +379,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -398,7 +397,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1092,7 +1090,6 @@ lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
-lesuo.top
 lewsha.lol
 lim02.dnscry.pt
 lindung.pp.ua
@@ -1100,7 +1097,6 @@ lion.dns.qwer.pw
 lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
-local.sufly.top
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
@@ -1192,7 +1188,6 @@ ns1.sc-lezhi.com
 ns2.4netguides.org
 ns2.flodns.net
 ns2.opennameserver.org
-ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
