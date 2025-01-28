@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-27 12:37:57
+# updated at 2025-01-28 01:12:40
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -75,6 +75,7 @@ dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
+dns.aerro.in
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
@@ -126,6 +127,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -270,7 +272,6 @@ nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
-ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 nue2.moderateinfra.net

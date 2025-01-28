@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-27 12:37:57
+# updated at 2025-01-28 01:12:40
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -263,7 +263,6 @@ dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
-dns.aerro.in
 dns.albony.xyz
 dns.alidns.com
 dns.alloxr.info
@@ -538,7 +537,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1189,6 +1187,7 @@ ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
+ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.4netguides.org
 ns2.flodns.net
