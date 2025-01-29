@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-28 12:36:47
+# updated at 2025-01-29 01:14:29
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -99,7 +99,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -260,7 +259,6 @@ kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
-lesuo.top
 lim01.dnscry.pt
 lion.yazilimatolye.com
 local.sufly.top
@@ -278,7 +276,6 @@ ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
-ns2.recursive.dnsbycomodo.com
 nue2.moderateinfra.net
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
