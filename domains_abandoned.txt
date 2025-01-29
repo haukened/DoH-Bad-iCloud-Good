@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-01-29 01:14:29
+# updated at 2025-01-29 12:37:30
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -39,6 +39,7 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.net.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -84,6 +85,7 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
+dns.burgas.pro
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -140,6 +142,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -281,8 +284,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -306,6 +311,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 united-arab-emirates.privacy-dns.pw
