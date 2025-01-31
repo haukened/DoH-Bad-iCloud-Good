@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-31 01:13:19
+# updated at 2025-01-31 12:35:01
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -243,6 +243,7 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.13evl.com
 dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
@@ -396,7 +397,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
