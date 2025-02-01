@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-01-31 12:35:01
+# updated at 2025-02-01 01:17:16
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -629,6 +629,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
