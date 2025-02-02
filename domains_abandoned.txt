@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-02 01:16:41
+# updated at 2025-02-02 12:33:33
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -128,7 +128,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -140,6 +139,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -211,6 +211,7 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
+dot.360.cn
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
