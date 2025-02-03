@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-03 01:14:58
+# updated at 2025-02-03 12:39:31
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -1141,7 +1141,6 @@ mil01.dnscry.pt
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
-morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
 msr177.com
