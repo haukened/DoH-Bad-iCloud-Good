@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-02 12:33:33
+# updated at 2025-02-03 01:14:58
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -99,7 +99,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -128,6 +127,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -211,7 +211,6 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
-dot.360.cn
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
@@ -251,7 +250,6 @@ irre.li
 jambi.undo.it
 jcdns.fun
 jit.ddns.net
-johneldenring.lol
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
