@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-03 12:39:31
+# updated at 2025-02-04 01:14:14
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -99,10 +99,12 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -264,7 +266,6 @@ local.sufly.top
 lon-dns.bitdefender.net
 michelo.line.pm
 miniapp.global
-morbitzer.de
 multi.dns.marbledfennec.net
 nanopi.cybergroove.net
 ndns.233py.com

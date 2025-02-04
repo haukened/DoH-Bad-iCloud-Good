@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-03 12:39:31
+# updated at 2025-02-04 01:14:14
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -379,7 +379,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -398,7 +397,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1141,6 +1139,7 @@ mil01.dnscry.pt
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
+morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
 msr177.com
