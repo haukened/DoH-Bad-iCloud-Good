@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-07 01:14:29
+# updated at 2025-02-07 12:35:50
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -535,6 +535,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -629,7 +630,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -834,6 +834,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1477,6 +1478,7 @@ www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
 wyx.cloud
+xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
