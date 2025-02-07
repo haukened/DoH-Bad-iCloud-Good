@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-06 12:39:56
+# updated at 2025-02-07 01:14:29
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -21,7 +21,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -86,6 +85,7 @@ dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
 dns.bw.i81.ru
+dns.carter.me
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -100,11 +100,11 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -256,10 +256,8 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -285,10 +283,8 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -312,7 +308,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 united-arab-emirates.privacy-dns.pw
@@ -321,6 +316,7 @@ us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
+v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
 vpn.technicule.info
@@ -330,6 +326,7 @@ wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
+xbcpb668.com
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
