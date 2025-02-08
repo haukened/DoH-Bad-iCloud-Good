@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-08 01:12:58
+# updated at 2025-02-08 12:33:55
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -198,7 +198,6 @@ common.dot.dns.yandex.net
 commons.host
 comss.one
 comss.ru
-console.carestyle.org
 cph01.dnscry.pt
 crypto.sx
 cube.neubsi.at
@@ -305,7 +304,6 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
-dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
@@ -378,7 +376,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -535,7 +532,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -630,6 +626,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1128,6 +1125,7 @@ mainframe.dewed.de
 maqgie.xyz
 masters-of-cloud.de
 max.rethinkdns.com
+mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 meganerd.nl
 megumin.is.my.waifu.cz
@@ -1379,6 +1377,7 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
