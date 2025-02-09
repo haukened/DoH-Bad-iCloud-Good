@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-09 01:19:32
+# updated at 2025-02-09 12:33:28
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -533,7 +533,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -628,6 +627,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1300,6 +1300,7 @@ resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
+resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
