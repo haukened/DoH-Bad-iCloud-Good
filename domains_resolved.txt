@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-08 12:33:55
+# updated at 2025-02-09 01:19:32
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -304,6 +304,7 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
+dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 dns.cahlen.com
@@ -532,6 +533,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -626,7 +628,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
