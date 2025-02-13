@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-12 12:38:06
+# updated at 2025-02-13 01:15:53
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -21,6 +21,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -144,7 +145,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -212,6 +212,7 @@ doh.velyn.my.id
 doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
+dohtrial.att.net
 dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
@@ -312,7 +313,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tungdnsne.duckdns.org
 uf-dns.lista.my.id
@@ -322,6 +322,7 @@ uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
+us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
