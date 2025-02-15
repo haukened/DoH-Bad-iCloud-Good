@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-15 01:15:49
+# updated at 2025-02-15 12:34:40
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -100,6 +100,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -142,7 +143,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -318,6 +318,7 @@ us-east.adhole.org
 us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
+virga.pp.ua
 vm.mytm.cc
 vpn.technicule.info
 vps.robotboard.de
