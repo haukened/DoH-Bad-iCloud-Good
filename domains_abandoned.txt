@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-16 01:20:14
+# updated at 2025-02-16 12:37:43
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -100,6 +100,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -272,7 +273,6 @@ neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
 ns.lov.host
-ns.trcnet.fi
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns1.dotls.org
