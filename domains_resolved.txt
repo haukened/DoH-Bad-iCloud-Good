@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-15 12:34:40
+# updated at 2025-02-16 01:20:14
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -378,6 +378,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1000,6 +1001,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1176,7 +1178,6 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1456,6 +1457,7 @@ v.dnscrypt.uk
 v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
+virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
 vpsus3.pzhg.me
