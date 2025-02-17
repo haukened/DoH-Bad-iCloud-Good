@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-16 12:37:43
+# updated at 2025-02-17 01:19:12
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -130,12 +130,12 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
+dns.ovpn.bond
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privado.ovh
@@ -237,6 +237,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu

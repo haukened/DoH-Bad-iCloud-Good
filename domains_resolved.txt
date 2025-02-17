@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-16 12:37:43
+# updated at 2025-02-17 01:19:12
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -545,6 +545,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -578,7 +579,6 @@ dns.opendns.com
 dns.oszx.co
 dns.ours.luxe
 dns.ourvau.lt
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
@@ -1021,7 +1021,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
