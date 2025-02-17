@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-17 01:19:12
+# updated at 2025-02-17 12:38:57
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -22,6 +22,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -93,6 +94,7 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.cybershell.xyz
+dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnssilo.top
 dns.doh.best
@@ -100,12 +102,10 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -135,7 +135,6 @@ dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
-dns.ovpn.bond
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privado.ovh
@@ -259,12 +258,14 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
 lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
+mc-sft.cn
 michelo.line.pm
 miniapp.global
 multi.dns.marbledfennec.net
@@ -284,6 +285,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 quic.lol
@@ -308,6 +310,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 united-arab-emirates.privacy-dns.pw
