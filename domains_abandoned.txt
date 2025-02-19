@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-18 12:37:39
+# updated at 2025-02-19 01:15:34
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -100,6 +100,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -128,6 +129,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -140,7 +142,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -284,6 +285,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
