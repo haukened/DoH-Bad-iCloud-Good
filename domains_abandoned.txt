@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-25 01:18:37
+# updated at 2025-02-25 12:39:33
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -22,6 +22,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -100,11 +101,11 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -131,8 +132,8 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
-dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
@@ -269,24 +270,15 @@ lim01.dnscry.pt
 lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
-luna-is.so-gorgeo.us.kg
 mc-sft.cn
-mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
-mita-is.so-gorgeo.us.kg
 multi.dns.marbledfennec.net
-myrra-is.so-gorgeo.us.kg
-nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
-nightlymoon.us.kg
-nindy-is.so-gorgeo.us.kg
 nl.rslvr.eu
-nora-is.so-gorgeo.us.kg
-nova-is.so-gorgeo.us.kg
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
@@ -301,6 +293,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -313,13 +306,11 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
-sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
 sweden.privacy-dns.pw
 switzerland.privacy-dns.pw
 t2c.240130034.xyz
-tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
 tk31z.com
@@ -348,4 +339,3 @@ www.memorialus.eu.org
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
-yussy-is.so-gorgeo.us.kg
