@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-26 01:18:12
+# updated at 2025-02-26 12:40:40
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -22,7 +22,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -242,6 +241,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
@@ -290,6 +290,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 quic.lol
@@ -314,6 +315,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
