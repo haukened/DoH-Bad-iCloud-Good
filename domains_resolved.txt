@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-02-28 12:38:22
+# updated at 2025-03-01 01:22:46
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -389,6 +389,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -407,7 +408,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -425,6 +425,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -848,7 +849,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1059,7 +1059,6 @@ ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
 iow-dns.bitdefender.net
-ipoac.nl
 isb01.dnscry.pt
 ist01.dnscry.pt
 iterator.lazada.com
@@ -1328,6 +1327,7 @@ resolv2.trash.net
 resolv3.trash.net
 resolve2.r9x.cc
 resolver-eu.haringstad.com
+resolver.dnsprivacy.org.uk
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
@@ -1504,7 +1504,6 @@ www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
 wyx.cloud
-xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de

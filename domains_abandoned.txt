@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-02-28 12:38:22
+# updated at 2025-03-01 01:22:46
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -100,14 +100,13 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -193,6 +192,7 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -333,6 +333,7 @@ wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
+xbcpb668.com
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
