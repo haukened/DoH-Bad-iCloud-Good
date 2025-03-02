@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-02 01:22:13
+# updated at 2025-03-02 12:34:21
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -25,6 +25,7 @@ adguard.dtness.com
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
+adguard.konikoni428.com
 adguard.lista.my.id
 adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
@@ -100,11 +101,11 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -144,11 +145,11 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
 dns.tryk.app
-dns.us.futuredns.eu.org
 dns.vip-kingstore.xyz
 dns.wakgood.net
 dns.wevpn.com
@@ -181,6 +182,7 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
+doh.360.cn
 doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
@@ -271,6 +273,7 @@ lon-dns.bitdefender.net
 mc-sft.cn
 michelo.line.pm
 miniapp.global
+mnrv.trade
 multi.dns.marbledfennec.net
 nanopi.cybergroove.net
 ndns.233py.com
