@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-02 12:34:21
+# updated at 2025-03-03 01:21:17
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -101,11 +101,11 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -145,7 +145,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -182,7 +181,6 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
-doh.360.cn
 doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
@@ -262,6 +260,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -293,6 +292,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
