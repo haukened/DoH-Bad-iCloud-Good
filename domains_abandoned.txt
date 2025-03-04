@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-03 12:39:53
+# updated at 2025-03-04 01:19:04
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -59,8 +59,8 @@ chr.kepegawaiandju.id
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
+de.dns.privex.io
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -106,6 +106,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -132,7 +133,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -261,9 +261,9 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -273,7 +273,6 @@ lon-dns.bitdefender.net
 mc-sft.cn
 michelo.line.pm
 miniapp.global
-mnrv.trade
 multi.dns.marbledfennec.net
 nanopi.cybergroove.net
 ndns.233py.com
@@ -317,8 +316,8 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
