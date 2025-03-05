@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-05 01:19:41
+# updated at 2025-03-05 12:38:36
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,7 +9,6 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
-adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adg.yybyy.wiki
@@ -24,7 +23,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -53,6 +51,7 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
+blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -104,7 +103,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -153,7 +151,6 @@ dns.salonia.it
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
-dns.tryk.app
 dns.vip-kingstore.xyz
 dns.wakgood.net
 dns.wevpn.com
@@ -186,7 +183,6 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
-doh.360.cn
 doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
@@ -199,6 +195,7 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -244,7 +241,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-gclouddns.com
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
@@ -267,7 +263,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -311,6 +306,7 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
+sin01.dnscry.pt
 snoke.meganerd.nl
 surt.ml
 sweden.privacy-dns.pw
