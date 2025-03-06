@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-05 12:38:36
+# updated at 2025-03-06 01:18:52
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -51,7 +51,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -185,6 +184,7 @@ doh-jp.blahdns.com
 doh.233py.com
 doh.978159.xyz
 doh.abmb.win
+doh.apad.pro
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
