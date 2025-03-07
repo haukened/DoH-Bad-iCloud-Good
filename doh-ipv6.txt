@@ -12,7 +12,7 @@
 2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0    # dns.fullaccesstointernet.jp.eu.org
 2001:19f0:7400:13c7:5400:5ff:fe40:d1ad   # resolver.dnsprivacy.org.uk
 2001:19f0:9002:de4:5400:4ff:fe08:7de3    # pluton.plan9-dns.com
-2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2001:19f0:ac01:170:5400:2ff:fec8:72c8    # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:b001:21e:5400:4ff:fecf:6ed9    # dns.kusoneko.moe
 2001:19f0:b001:322:5400:2ff:fe2b:4238    # tor.vasi.li
 2001:19f0:b001:8fa:5400:3ff:fe8b:d05c    # ca-yyc.doh.sb
@@ -39,7 +39,7 @@
 2001:41d0:a:3cbc::1                      # jackyes.ovh
 2001:41d0:a:5e02::1                      # adguard.ender.fr
 2001:41d0:e:84c::1                       # dns.mh4ckt3mh4ckt1c4s.xyz
-2001:448a:400c:4800:215:18ff:fe01:8131   # dns.velyn.my.id
+2001:448a:4001:a99f:215:18ff:fe01:8131   # dns.velyn.my.id
 2001:4610:a:4b::2e37                     # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                      # dns.cmrg.net
 2001:470:1f15:b80::53                    # opennic.i2pd.xyz
@@ -65,7 +65,7 @@
 2001:4ca0:200:3:200:5efe:8d54:451d       # muli.stusta.mhn.de
 2001:550:5a00:5eb::db5:f001              # rdu01.dnscry.pt
 2001:558:fe21:6b:96:113:151:145          # dot.xfinity.com
-2001:558:feed:443::197                   # doh.xfinity.com doh2.gslb2.xfinity.com
+2001:558:feed:443::198                   # doh.xfinity.com doh2.gslb2.xfinity.com
 2001:578:3f::30                          # doh.cox.net dot.cox.net
 2001:610:1:40ba:145:100:185:15           # dnsovertls.sinodun.com
 2001:610:1:40ba:145:100:185:16           # dnsovertls1.sinodun.com
@@ -112,7 +112,7 @@
 2001:8d8:820:3a00::b:c47                 # dns2.dns-ga.de doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:7470:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:8ce4:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu
 2001:a60::53:1                           # dns.mnet-online.de
 2001:a60::53:2                           # dns.mnet-online.de
@@ -132,8 +132,8 @@
 2001:df4:1840:9f::a                      # jhb01.dnscry.pt
 2001:df7:5300:15::44                     # dns.syaifullah.com
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
+2003:180:2:8100:0:4:0:53                 # dns.telekom.de
 2003:180:2::4:0:53                       # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:37f:ef4f::1                       # dns.faked.org
@@ -207,7 +207,7 @@
 2600:1f28:14:802:1255:5201:d456:7c61     # dns.api.globus.org
 2600:1f28:60:800:27a9:b0c1:92f3:1e50     # dns.api.preview.globus.org
 2600:1f28:60:800:4539:cfa9:fa4a:7481     # dns.api.integration.globuscs.info
-2600:1f28:60:800:4f22:2de0:29a7:f30      # dns.api.staging.globuscs.info
+2600:1f28:60:800:563f:69c5:2842:7156     # dns.api.staging.globuscs.info
 2600:1f28:60:800:d9de:cbec:cdfb:46d7     # dns.api.test.globuscs.info
 2600:1f28:60:800:f07f:5e48:7036:cf94     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:5a5a:c471:fae1:2660     # dns.api.sandbox.globuscs.info
@@ -237,14 +237,14 @@
 2600:4c00:80:8::a                        # atl01.dnscry.pt
 2600:6c7f:f000:202::7                    # doh-01.spectrum.com
 2600:6c7f:f000:202::8                    # doh-02.spectrum.com
-2600:9000:234b:3c00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:1c00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:4200:f:5c7a:55c0:93a1     # eth.link
 2600:9000:234b:5400:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:5e00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:9600:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:9e00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:a200:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:a400:f:5c7a:55c0:93a1     # eth.link
-2600:9000:234b:ce00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:6400:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:800:f:5c7a:55c0:93a1      # eth.link
+2600:9000:234b:9200:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:c200:f:5c7a:55c0:93a1     # eth.link
+2600:9000:234b:ea00:f:5c7a:55c0:93a1     # eth.link
 2602:f7f8:2:c::a                         # nyc01.dnscry.pt
 2602:fa67:101:20::a                      # hkg02.dnscry.pt
 2602:fafd:902:20::a                      # lax01.dnscry.pt
@@ -285,6 +285,7 @@
 2603:c022:800e:b67e:1011::               # dns.haka.se
 2603:c023:1:8763:80d6:891:ed34:7b18      # dns.chromeina.top
 2603:c023:7:8700::8888                   # oraclejp2.chungyu.com
+2603:c024:4507:6821:456c:317b:2f25:11bc  # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd   # dns.0ooo.icu
 2603:c024:9:35af:19c7:3532:ac18:f4b9     # dns.moonssif.com
 2603:c024:c012:57ac:ee9d:55c3:e00e:a82d  # hitian.me
@@ -457,6 +458,7 @@
 2606:4700:3033::ac43:c65c                # dns.xuming.studio
 2606:4700:3033::ac43:c6b9                # dns.unerror.network
 2606:4700:3033::ac43:cb9c                # dns.jstockley.com
+2606:4700:3033::ac43:d245                # dns.f97.xyz
 2606:4700:3033::ac43:dd1a                # adblockersite.com
 2606:4700:3033::ac43:df15                # 003153.xyz
 2606:4700:3034::6815:10ad                # dns.rayanbab.com
@@ -527,6 +529,7 @@
 2606:4700:3036::6815:210e                # commons.host
 2606:4700:3036::6815:27e8                # bestwon203.com
 2606:4700:3036::6815:36aa                # dns.xlion.tw
+2606:4700:3036::6815:3d77                # dns.f97.xyz
 2606:4700:3036::6815:4afc                # polisitogel.diy
 2606:4700:3036::6815:4bcf                # dns.vojtat.cz
 2606:4700:3036::6815:5042                # dns.688447.xyz
@@ -940,7 +943,7 @@
 2a0c:59c0:19::3                          # nl-ams.doh.sb
 2a0c:82c0::1                             # doh.suche.org
 2a0c:8881:5:54::145                      # nsc.torgues.net
-2a0c:8902::53                            # dns.dnshome.de
+2a0c:8901::53                            # dns.dnshome.de
 2a0c:8fc0:1749:66:18::16                 # muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34                 # tyo01.dnscry.pt
 2a0c:8fc1:8004:553::145a:bbf9            # syd01.dnscry.pt
@@ -964,7 +967,7 @@
 2a0d:f302:110:6517::bb4:214              # vie01.dnscry.pt
 2a0e:1d80:31:8a56:0:b0e:5e:0             # cph01.dnscry.pt
 2a0e:1d80:5:82e9:5678:910::              # man01.dnscry.pt
-2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2a0e:6901:410:25:5054:ff:fe1c:7c81       # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2a0e:97c0:38f::2                         # dns.home.daniil.it
 2a0e:bc00::185:219:130:2                 # lis01.dnscry.pt
 2a0f:5707:aa81:5e3c::1                   # dus01.dnscry.pt
