@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-08 01:05:21
+# updated at 2025-03-08 12:31:06
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -29,7 +29,6 @@ adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.lista.my.id
 adguard.londonwebnerd.cloud
-adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
@@ -61,6 +60,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+de.dns.privex.io
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
