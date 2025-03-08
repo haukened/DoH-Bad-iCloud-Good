@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-07 12:38:55
+# updated at 2025-03-08 01:05:21
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -387,7 +387,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -406,6 +405,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
