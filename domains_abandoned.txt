@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-08 12:31:06
+# updated at 2025-03-09 01:11:15
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -29,6 +29,7 @@ adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.lista.my.id
 adguard.londonwebnerd.cloud
+adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
@@ -56,11 +57,12 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
-de.dns.privex.io
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
@@ -107,6 +109,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -146,6 +149,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -238,6 +242,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+gclouddns.com
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
