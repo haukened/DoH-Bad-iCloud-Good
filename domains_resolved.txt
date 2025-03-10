@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-09 12:30:48
+# updated at 2025-03-10 01:08:28
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -387,7 +387,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -637,7 +636,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
