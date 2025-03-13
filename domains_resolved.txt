@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-13 01:20:29
+# updated at 2025-03-13 12:42:08
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -158,7 +158,6 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
-blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -578,7 +577,6 @@ dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
 dns.pernika.net
-dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -911,7 +909,6 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
-dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
@@ -1090,6 +1087,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1136,6 +1134,7 @@ man01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
 max.rethinkdns.com
+mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
@@ -1178,6 +1177,7 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1227,6 +1227,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1415,6 +1416,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
