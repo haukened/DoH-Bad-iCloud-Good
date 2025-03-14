@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-13 12:42:08
+# updated at 2025-03-14 01:20:30
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,6 +32,7 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -158,6 +159,7 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
+blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -315,7 +317,6 @@ dns.cabbage.zone
 dns.cahlen.com
 dns.carson-family.com
 dns.caspervk.net
-dns.cctld.kg
 dns.ceai.com.tw
 dns.cert.ee
 dns.chadeyron.fr
@@ -384,6 +385,7 @@ dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -457,7 +459,6 @@ dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.indust.me
-dns.indybanipal.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
@@ -537,6 +538,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -690,7 +692,6 @@ dns.vinokurov.tk
 dns.vishalk.com
 dns.vmath.my.id
 dns.vod11.xyz
-dns.vojtat.cz
 dns.w3ctag.org
 dns.wahr.top
 dns.wang.art
@@ -909,6 +910,7 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
+dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
@@ -1418,6 +1420,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt

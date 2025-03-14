@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-13 12:42:08
+# updated at 2025-03-14 01:20:30
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,7 +9,6 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
-adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adg.yybyy.wiki
@@ -52,7 +51,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -90,6 +88,7 @@ dns.blaze-sk.ru
 dns.bravoc.one
 dns.bw.i81.ru
 dns.carter.me
+dns.cctld.kg
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -105,7 +104,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -120,6 +118,7 @@ dns.haoxuan.xyz
 dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
+dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
@@ -138,7 +137,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -159,6 +157,7 @@ dns.theres.one
 dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz
+dns.vojtat.cz
 dns.wakgood.net
 dns.wevpn.com
 dns.wibenson.cloud
@@ -227,7 +226,6 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
-dot.360.cn
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
@@ -336,7 +334,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
