@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-15 01:17:07
+# updated at 2025-03-15 12:35:59
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,7 +9,6 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
-adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adg.yybyy.wiki
@@ -146,6 +145,7 @@ dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
+dns.ours.luxe
 dns.pesaventofilippo.com
 dns.pnh.my.id
 dns.post-factum.tk
@@ -193,6 +193,7 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
+doh.360.cn
 doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
@@ -205,9 +206,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
-doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org

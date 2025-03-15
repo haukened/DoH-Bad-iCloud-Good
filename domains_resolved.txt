@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-15 01:17:07
+# updated at 2025-03-15 12:35:59
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,6 +32,7 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -566,7 +567,6 @@ dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
 dns.oszx.co
-dns.ours.luxe
 dns.ourvau.lt
 dns.ovpn.bond
 dns.paesa.es
@@ -775,7 +775,6 @@ doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.774445.xyz
 doh.aaaab3n.moe
@@ -831,9 +830,11 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
+doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
