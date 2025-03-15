@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-14 12:37:29
+# updated at 2025-03-15 01:17:07
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -831,11 +831,9 @@ doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
