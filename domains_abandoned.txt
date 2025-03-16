@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-15 12:35:59
+# updated at 2025-03-16 01:24:05
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -104,7 +104,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -138,14 +137,12 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
-dns.ours.luxe
 dns.pesaventofilippo.com
 dns.pnh.my.id
 dns.post-factum.tk
@@ -154,7 +151,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.theres.one
@@ -193,12 +189,12 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
-doh.360.cn
 doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
+doh.cnetwork.cloud
 doh.doh.my.id
 doh.es.ahadns.net
 doh.excdn.eu.org
