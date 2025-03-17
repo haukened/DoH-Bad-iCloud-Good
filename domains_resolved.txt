@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-16 12:37:44
+# updated at 2025-03-17 01:23:05
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -536,6 +536,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -906,6 +907,7 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
+dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
@@ -1066,7 +1068,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1410,6 +1411,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
