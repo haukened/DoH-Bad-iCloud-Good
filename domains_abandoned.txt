@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-17 01:23:05
+# updated at 2025-03-17 12:41:00
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,6 +9,7 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
+adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adg.yybyy.wiki
@@ -43,6 +44,7 @@ ag.hostme.co.il
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.net.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -59,6 +61,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -75,6 +78,7 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
+dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
@@ -139,6 +143,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -256,6 +261,7 @@ gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -315,7 +321,6 @@ osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -341,7 +346,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

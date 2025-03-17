@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-17 01:23:05
+# updated at 2025-03-17 12:41:00
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -128,7 +127,6 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
-arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 asia.tri-dns.net
@@ -180,7 +178,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -241,7 +238,6 @@ dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
-dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -536,7 +532,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1025,7 +1020,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1280,6 +1274,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1413,6 +1408,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
