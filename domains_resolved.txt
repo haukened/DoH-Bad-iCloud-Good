@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-18 12:40:52
+# updated at 2025-03-19 01:20:20
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -383,6 +382,7 @@ dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -1018,6 +1018,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1168,7 +1169,6 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1406,6 +1406,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
@@ -1470,6 +1471,7 @@ www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
 wyx.cloud
+xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
