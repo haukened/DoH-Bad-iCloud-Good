@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-19 12:39:23
+# updated at 2025-03-20 01:18:53
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -181,6 +181,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
+cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -234,6 +235,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -461,6 +463,7 @@ dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
+dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.joaofidelix.com.br
@@ -532,6 +535,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -783,7 +787,6 @@ doh.asia.dnswarden.com
 doh.azoris.ovh
 doh.battle.christmas
 doh.beauty
-doh.boje8.me
 doh.bortzmeyer.fr
 doh.bt.com
 doh.buzz
@@ -1059,7 +1062,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1281,6 +1283,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt

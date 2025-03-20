@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-19 12:39:23
+# updated at 2025-03-20 01:18:53
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -58,7 +58,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -67,7 +66,6 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
@@ -129,7 +127,6 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
-dns.jichi.io
 dns.jucker.engineering
 dns.kugoapps.com
 dns.kumoumi.net
@@ -143,7 +140,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -204,6 +200,7 @@ doh.978159.xyz
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.doh.my.id
@@ -281,6 +278,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -321,7 +319,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
