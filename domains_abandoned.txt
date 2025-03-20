@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-20 01:18:53
+# updated at 2025-03-20 12:38:38
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -110,7 +110,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -140,6 +139,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -151,6 +151,7 @@ dns.pnh.my.id
 dns.post-factum.tk
 dns.privado.ovh
 dns.privilab.net
+dns.pumpkinvrar.com
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
@@ -235,6 +236,7 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
+dot.360.cn
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
@@ -262,6 +264,7 @@ gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -278,7 +281,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
