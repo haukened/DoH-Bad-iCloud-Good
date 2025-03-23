@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-23 01:25:19
+# updated at 2025-03-23 12:37:54
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,6 +9,7 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
+adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adg.yybyy.wiki
@@ -42,7 +43,6 @@ ag.hostme.co.il
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-arashi.net.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -139,9 +139,11 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
+dns.novali.date
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
@@ -153,7 +155,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.theres.one
@@ -235,6 +236,7 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
+dot.360.cn
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
@@ -262,7 +264,6 @@ gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -320,7 +321,6 @@ osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -344,7 +344,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tungdnsne.duckdns.org
 tx.teradns.org

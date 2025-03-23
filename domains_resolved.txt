@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-23 01:25:19
+# updated at 2025-03-23 12:37:54
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -129,6 +128,7 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
+arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 asia.tri-dns.net
@@ -536,7 +536,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -556,7 +555,6 @@ dns.ningkelle.id
 dns.njal.la
 dns.nodoa.me
 dns.norvig.dk
-dns.novali.date
 dns.novg.net
 dns.npe.bz
 dns.npsolution.it
@@ -630,6 +628,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -901,7 +900,6 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
-dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
@@ -1019,6 +1017,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1275,6 +1274,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1407,6 +1407,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
