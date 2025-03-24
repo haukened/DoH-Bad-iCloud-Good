@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-24 01:22:55
+# updated at 2025-03-24 12:42:03
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -46,6 +46,7 @@ adg.geili.me
 adg.jnorton.us
 adg.khon.dev
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.abd.ong
@@ -126,6 +127,7 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
+arashi.eu.org
 arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
@@ -534,6 +536,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -627,7 +630,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -663,7 +665,6 @@ dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
 dns.thiz.top
-dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
@@ -1218,7 +1219,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1407,8 +1407,8 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
@@ -1471,7 +1471,6 @@ www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
 wyx.cloud
-xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
