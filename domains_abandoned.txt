@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-24 12:42:03
+# updated at 2025-03-25 01:20:45
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -55,6 +55,7 @@ bigora2.vuhai.de
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
+cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -139,6 +140,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -153,7 +155,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.theres.one
@@ -316,16 +317,13 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
-sdns22.gkonuralp.com
 secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
@@ -344,7 +342,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
