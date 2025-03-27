@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-27 01:21:14
+# updated at 2025-03-27 12:40:16
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -23,6 +23,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
@@ -59,7 +60,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -139,6 +139,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -257,6 +258,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
@@ -316,6 +318,7 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -361,7 +364,7 @@ wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
-www.pukanuragan.ru
+www.zburger.top
 xbcpb668.com
 xorbiadns.com
 ycg01.dnscry.pt

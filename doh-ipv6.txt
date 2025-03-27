@@ -8,7 +8,7 @@
 2001:19f0:5801:b7c::1                    # doh.eastau.pi-dns.com dot.eastau.pi-dns.com
 2001:19f0:5:3bd7:5400:4ff:fe05:da83      # kronos.plan9-dns.com
 2001:19f0:5:6d5c:5400:2ff:feed:db51      # adguard1.jsanagustin.net
-2001:19f0:5c00:1819:ae1f:6bff:fef5:ff3a  # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2001:19f0:5c00:1819:ae1f:6bff:fef5:ff3a  # chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2001:19f0:7001:225d::1                   # doh.eastas.pi-dns.com dot.eastas.pi-dns.com
 2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0    # dns.fullaccesstointernet.jp.eu.org
 2001:19f0:7400:13c7:5400:5ff:fe40:d1ad   # resolver.dnsprivacy.org.uk
@@ -63,7 +63,7 @@
 2001:4ca0:200:3:200:5efe:8d54:4502       # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d       # muli.stusta.mhn.de
 2001:550:5a00:5eb::db5:f001              # rdu01.dnscry.pt
-2001:558:fd02:2499::5                    # doh.xfinity.com doh2.gslb2.xfinity.com
+2001:558:fd02:2499::3                    # doh.xfinity.com doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145          # dot.xfinity.com
 2001:578:3f::30                          # doh.cox.net dot.cox.net
 2001:610:1:40ba:145:100:185:15           # dnsovertls.sinodun.com
@@ -111,7 +111,7 @@
 2001:8d8:820:3a00::b:c47                 # dns2.dns-ga.de doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:4151:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:56c1:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu
 2001:a60::53:1                           # dns.mnet-online.de
 2001:a60::53:2                           # dns.mnet-online.de
@@ -130,8 +130,8 @@
 2001:df2:d40:17::baba                    # isb01.dnscry.pt
 2001:df4:1840:9f::a                      # jhb01.dnscry.pt
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
-2003:180:2:1000:0:4:0:53                 # dns.telekom.de
 2003:180:2:8100:0:4:0:53                 # dns.telekom.de
+2003:180:2::4:0:53                       # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:37f:ef4f::1                       # dns.faked.org
@@ -186,7 +186,6 @@
 2406:da14:db4:984e:6261:5482:7918:bef2   # farewellkou.click
 2406:da1a:1b5:d610:89b3:1adf:c159:a35e   # pihole.aws.ketan.dev
 2406:ef80:2:8f28::1                      # sg.teradns.org
-2407:0:3006:243a::1                      # gustamadh.dynv6.net
 2407:24c0:2::154:3                       # dns.gi.co.id
 2407:3640:2205:1668::1                   # dot-sg.blahdns.com
 2407:3640:2238:5447::1                   # asia.tri-dns.net
@@ -239,14 +238,14 @@
 2600:4c00:80:8::a                        # atl01.dnscry.pt
 2600:6c7f:f000:202::7                    # doh-01.spectrum.com
 2600:6c7f:f000:202::8                    # doh-02.spectrum.com
-2600:9000:24f8:200:f:5c7a:55c0:93a1      # eth.link
-2600:9000:24f8:3800:f:5c7a:55c0:93a1     # eth.link
-2600:9000:24f8:3e00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:24f8:4000:f:5c7a:55c0:93a1     # eth.link
-2600:9000:24f8:6e00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:24f8:7600:f:5c7a:55c0:93a1     # eth.link
-2600:9000:24f8:9200:f:5c7a:55c0:93a1     # eth.link
-2600:9000:24f8:a000:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:2800:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:3a00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:4600:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:5a00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:6a00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:8a00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:a400:f:5c7a:55c0:93a1     # eth.link
+2600:9000:24d2:b800:f:5c7a:55c0:93a1     # eth.link
 2602:f7f8:2:c::a                         # nyc01.dnscry.pt
 2602:fa67:101:20::a                      # hkg02.dnscry.pt
 2602:fafd:902:20::a                      # lax01.dnscry.pt
@@ -287,6 +286,7 @@
 2603:c022:800e:b67e:1011::               # dns.haka.se
 2603:c023:1:8763:80d6:891:ed34:7b18      # dns.chromeina.top
 2603:c023:7:8700::8888                   # oraclejp2.chungyu.com
+2603:c024:4507:6821:456c:317b:2f25:11bc  # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd   # dns.0ooo.icu
 2603:c024:9:35af:19c7:3532:ac18:f4b9     # dns.moonssif.com
 2603:c024:c012:57ac:ee9d:55c3:e00e:a82d  # hitian.me
@@ -306,7 +306,7 @@
 2604:a880:cad:d0::6c4:5001               # ag.ff0x.ca
 2604:a880:cad:d0::728b:9001              # tri-dns.net
 2604:bf00:210:12::2                      # phl01.dnscry.pt
-2605:380:56:6::1                         # chromium.dns.nextdns.io dns.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
+2605:380:56:6::1                         # chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io
 2605:6400:10:2f:97e1:7e25:76ed:d121      # dns.stevenz.net
 2605:6400:10:80e::1                      # adblock.ny1.dns.nixnet.xyz ny1.nixnet.xyz uncensored.ny1.dns.nixnet.xyz
 2605:6400:20:2258:7acb:91ff:2098:a9      # las01.dnscry.pt
@@ -321,6 +321,7 @@
 2605:e440:27::1:346                      # tlv01.dnscry.pt
 2606:1a40::11                            # family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
 2606:1a40::22                            # dns.controld.com
+2606:4700:130:436c:6f75:6466:6c61:7265   # affcdn.net commons.host dns.pari.network dns.xusqui.com gztech.me
 2606:4700:20::681a:ea7                   # dns.gamban.com
 2606:4700:20::681a:fa7                   # dns.gamban.com
 2606:4700:20::ac43:4b40                  # dns.gamban.com
@@ -362,7 +363,6 @@
 2606:4700:3031::6815:1423                # polisitogel.cruises
 2606:4700:3031::6815:16e2                # alleesph.online
 2606:4700:3031::6815:1e4                 # dns.vod11.xyz
-2606:4700:3031::6815:2e12                # dns.pari.network
 2606:4700:3031::6815:31ea                # basic.bravedns.com bravedns.com free.bravedns.com
 2606:4700:3031::6815:3e9e                # dns.silen.org
 2606:4700:3031::6815:4114                # adguard.sparshbajaj.me
@@ -376,7 +376,6 @@
 2606:4700:3031::6815:5339                # dns.hannielzhang.com
 2606:4700:3031::6815:595c                # family.puredns.org puredns.org
 2606:4700:3031::6815:df1                 # o1.lt
-2606:4700:3031::6815:e15                 # affcdn.net
 2606:4700:3031::6815:fa9                 # dns.240527.xyz
 2606:4700:3031::6815:fd9                 # tecdrive.site
 2606:4700:3031::ac43:8582                # o1.lt
@@ -419,7 +418,6 @@
 2606:4700:3032::ac43:d133                # adguard.frutuozo.com.br
 2606:4700:3032::ac43:d14c                # polisitogel.diy
 2606:4700:3032::ac43:d16b                # pm9352-bd.xyz
-2606:4700:3032::ac43:dbf8                # dns.xusqui.com
 2606:4700:3032::ac43:df4d                # pm7051-br.xyz
 2606:4700:3033::6815:1732                # adguard.frutuozo.com.br
 2606:4700:3033::6815:1e1                 # xn--durhre-yxa.de
@@ -429,7 +427,6 @@
 2606:4700:3033::6815:2bd                 # www.maxfong.cc
 2606:4700:3033::6815:36f7                # lukscasino-929-tr.xyz
 2606:4700:3033::6815:37fa                # dns.hanahira.dev
-2606:4700:3033::6815:3e2d                # dns.xusqui.com
 2606:4700:3033::6815:413a                # loadlow.me
 2606:4700:3033::6815:4672                # 003153.xyz
 2606:4700:3033::6815:48eb                # dns.joaofidelix.com.br
@@ -441,7 +438,6 @@
 2606:4700:3033::6815:a35                 # doh.aaaab3n.moe
 2606:4700:3033::6815:c91                 # mikezhang.xyz
 2606:4700:3033::6815:c99                 # affsoft.cc
-2606:4700:3033::ac43:9522                # gztech.me
 2606:4700:3033::ac43:9869                # dns.vod11.xyz
 2606:4700:3033::ac43:9913                # dns.rabbitdns.org family.rabbitdns.org security.rabbitdns.org
 2606:4700:3033::ac43:9a55                # dns.butterfly87.sbs
@@ -473,14 +469,12 @@
 2606:4700:3034::6815:899                 # lukscasino-542-tr.xyz
 2606:4700:3034::ac43:842c                # affsoft.cc
 2606:4700:3034::ac43:86bb                # dns.tryk.app
-2606:4700:3034::ac43:8ba4                # commons.host
 2606:4700:3034::ac43:8d85                # virga.pp.ua
 2606:4700:3034::ac43:988a                # mikezhang.xyz
 2606:4700:3034::ac43:a3a1                # squidmall.vip
 2606:4700:3034::ac43:abd3                # bestwon203.com
 2606:4700:3034::ac43:aed2                # dns.hanahira.dev
 2606:4700:3034::ac43:bad8                # polisitogel.contractors
-2606:4700:3034::ac43:ca35                # affcdn.net
 2606:4700:3034::ac43:ce94                # myatris.sbs
 2606:4700:3034::ac43:d54c                # polisitogel.accountant
 2606:4700:3034::ac43:d82e                # dns.lista.my.id
@@ -517,7 +511,6 @@
 2606:4700:3035::ac43:d6e3                # dns.rayanbab.com
 2606:4700:3035::ac43:d84d                # adguard.twotigers.xyz
 2606:4700:3035::ac43:de7e                # takhtakh.domyah.net
-2606:4700:3036::6815:210e                # commons.host
 2606:4700:3036::6815:27e8                # bestwon203.com
 2606:4700:3036::6815:36aa                # dns.xlion.tw
 2606:4700:3036::6815:3d77                # dns.f97.xyz
@@ -549,7 +542,6 @@
 2606:4700:3037::6815:3191                # darya.persiannit.net
 2606:4700:3037::6815:334c                # guard.sntrk.ru
 2606:4700:3037::6815:3640                # polisitogel.webcam
-2606:4700:3037::6815:3790                # gztech.me
 2606:4700:3037::6815:4186                # squidmall.vip
 2606:4700:3037::6815:41d5                # 3dcosas.xyz
 2606:4700:3037::6815:4663                # takhtakh.domyah.net
@@ -578,7 +570,6 @@
 2606:4700:3037::ac43:d7d6                # doh.battle.christmas
 2606:4700:3037::ac43:d9c8                # tuskythehusky.tech
 2606:4700:3037::ac43:dbda                # mabuktogel.enterprises
-2606:4700:3037::ac43:de8b                # dns.pari.network
 2606:4700:3108::ac42:2859                # ns.mtsoln.com
 2606:4700:3108::ac42:2884                # dns.dallinbryce.com
 2606:4700:3108::ac42:2890                # comss.ru
