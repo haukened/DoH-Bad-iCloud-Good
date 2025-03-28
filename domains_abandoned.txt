@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-03-28 01:21:51
+# updated at 2025-03-28 12:42:44
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -22,6 +22,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -90,11 +91,11 @@ dns.carter.me
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
+dns.chunghwamc.com
 dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.cybershell.xyz
-dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnssilo.top
 dns.doh.best
@@ -108,7 +109,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -116,6 +116,7 @@ dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
+dns.hshoe.cn
 dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
@@ -199,6 +200,7 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
+doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
 doh.excdn.eu.org
@@ -206,6 +208,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
+doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
@@ -276,6 +279,7 @@ jp.rslvr.eu
 jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -315,6 +319,7 @@ osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -338,6 +343,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
