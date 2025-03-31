@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-03-30 12:35:51
+# updated at 2025-03-31 01:24:05
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -183,6 +183,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
+cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -385,7 +386,6 @@ dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -702,6 +702,7 @@ dns.wibenson.cloud
 dns.xlion.tw
 dns.xuming.studio
 dns.xusqui.com
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -1024,7 +1025,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
