@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-01 01:31:11
+# updated at 2025-04-01 12:44:09
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -386,6 +385,7 @@ dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -632,7 +632,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1028,7 +1027,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1071,7 +1069,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1229,7 +1226,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1390,6 +1386,7 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
@@ -1421,7 +1418,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
@@ -1480,7 +1476,6 @@ www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
-www.pukanuragan.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
