@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-01 12:44:09
+# updated at 2025-04-02 01:23:01
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -160,7 +160,6 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
-blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -538,7 +537,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -632,6 +630,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1027,6 +1026,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1069,6 +1069,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1226,6 +1227,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1416,7 +1418,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
