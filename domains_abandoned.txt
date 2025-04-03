@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-03 01:22:22
+# updated at 2025-04-03 12:41:03
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -110,7 +110,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -138,6 +137,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -152,7 +152,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.theres.one
@@ -207,7 +206,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
-doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
@@ -272,9 +270,9 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -282,6 +280,7 @@ lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
+mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
@@ -328,7 +327,6 @@ sg.yepdns.com
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
-sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
 switzerland.privacy-dns.pw
@@ -338,7 +336,9 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
