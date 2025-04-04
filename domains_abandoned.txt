@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-03 12:41:03
+# updated at 2025-04-04 01:21:52
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,6 +9,7 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
+adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adguard-dns.rouga.ch
@@ -57,6 +58,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -270,6 +272,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 krtekvpn.duckdns.org
@@ -280,7 +283,6 @@ lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
-mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
@@ -313,7 +315,6 @@ osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
