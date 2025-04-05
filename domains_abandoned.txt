@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-05 01:21:20
+# updated at 2025-04-05 12:37:00
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -10,7 +10,6 @@ ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
 adfiltro.fun
-adg.rueiliu.space
 adg.tshost.no
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -23,6 +22,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -40,6 +40,7 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.net.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -241,7 +242,6 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
-ea-dns.rubyfish.cn
 ecs-doh.dnswarden.com
 edns.233py.com
 elshad-adgh-dns.ru
@@ -251,6 +251,7 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+gclouddns.com
 greatideasforlife.lol
 groupy.ga
 ha.o51r15.com
@@ -274,6 +275,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -310,11 +312,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
