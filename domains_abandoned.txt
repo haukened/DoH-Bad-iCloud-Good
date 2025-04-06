@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-05 12:37:00
+# updated at 2025-04-06 01:26:32
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -40,17 +40,16 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-arashi.net.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
-axaxa.fun
 b-ii.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
+blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 cdn.0ms.dev
@@ -201,6 +200,7 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
+doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
 doh.excdn.eu.org
@@ -257,6 +257,7 @@ groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -312,6 +313,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
@@ -321,7 +323,6 @@ resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
-securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
@@ -338,7 +339,9 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

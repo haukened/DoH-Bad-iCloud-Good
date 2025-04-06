@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-05 12:37:00
+# updated at 2025-04-06 01:26:32
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -131,6 +131,7 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
+arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 asia.tri-dns.net
@@ -143,6 +144,7 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -159,7 +161,6 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
-blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -800,7 +801,6 @@ doh.cleanbrowsing.org
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
-doh.datacore.ch
 doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
@@ -1024,7 +1024,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1223,7 +1222,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1350,6 +1348,7 @@ secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
+securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
@@ -1413,9 +1412,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
