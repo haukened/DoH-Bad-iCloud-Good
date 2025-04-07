@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-07 01:23:50
+# updated at 2025-04-07 12:44:04
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -132,7 +132,6 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
-arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 asia.tri-dns.net
@@ -541,7 +540,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -586,6 +584,7 @@ dns.petqa.ru
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns.pizzari.me
+dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
@@ -1089,7 +1088,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1228,7 +1226,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1422,7 +1419,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
