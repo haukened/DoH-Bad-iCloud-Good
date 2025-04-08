@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-07 12:44:04
+# updated at 2025-04-08 01:21:58
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -132,6 +131,7 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
+arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 asia.tri-dns.net
@@ -183,7 +183,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -779,7 +778,6 @@ doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.774445.xyz
 doh.aaaab3n.moe
@@ -1226,6 +1224,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1417,7 +1416,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
