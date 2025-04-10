@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-10 01:21:54
+# updated at 2025-04-10 12:42:05
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -55,6 +55,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -124,6 +125,7 @@ dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
+dns.islandnet.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
@@ -266,6 +268,7 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jit.ddns.net
+johneldenring.lol
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
@@ -313,6 +316,7 @@ osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
