@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-12 01:21:40
+# updated at 2025-04-12 12:37:50
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -65,7 +64,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -247,7 +245,6 @@ dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
-dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -542,7 +539,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -559,6 +555,7 @@ dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
 dns.ningkelle.id
+dns.njal.la
 dns.nodoa.me
 dns.norvig.dk
 dns.novali.date
@@ -638,6 +635,7 @@ dns.silen.org
 dns.silentlybren.com
 dns.sindominio.net
 dns.sitdns.com
+dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
@@ -836,6 +834,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1069,7 +1068,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
+justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
 keithchung.hopto.org
@@ -1086,7 +1085,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
