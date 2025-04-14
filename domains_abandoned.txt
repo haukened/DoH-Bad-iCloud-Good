@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-13 12:39:03
+# updated at 2025-04-14 01:24:33
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,6 +9,7 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
+adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adguard-dns.rouga.ch
@@ -21,7 +22,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -32,6 +32,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
+adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
 ag.hostme.co.il
@@ -85,6 +86,7 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
+dns.burgas.pro
 dns.bw.i81.ru
 dns.carter.me
 dns.cfiec.net
@@ -136,6 +138,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -146,7 +149,6 @@ dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.privado.ovh
 dns.privilab.net
-dns.pumpkinvrar.com
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
@@ -205,6 +207,7 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -269,7 +272,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -307,11 +309,9 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
