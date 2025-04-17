@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-17 01:22:03
+# updated at 2025-04-17 12:41:00
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -65,6 +65,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -183,7 +184,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -385,6 +385,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.ellichua.com
@@ -402,6 +403,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -536,7 +538,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -588,6 +589,7 @@ dns.princex.net
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
+dns.pumpkinvrar.com
 dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
@@ -630,7 +632,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1032,6 +1033,7 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hungary.privacy-dns.pw
+hydra.plan9-ns1.com
 i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
