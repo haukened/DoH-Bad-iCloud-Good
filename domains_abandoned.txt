@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-18 01:22:20
+# updated at 2025-04-18 12:40:41
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -106,6 +106,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
+dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -154,7 +155,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.theres.one
@@ -258,6 +258,7 @@ groupy.ga
 gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -281,7 +282,6 @@ lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
-mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
@@ -311,10 +311,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -336,6 +336,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
