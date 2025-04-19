@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-18 12:40:41
+# updated at 2025-04-19 01:20:11
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -21,7 +21,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -56,6 +55,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -132,6 +132,7 @@ dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
 dns.kumoumi.net
+dns.labnekotest.site
 dns.learningman.top
 dns.lightmaster.pw
 dns.lsho.top
@@ -255,10 +256,8 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -314,7 +313,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -336,7 +334,6 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
