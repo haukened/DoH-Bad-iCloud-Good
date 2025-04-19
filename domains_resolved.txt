@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-19 01:20:11
+# updated at 2025-04-19 12:37:11
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -184,6 +184,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
+cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -244,7 +245,6 @@ dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
-dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -385,6 +385,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -804,7 +805,6 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
-doh.dns-ga.de
 doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
