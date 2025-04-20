@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-20 01:27:40
+# updated at 2025-04-20 12:39:02
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -39,6 +39,7 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -105,7 +106,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -180,6 +180,7 @@ dns1.nielsdb.be
 dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
+dns2.cbio.top
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
@@ -211,7 +212,6 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -257,9 +257,9 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -315,6 +315,7 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+res-acst2.absolight.net
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -335,7 +336,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
