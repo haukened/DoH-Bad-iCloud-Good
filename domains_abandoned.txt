@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-19 12:37:11
+# updated at 2025-04-20 01:27:40
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -105,6 +105,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -141,7 +142,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -152,6 +152,7 @@ dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.privado.ovh
 dns.privilab.net
+dns.pumpkinvrar.com
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
@@ -202,7 +203,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
-doh.dns-ga.de
 doh.doh.my.id
 doh.es.ahadns.net
 doh.excdn.eu.org
@@ -211,6 +211,7 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -256,6 +257,7 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hydroxlab.ru.com
@@ -333,6 +335,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
@@ -356,6 +359,7 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xbcpb668.com
+xmr.land
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
