@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-20 12:39:02
+# updated at 2025-04-21 01:26:13
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -39,7 +39,6 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-arashi.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -106,6 +105,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -142,6 +142,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -152,10 +153,10 @@ dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.privado.ovh
 dns.privilab.net
-dns.pumpkinvrar.com
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.theres.one
@@ -180,7 +181,6 @@ dns1.nielsdb.be
 dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
-dns2.cbio.top
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
@@ -257,9 +257,9 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -313,9 +313,9 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 pope.cnblw.me
-res-acst2.absolight.net
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -327,6 +327,7 @@ sg.rslvr.eu
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+sukidayo.eu.org
 surt.ml
 sweden.privacy-dns.pw
 switzerland.privacy-dns.pw

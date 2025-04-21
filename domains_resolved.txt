@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-20 12:39:02
+# updated at 2025-04-21 01:26:13
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -131,6 +131,7 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
+arashi.eu.org
 arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
@@ -384,7 +385,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -534,7 +534,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -586,6 +585,7 @@ dns.princex.net
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
+dns.pumpkinvrar.com
 dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
@@ -628,7 +628,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -727,6 +726,7 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
+dns2.cbio.top
 dns2.digitale-gesellschaft.ch
 dns2.dns-ga.de
 dns2.guidocioni.it
@@ -1002,7 +1002,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1023,6 +1022,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1233,7 +1233,6 @@ par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1297,6 +1296,7 @@ rdu01.dnscry.pt
 regiopolis.cloud
 renardbleu.dev
 res-acst1.absolight.net
+res-acst2.absolight.net
 res-acst3.absolight.net
 resolv.flokinet.net
 resolv1.trash.net
@@ -1386,7 +1386,6 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
-sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
