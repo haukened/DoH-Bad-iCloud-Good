@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-21 01:26:13
+# updated at 2025-04-21 12:40:10
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -401,6 +401,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -628,6 +629,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1002,6 +1004,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1386,6 +1389,7 @@ sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
