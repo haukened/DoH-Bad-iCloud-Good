@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-22 01:24:18
+# updated at 2025-04-22 12:41:17
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -21,6 +21,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -48,6 +49,7 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
+blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 cdn.0ms.dev
@@ -220,7 +222,6 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
-doh.ntu.ssooss.win
 doh.ny.ahadns.net
 doh.pi-dns.com
 doh.pl.ahadns.net
@@ -237,7 +238,6 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
-dot.360.cn
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
@@ -259,8 +259,10 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -276,8 +278,10 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -302,7 +306,6 @@ nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 ns.lov.host
-ns.trcnet.fi
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns1.dotls.org
@@ -339,6 +342,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
