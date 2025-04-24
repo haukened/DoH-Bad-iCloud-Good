@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-24 01:25:34
+# updated at 2025-04-24 12:42:56
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -21,7 +21,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -56,7 +55,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -107,6 +105,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -157,7 +156,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.surfshark.com
 dns.theres.one
@@ -259,6 +257,7 @@ gclouddns.com
 greatideasforlife.lol
 groupy.ga
 ha.o51r15.com
+hfgx.shop
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com
@@ -275,14 +274,17 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
+mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
@@ -316,7 +318,6 @@ osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -339,6 +340,7 @@ tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

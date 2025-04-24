@@ -67,7 +67,7 @@
 2001:550:2:6f::f3:2                      # doh1.b-cdn.net doh1.blahdns.com doh2.b-cdn.net doh2.blahdns.com
 2001:550:5a00:5eb::db5:f001              # rdu01.dnscry.pt
 2001:558:fe21:6b:96:113:151:145          # dot.xfinity.com
-2001:558:feed:443::197                   # doh.xfinity.com doh2.gslb2.xfinity.com
+2001:558:feed:443::198                   # doh.xfinity.com doh2.gslb2.xfinity.com
 2001:578:3f::30                          # doh.cox.net dot.cox.net
 2001:610:1:40ba:145:100:185:15           # dnsovertls.sinodun.com
 2001:610:1:40ba:145:100:185:16           # dnsovertls1.sinodun.com
@@ -112,7 +112,7 @@
 2001:8d8:820:3a00::b:c47                 # dns2.dns-ga.de doh.dns-ga.de secure-dns.dns-ga.de
 2001:910:800::12                         # ns0.fdn.fr
 2001:910:800::40                         # ns1.fdn.fr
-2001:9e8:4003:cc07:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:e3c6:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                           # dnspub.restena.lu
 2001:a60::53:1                           # dns.mnet-online.de
 2001:a60::53:2                           # dns.mnet-online.de
@@ -132,7 +132,7 @@
 2001:df4:1840:9f::a                      # jhb01.dnscry.pt
 2001:e68:5040:a7da:d8e7:f548:508b:6346   # fwgw.orangepipc.mywire.org
 2003:180:2:1000:0:4:0:53                 # dns.telekom.de
-2003:180:2:b000:0:4:0:53                 # dns.telekom.de
+2003:180:2:4000:0:4:0:53                 # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                 # dns.t53.de
 2003:5f:c010:1:212:185:200:25            # dns1.conne.net
 2003:a:37f:ef4f::1                       # dns.faked.org
@@ -191,7 +191,6 @@
 2406:da14:db4:984e:6261:5482:7918:bef2   # farewellkou.click
 2406:da1a:1b5:d610:89b3:1adf:c159:a35e   # pihole.aws.ketan.dev
 2406:ef80:2:8f28::1                      # sg.teradns.org
-2407:0:3006:207d::1                      # gustamadh.dynv6.net
 2407:24c0:2::154:3                       # dns.gi.co.id
 2407:3640:2205:1668::1                   # dot-sg.blahdns.com
 2407:3640:2238:5447::1                   # asia.tri-dns.net
@@ -244,14 +243,14 @@
 2600:4c00:80:8::a                        # atl01.dnscry.pt
 2600:6c7f:f000:202::7                    # doh-01.spectrum.com
 2600:6c7f:f000:202::8                    # doh-02.spectrum.com
-2600:9000:28a3:1c00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:28a3:5c00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:28a3:6400:f:5c7a:55c0:93a1     # eth.link
-2600:9000:28a3:6a00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:28a3:7400:f:5c7a:55c0:93a1     # eth.link
-2600:9000:28a3:9200:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:5800:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:8000:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:800:f:5c7a:55c0:93a1      # eth.link
+2600:9000:28a3:a600:f:5c7a:55c0:93a1     # eth.link
 2600:9000:28a3:c200:f:5c7a:55c0:93a1     # eth.link
-2600:9000:28a3:c600:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:c400:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:e400:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:f000:f:5c7a:55c0:93a1     # eth.link
 2602:f7f8:2:c::a                         # nyc01.dnscry.pt
 2602:fa67:101:20::a                      # hkg02.dnscry.pt
 2602:fafd:902:20::a                      # lax01.dnscry.pt
