@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-25 01:24:10
+# updated at 2025-04-25 12:42:07
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -49,12 +49,14 @@ berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
 buc-m2.illmods.com
+ca-yyc.doh.sb
 canadianshield.cira.ca
 cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -112,7 +114,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -142,6 +143,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -156,7 +158,6 @@ dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
-dns.surfshark.com
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
@@ -246,6 +247,7 @@ dot.occ.top
 dot.pl.ahadns.net
 ecs-doh.dnswarden.com
 edns.233py.com
+eliatofani.ovh
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -276,9 +278,9 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -314,10 +316,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -340,6 +342,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
