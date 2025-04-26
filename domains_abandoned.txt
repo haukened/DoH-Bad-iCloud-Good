@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-26 01:21:30
+# updated at 2025-04-26 12:38:00
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -21,6 +21,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -49,7 +50,6 @@ berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
 buc-m2.illmods.com
-ca-yyc.doh.sb
 canadianshield.cira.ca
 cdn.0ms.dev
 chandr1000.net
@@ -82,6 +82,7 @@ dns.aerro.in
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
+dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -106,14 +107,12 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -157,7 +156,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
@@ -197,6 +195,7 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
+doh.360.cn
 doh.978159.xyz
 doh.abmb.win
 doh.au.ahadns.net
@@ -278,6 +277,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 krtekvpn.duckdns.org
@@ -316,10 +316,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
