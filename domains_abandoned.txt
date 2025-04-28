@@ -1,7 +1,8 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-27 12:37:40
+# updated at 2025-04-28 01:25:45
 052419.xyz
 1.xhr0no.my
+3jjxxl.tech
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -9,7 +10,6 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
-adblock.krctech.dev
 adfiltro.fun
 adg.tshost.no
 adguard-dns.rouga.ch
@@ -113,6 +113,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -256,9 +257,11 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -275,9 +278,9 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
