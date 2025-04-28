@@ -1,8 +1,7 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-28 01:25:45
+# updated at 2025-04-28 12:42:01
 052419.xyz
 1.xhr0no.my
-3jjxxl.tech
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -35,6 +34,7 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
+affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -143,6 +143,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -257,7 +258,6 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -316,10 +316,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
