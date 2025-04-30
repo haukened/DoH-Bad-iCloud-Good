@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-30 01:25:37
+# updated at 2025-04-30 12:41:41
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -183,6 +183,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
+cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -383,6 +384,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -399,7 +401,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1001,7 +1002,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1021,7 +1021,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1139,7 +1138,6 @@ mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
-moamao.shop
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1222,6 +1220,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1278,7 +1277,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
-punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1413,7 +1411,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com

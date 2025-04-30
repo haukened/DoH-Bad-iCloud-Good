@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-04-30 01:25:37
+# updated at 2025-04-30 12:41:41
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -56,7 +56,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -107,13 +106,13 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -258,9 +257,11 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -290,6 +291,7 @@ michelo.line.pm
 miniapp.global
 mita-is.so-gorgeo.us.kg
 mnrv.trade
+moamao.shop
 myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
@@ -314,10 +316,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -339,6 +341,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tungdnsne.duckdns.org
 tx.teradns.org
