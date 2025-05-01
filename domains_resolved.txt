@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-04-30 12:41:41
+# updated at 2025-05-01 01:31:38
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -65,7 +65,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -342,6 +341,7 @@ dns.comff.net
 dns.comss.one
 dns.connect.fail
 dns.controld.com
+dns.cooluc.com
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csa-rz.de
@@ -360,7 +360,6 @@ dns.dallinbryce.com
 dns.datenquark.de
 dns.david888.com
 dns.daw.dev
-dns.de.futuredns.eu.org
 dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
@@ -1063,7 +1062,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1081,7 +1079,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1277,6 +1274,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1411,6 +1409,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
