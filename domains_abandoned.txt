@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-05-02 01:24:17
+# updated at 2025-05-02 12:41:25
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -49,6 +49,7 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
+blog.kimiblock.top
 buc-m2.illmods.com
 canadianshield.cira.ca
 cdn.0ms.dev
@@ -111,7 +112,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -141,7 +141,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -156,7 +155,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
-dns.simplylinux.ch
 dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
@@ -245,6 +243,7 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
+drs.rustsword.com
 ecs-doh.dnswarden.com
 edns.233py.com
 eliatofani.ovh
