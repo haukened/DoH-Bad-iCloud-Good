@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-03 01:21:50
+# updated at 2025-05-03 12:40:34
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -535,6 +535,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -628,6 +629,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -666,7 +668,6 @@ dns.therifleman.name
 dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
-dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -997,6 +998,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1260,7 +1262,6 @@ polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
-princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -1488,7 +1489,6 @@ yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
-zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
