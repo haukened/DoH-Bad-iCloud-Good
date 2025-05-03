@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-02 12:41:25
+# updated at 2025-05-03 01:21:50
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -161,6 +161,7 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
+blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -401,7 +402,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -535,7 +535,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -629,7 +628,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -714,7 +712,6 @@ dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
-dns1.dns-ga.de
 dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.irumatech.com
@@ -731,14 +728,12 @@ dns12.quad9.net
 dns13.quad9.net
 dns2.cbio.top
 dns2.digitale-gesellschaft.ch
-dns2.dns-ga.de
 dns2.guidocioni.it
 dns2.in-berlin.de
 dns2.klcd.eu
 dns2.nextdns.io
 dns2.nordvpn.com
 dns2.saferbfc.org
-dns3.dns-ga.de
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
