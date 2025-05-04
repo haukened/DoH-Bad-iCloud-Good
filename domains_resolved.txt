@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-03 12:40:34
+# updated at 2025-05-04 01:31:16
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -535,7 +534,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -668,6 +666,7 @@ dns.therifleman.name
 dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
+dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -828,7 +827,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1018,7 +1016,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1218,7 +1215,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1259,9 +1255,9 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.show
 polisitogel.webcam
 pooblet.co.za
+princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -1409,7 +1405,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
@@ -1464,7 +1459,6 @@ waw02.dnscry.pt
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
-www.dltuykfgp.top
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
@@ -1489,6 +1483,7 @@ yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
+zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
