@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-04 12:40:37
+# updated at 2025-05-05 01:27:45
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -182,6 +182,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
+cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -383,6 +384,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -625,9 +627,9 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
-dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
@@ -1057,7 +1059,6 @@ jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
-justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
 keithchung.hopto.org
@@ -1074,6 +1075,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1405,6 +1407,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
