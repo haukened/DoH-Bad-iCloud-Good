@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-05-05 12:42:31
+# updated at 2025-05-06 01:25:08
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -22,7 +22,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -40,6 +39,7 @@ affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -159,6 +159,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
@@ -269,6 +270,7 @@ gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -330,6 +332,7 @@ outdoorchair.us
 please.dontsteal.my.id
 polisitogel.show
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -351,7 +354,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tungdnsne.duckdns.org
 tx.teradns.org
