@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-08 01:26:27
+# updated at 2025-05-08 12:43:15
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -64,6 +64,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -401,7 +402,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -628,6 +628,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -666,7 +667,6 @@ dns.therifleman.name
 dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
-dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -1188,6 +1188,7 @@ ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
+ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
 ny.teradns.org
@@ -1271,6 +1272,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
