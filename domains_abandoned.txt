@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-05-07 12:45:25
+# updated at 2025-05-08 01:26:27
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -9,7 +9,6 @@ aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
-adblock.krctech.dev
 adfiltro.fun
 adg.rueiliu.space
 adg.tshost.no
@@ -23,6 +22,7 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -42,7 +42,6 @@ aihe.app
 alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-arashi.eu.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -89,7 +88,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
-dns.brembeck.cloud
 dns.brono.cloud
 dns.bw.i81.ru
 dns.carter.me
@@ -108,14 +106,12 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -164,7 +160,6 @@ dns.simplylinux.ch
 dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
-dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz
@@ -319,6 +314,7 @@ ns1.dnsprivacy.at
 ns1.dotls.org
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
+ntwrkh.pro
 nue2.moderateinfra.net
 obscuro.top
 odoh-target-noads-se.alekberg.net
@@ -329,6 +325,7 @@ outdoorchair.us
 please.dontsteal.my.id
 polisitogel.show
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
