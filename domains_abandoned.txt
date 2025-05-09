@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-05-08 12:43:15
+# updated at 2025-05-09 01:24:58
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -138,10 +138,10 @@ dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.maolaohei.xyz
+dns.mayx.eu.org
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -159,7 +159,6 @@ dns.salonia.it
 dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
-dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz

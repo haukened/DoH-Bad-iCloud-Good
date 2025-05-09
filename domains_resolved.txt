@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-08 12:43:15
+# updated at 2025-05-09 01:24:58
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -513,7 +513,6 @@ dns.marbledfennec.net
 dns.mateo.ovh
 dns.mathewakhil.online
 dns.maybe.icu
-dns.mayx.eu.org
 dns.mbrjun.cn
 dns.meeo.win
 dns.melvin2204.nl
@@ -535,6 +534,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -667,6 +667,7 @@ dns.therifleman.name
 dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
+dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
