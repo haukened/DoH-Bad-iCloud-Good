@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-09 01:24:58
+# updated at 2025-05-09 12:40:50
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -32,7 +32,6 @@ adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -160,7 +159,6 @@ blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
-blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -209,7 +207,6 @@ d.apemlegit.my.id
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -385,7 +382,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -513,6 +509,7 @@ dns.marbledfennec.net
 dns.mateo.ovh
 dns.mathewakhil.online
 dns.maybe.icu
+dns.mayx.eu.org
 dns.mbrjun.cn
 dns.meeo.win
 dns.melvin2204.nl
@@ -534,7 +531,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -628,7 +624,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
