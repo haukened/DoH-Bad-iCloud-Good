@@ -1,5 +1,5 @@
 # domains processed into block list
-# updated at 2025-05-10 01:22:35
+# updated at 2025-05-10 12:39:39
 003153.xyz
 0ms.dev
 1.dns.noridev.moe
@@ -361,7 +361,6 @@ dns.dallinbryce.com
 dns.datenquark.de
 dns.david888.com
 dns.daw.dev
-dns.de.futuredns.eu.org
 dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
@@ -402,7 +401,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -536,6 +534,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -568,7 +567,6 @@ dns.opendns.com
 dns.oszx.co
 dns.ours.luxe
 dns.ourvau.lt
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
@@ -629,7 +627,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -680,7 +677,6 @@ dns.unx.io
 dns.uplenk.com
 dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
-dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
@@ -1018,7 +1014,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1142,7 +1137,6 @@ mru01.dnscry.pt
 msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
-multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
 n0.eu
@@ -1174,6 +1168,7 @@ ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
+ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.4netguides.org
 ns2.flodns.net
@@ -1217,7 +1212,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1408,7 +1402,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech

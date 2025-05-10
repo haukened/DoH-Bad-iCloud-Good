@@ -1,5 +1,5 @@
 # unresolved domains, presumed abandoned
-# updated at 2025-05-10 01:22:35
+# updated at 2025-05-10 12:39:39
 052419.xyz
 1.xhr0no.my
 89433332.xyz
@@ -97,6 +97,7 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
+dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnssilo.top
 dns.doh.best
@@ -111,6 +112,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -140,13 +142,13 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
+dns.ovpn.bond
 dns.pernika.net
 dns.pesaventofilippo.com
 dns.post-factum.tk
@@ -155,11 +157,13 @@ dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
+dns.simplylinux.ch
 dns.siry.de
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.tryk.app
+dns.us.futuredns.eu.org
 dns.vip-kingstore.xyz
 dns.vojtat.cz
 dns.wakgood.net
@@ -264,6 +268,7 @@ gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -294,6 +299,7 @@ miniapp.global
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
+multi.dns.marbledfennec.net
 myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
@@ -310,7 +316,6 @@ ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns1.dotls.org
-ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 nue2.moderateinfra.net
@@ -319,6 +324,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 polisitogel.show
@@ -344,6 +350,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
